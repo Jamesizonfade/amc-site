@@ -205,9 +205,6 @@ a:hover {
 }
 
 @media screen and (max-width: 766px) {
-  .part-img {
-    margin-top: -3em !important;
-  }
   .mt-sm {
     margin-top: 50px !important;
   }
