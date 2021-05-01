@@ -1,0 +1,47 @@
+[
+  {
+    "image": "/img/infrastructure/road.png",
+    "title": "Paved Road Networks",
+    "desc": "You have your dual lane drive way to allow for ease of entry and exit in and out of the city"
+  },
+  {
+    "image": "/img/infrastructure/water.png",
+    "title": "Treated Water Supply",
+    "desc": "The City provides running water which comes from a central treatment source"
+  },
+  {
+    "image": "/img/infrastructure/drainage.png",
+    "title": "Storm Water Drainage System",
+    "desc": "The City's properly planned drainage system keeps it completely flood free"
+  },
+  {
+    "image": "/img/infrastructure/street-light.png",
+    "title": "Street Light",
+    "desc": "Drive way is fully illuminated at night with lasting solar-powered street lights"
+  },
+  {
+    "image": "/img/infrastructure/access-control.png",
+    "title": "Automated Access Control",
+    "desc": "All door-based accesses to the City buildings are secured with biometric technologies"
+  },
+  {
+    "image": "/img/infrastructure/fibre-optic.png",
+    "title": "Fibre Optics Infrastructure",
+    "desc": "Strengthened high-frequency internet access made possible the City's Fibre optics cable installations"
+  },
+  {
+    "image": "/img/infrastructure/surveillance.png",
+    "title": "24/7 CCTV Surveillance",
+    "desc": "Security cameras for surveillance of the City"
+  },
+  {
+    "image": "/img/infrastructure/power.png",
+    "title": "Constant Power Supply",
+    "desc": "24/7 power supply"
+  },
+  {
+    "image": "/img/infrastructure/park.png",
+    "title": "Recreational Parks and Amenities",
+    "desc": "Beautiful recreational Park for both adults and children."
+  }
+]

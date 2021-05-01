@@ -1,0 +1,22 @@
+[
+  {
+    "img_path": "img/slider/slider1.png",
+    "title": "City Entrance View"
+  },
+  {
+    "img_path": "img/slider/slider2.png",
+    "title": "Entrance Sculpture View"
+  },
+  {
+    "img_path": "img/slider/slider3.png",
+    "title": "Private Enclave Mansions"
+  },
+  {
+    "img_path": "img/slider/slider4.png",
+    "title": "Medical Facility"
+  },
+  {
+    "img_path": "img/slider/slider5.png",
+    "title": "School"
+  }
+]
