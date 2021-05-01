@@ -50,6 +50,7 @@ const Home = () => {
                   src="img/side-img.png"
                   className="position-relative extra-rounded-border shadow-primary z-index-9 mt-30-xs"
                   alt="img"
+                  style={{ width: "100%" }}
                 />
               </div>
             </div>
