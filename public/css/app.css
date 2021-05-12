@@ -219,6 +219,24 @@ a:hover {
   line-height: 1.5;
 }
 
+.section-backdrop {
+  background-image: url("/img/backdrop.jpg") !important;
+}
+
+.overlay-clr {
+  background-color: #222222ed !important;
+}
+
+.customizable-carousel .owl-prev,
+.customizable-carousel .owl-next {
+  background-color: #0000001c !important;
+}
+
+.owl-prev > i,
+.owl-next > i {
+  line-height: 18px !important;
+}
+
 @media screen and (max-width: 766px) {
   .mt-sm {
     margin-top: 50px !important;

@@ -1,10 +1,9 @@
 import { Banner } from "../../component/Banner";
 import { Layout } from "../../component/Layout";
-import { Partners } from "../../component/Partners";
 import { TwoBedroom } from "../../component/TwoBedroomSlide";
-import fourBedroomD from "../../data/4BedroomBuildingD.json";
-import fourBedroomT from "../../data/4BedroomBuildingT.json";
-import fiveBedroom from "../../data/5BedroomBuilding.json";
+import { FourBedroomDetached } from "../../component/FourBedroomDSlide";
+import { FourBedroomTerrace } from "../../component/FourBedroomTSlide";
+import { FiveBedroom } from "../../component/FiveBedroomSlide";
 
 const About = () => {
   return (
@@ -519,8 +518,14 @@ const About = () => {
       {/* Two Bedroom Apartment Buildings */}
       <TwoBedroom />
 
-      {/* Our Partners */}
-      <Partners />
+      {/* Four Bedroom Detached Duplex */}
+      <FourBedroomDetached />
+
+      {/* Four Bedroom Terrace Houses */}
+      <FourBedroomTerrace />
+
+      {/* Five Bedroom Villa */}
+      <FiveBedroom />
     </Layout>
   );
 };
