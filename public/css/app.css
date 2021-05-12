@@ -9,6 +9,10 @@ p {
   color: #ece9e1 !important;
 }
 
+.bg-primary-light {
+  background-color: #fff9e8 !important;
+}
+
 .button-primary,
 .section-heading-line {
   background: #ffba00;
@@ -81,7 +85,7 @@ a:hover {
 }
 
 .section-block-parallax {
-  background-image: url("/img/banner.png") !important;
+  background-image: url("/img/banner-main.png") !important;
 }
 
 .socials a i {
@@ -204,6 +208,17 @@ a:hover {
   overflow: hidden;
 }
 
+.icon-sm {
+  float: left !important;
+}
+
+.icon-text {
+  display: inline-block !important;
+  width: 80% !important;
+  font-weight: bold !important;
+  line-height: 1.5;
+}
+
 @media screen and (max-width: 766px) {
   .mt-sm {
     margin-top: 50px !important;
@@ -221,5 +236,9 @@ a:hover {
   .team-box-3-info {
     width: 80%;
     margin-left: 0;
+  }
+
+  .breadcrumb-section {
+    background-image: url("/img/banner-mobile.png") !important;
   }
 }

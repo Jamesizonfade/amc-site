@@ -12,7 +12,7 @@ const Home = () => {
         <Slider />
 
         {/*About Awka Millennium City */}
-        <div className="section-block grey-bg background-shape-3 mb-5">
+        <div className="section-block grey-bg background-shape-3">
           <div className="container">
             <div className="row">
               {/* Statement */}
