@@ -252,6 +252,16 @@ a:hover {
   padding: 20px !important;
 }
 
+.property-card {
+  background-color: #f6ecd2 !important;
+  padding: 20px !important;
+}
+
+.property-card:hover {
+  background-color: #fae09a !important;
+  transition: all 0.2s ease-in !important;
+}
+
 @media screen and (max-width: 766px) {
   .mt-sm {
     margin-top: 50px !important;

@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Individual Form",
+    "img": "/img/own-a-property/person-form.png",
+    "url": "/documents/individual-form.pdf"
+  },
+  {
+    "title": "Corporate Form",
+    "img": "/img/own-a-property/corporate-form.png",
+    "url": "/documents/corporate-form.pdf"
+  },
+  {
+    "title": "Download Brochure",
+    "img": "/img/own-a-property/brochure-download.png",
+    "url": "/documents/brochure-download.pdf"
+  },
+  {
+    "title": "Price Schedule",
+    "img": "/img/own-a-property/price-schedule.png",
+    "url": "/documents/price-schedule.pdf"
+  }
+]
