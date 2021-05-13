@@ -249,6 +249,7 @@ a:hover {
 
 .project-img {
   width: 100% !important;
+  padding: 20px !important;
 }
 
 @media screen and (max-width: 766px) {

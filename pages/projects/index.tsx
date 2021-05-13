@@ -5,7 +5,7 @@ import { FourBedroomDetached } from "../../component/FourBedroomDSlide";
 import { FourBedroomTerrace } from "../../component/FourBedroomTSlide";
 import { FiveBedroom } from "../../component/FiveBedroomSlide";
 
-const About = () => {
+const Projects = () => {
   return (
     <Layout title="Projects">
       {/* Banner */}
@@ -509,4 +509,4 @@ const About = () => {
   );
 };
 
-export default About;
+export default Projects;
