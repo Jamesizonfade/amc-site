@@ -9,29 +9,20 @@ export const TwoBedroom = () => {
           <div className="section-heading-line"></div>
         </div>
         <div
-          className="owl-carousel owl-theme customizable-carousel mt-50 pt-5 px-5 shadow-primary"
+          className="owl-carousel owl-theme customizable-carousel shadow-primary house-container"
           data-loop="true"
           data-items="2"
           data-md-items="2"
           data-sm-items="1"
           data-xs-items="1"
-          data-space="25"
+          data-space="15"
           data-autoplay="true"
           data-autospeed="4000"
           data-nav-dots="true"
           data-nav-arrows="true"
         >
           {twoBedroom.map((rec, idx) => (
-            <div
-              key={idx}
-              className="pricing-section"
-              style={{
-                backgroundColor: "#fff9e8",
-                minHeight: "250px",
-                padding: "20px",
-                margin: "10px",
-              }}
-            >
+            <div key={idx} className="pricing-section house-img">
               <img src={rec} alt="" />
             </div>
           ))}

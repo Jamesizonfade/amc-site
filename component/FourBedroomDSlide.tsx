@@ -9,7 +9,7 @@ export const FourBedroomDetached = () => {
           <div className="section-heading-line"></div>
         </div>
         <div
-          className="owl-carousel owl-theme customizable-carousel mt-50 pt-5 px-5 shadow-primary"
+          className="owl-carousel owl-theme customizable-carousel shadow-primary house-container"
           data-loop="true"
           data-items="2"
           data-md-items="2"
@@ -22,16 +22,7 @@ export const FourBedroomDetached = () => {
           data-nav-arrows="true"
         >
           {fourBedroomD.map((rec, idx) => (
-            <div
-              key={idx}
-              className="pricing-section"
-              style={{
-                backgroundColor: "#fff9e8",
-                minHeight: "250px",
-                padding: "20px",
-                margin: "10px",
-              }}
-            >
+            <div key={idx} className="pricing-section house-img">
               <img src={rec} alt="" />
             </div>
           ))}

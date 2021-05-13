@@ -18,7 +18,7 @@ const About = () => {
             <div className="col-md-6 col-12">
               <img
                 src="/img/site-map/master-plan.png"
-                className="rounded-border shadow-primary"
+                className="rounded-border shadow-primary project-img"
                 alt=""
               />
             </div>
@@ -116,14 +116,7 @@ const About = () => {
       <div className="section-block section-sm border-bottom partners">
         <div className="container">
           <div className="row">
-            <div className="col-md-6 col-12 d-md-none">
-              <img
-                src="/img/site-map/residential-plot.png"
-                className="rounded-border shadow-primary"
-                alt=""
-              />
-            </div>
-            <div className="col-md-6 col-12">
+            <div className="col-md-6 col-12 p-text">
               <div className="section-heading text-left mt-5">
                 <h3 className="semi-bold font-size-32">Residential Plots</h3>
                 <div className="section-heading-line line-thin"></div>
@@ -183,10 +176,10 @@ const About = () => {
                 </div>
               </div>
             </div>
-            <div className="col-md-6 col-12 d-none d-md-block">
+            <div className="col-md-6 col-12 p-img">
               <img
                 src="/img/site-map/residential-plot.png"
-                className="rounded-border shadow-primary"
+                className="rounded-border shadow-primary project-img"
                 alt=""
               />
             </div>
@@ -201,7 +194,7 @@ const About = () => {
             <div className="col-md-6 col-12">
               <img
                 src="/img/site-map/commercial.png"
-                className="rounded-border shadow-primary"
+                className="rounded-border shadow-primary project-img"
                 alt=""
               />
             </div>
@@ -266,14 +259,7 @@ const About = () => {
       <div className="section-block section-sm border-bottom partners">
         <div className="container">
           <div className="row">
-            <div className="col-md-6 col-12 d-md-none">
-              <img
-                src="/img/site-map/Recreational.png"
-                className="rounded-border shadow-primary"
-                alt=""
-              />
-            </div>
-            <div className="col-md-6 col-12">
+            <div className="col-md-6 col-12 p-text">
               <div className="section-heading text-left mt-5">
                 <h3 className="semi-bold font-size-32">Millennium Park</h3>
                 <div className="section-heading-line line-thin"></div>
@@ -290,10 +276,10 @@ const About = () => {
                 </div>
               </div>
             </div>
-            <div className="col-md-6 col-12 d-none d-md-block">
+            <div className="col-md-6 col-12 p-img">
               <img
                 src="/img/site-map/Recreational.png"
-                className="rounded-border shadow-primary"
+                className="rounded-border shadow-primary project-img"
                 alt=""
               />
             </div>
@@ -308,7 +294,7 @@ const About = () => {
             <div className="col-md-6 col-12">
               <img
                 src="/img/site-map/utility.png"
-                className="rounded-border shadow-primary"
+                className="rounded-border shadow-primary project-img"
                 alt=""
               />
             </div>
@@ -367,14 +353,7 @@ const About = () => {
       <div className="section-block section-sm border-bottom partners">
         <div className="container">
           <div className="row">
-            <div className="col-md-6 col-12 d-md-none">
-              <img
-                src="/img/site-map/roads.png"
-                className="rounded-border shadow-primary"
-                alt=""
-              />
-            </div>
-            <div className="col-md-6 col-12">
+            <div className="col-md-6 col-12 p-text">
               <div className="section-heading text-left mt-5">
                 <h3 className="semi-bold font-size-32">Roads</h3>
                 <div className="section-heading-line line-thin"></div>
@@ -444,10 +423,10 @@ const About = () => {
                 </div>
               </div>
             </div>
-            <div className="col-md-6 col-12 d-none d-md-block">
+            <div className="col-md-6 col-12 p-img">
               <img
                 src="/img/site-map/roads.png"
-                className="rounded-border shadow-primary"
+                className="rounded-border shadow-primary project-img"
                 alt=""
               />
             </div>
@@ -517,7 +496,7 @@ const About = () => {
 
       {/* Two Bedroom Apartment Buildings */}
       <TwoBedroom />
-
+      {/* Four bedroom duplex */}
       {/* Four Bedroom Detached Duplex */}
       <FourBedroomDetached />
 

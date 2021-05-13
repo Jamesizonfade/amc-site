@@ -60,7 +60,7 @@ a:hover {
 }
 
 .partners {
-  background-image: url("/img/content/bgs/bg2.png");
+  background-image: url("/img/bgs/bg2.png");
 }
 
 .footer-nav li {
@@ -237,9 +237,40 @@ a:hover {
   line-height: 18px !important;
 }
 
+.house-container {
+  padding: 25px !important;
+  background-color: white !important;
+}
+
+.house-img {
+  padding: 15px !important;
+  background-color: white !important;
+}
+
+.project-img {
+  width: 100% !important;
+}
+
 @media screen and (max-width: 766px) {
   .mt-sm {
     margin-top: 50px !important;
+  }
+  .p-img {
+    order: 1 !important;
+  }
+
+  .p-text {
+    order: 2 !important;
+  }
+
+  .house-container {
+    padding: 5px !important;
+    background-color: white !important;
+  }
+
+  .house-img {
+    padding: 5px !important;
+    background-color: white !important;
   }
 }
 

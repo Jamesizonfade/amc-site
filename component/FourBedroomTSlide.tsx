@@ -2,14 +2,14 @@ import fourBedroomT from "../data/4BedroomBuildingT.json";
 
 export const FourBedroomTerrace = () => {
   return (
-    <div className="section-block grey-bg background-shape-3 border-bottom">
+    <div className="section-block section-sm border-bottom partners">
       <div className="container">
         <div className="section-heading text-center mb-5">
           <h3 className="semi-bold">Four Bedroom Terrace Houses</h3>
           <div className="section-heading-line"></div>
         </div>
         <div
-          className="owl-carousel owl-theme customizable-carousel mt-50 pt-5 px-5 shadow-primary"
+          className="owl-carousel owl-theme customizable-carousel shadow-primary house-container"
           data-loop="true"
           data-items="2"
           data-md-items="2"
@@ -22,16 +22,7 @@ export const FourBedroomTerrace = () => {
           data-nav-arrows="true"
         >
           {fourBedroomT.map((rec, idx) => (
-            <div
-              key={idx}
-              className="pricing-section"
-              style={{
-                backgroundColor: "#fff9e8",
-                minHeight: "250px",
-                padding: "20px",
-                margin: "10px",
-              }}
-            >
+            <div key={idx} className="pricing-section house-img">
               <img src={rec} alt="" />
             </div>
           ))}
