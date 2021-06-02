@@ -89,7 +89,7 @@ const Home = () => {
           </div>
         </div>
 
-        {/* The City Progress Report : News, Update and Gallery */}
+        {/* City Progress Report : News, Update and Gallery */}
         <div
           className="section-block bg-dot-right grey-bg jarallax"
           data-jarallax
@@ -143,7 +143,9 @@ const Home = () => {
                   <div>
                     <div className="contact-icon-box">
                       <i className="icon-phone-book"></i>
-                      <h4>AMC News</h4>
+                      <h4>
+                        <a href="/news">AMC News</a>
+                      </h4>
                       <h5>
                         Get the latest News on AMC project construction,
                         Contribution and Visitations.
@@ -151,7 +153,9 @@ const Home = () => {
                     </div>
                     <div className="contact-icon-box">
                       <i className="icon-opened-email-outlined-interface-symbol"></i>
-                      <h4>AMC Site Update</h4>
+                      <h4>
+                        <a href="/site-update">AMC Site Update</a>
+                      </h4>
                       <h5>
                         The City is development is amazing. AMC will bring a new
                         look to the State.
@@ -159,7 +163,9 @@ const Home = () => {
                     </div>
                     <div className="contact-icon-box">
                       <i className="icon-location"></i>
-                      <h4>AMC Gallery</h4>
+                      <h4>
+                        <a href="/gallery">AMC Gallery</a>
+                      </h4>
                       <h5>
                         View great gallery of Site Progress and be amazed at how
                         quickly the City is coming to life.

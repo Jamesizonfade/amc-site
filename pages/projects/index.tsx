@@ -483,7 +483,7 @@ const Projects = () => {
               <div className="icon-sm">
                 <i className="fas fa-check-circle"></i>
               </div>
-              <div className="icon-text">bed villa.</div>
+              <div className="icon-text">5 bed villa.</div>
             </li>
           </ul>
           <br />

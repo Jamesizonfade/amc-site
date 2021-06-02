@@ -262,6 +262,12 @@ a:hover {
   transition: all 0.2s ease-in !important;
 }
 
+.news-desc {
+  background-image: url("/img/map.jpg");
+  background-size: contain !important;
+  background-blend-mode: lighten;
+}
+
 @media screen and (max-width: 766px) {
   .mt-sm {
     margin-top: 50px !important;
