@@ -8,8 +8,7 @@ const News = () => {
       {/* Banner */}
       <Banner page="News" />
 
-      {/* Welcome to Obaforex */}
-      <div className="section-block grey-bg background-shape-3 border-bottom">
+      <div className="section-block section-sm border-bottom partners">
         <div className="container">
           <div className="row mt-30 no-gutters">
             {news.map((rec, idx) => (
@@ -18,6 +17,7 @@ const News = () => {
                 className="col-sm-12 col-md-6 col-lg-4 col-12 no-gutter"
               >
                 <div className="service-block">
+                  {/* Image */}
                   <img
                     src={rec?.cover_img}
                     alt="img"
@@ -34,17 +34,37 @@ const News = () => {
                     <div
                       style={{
                         background: "#ffffffa1",
-                        minHeight: "310px",
+                        minHeight: "340px",
                         padding: "40px 20px",
                         borderRadius: "10px",
                       }}
                     >
-                      <h4 title={rec?.full_title} style={{ cursor: "pointer" }}>
-                        <a href={`/news/singleNews?id=${idx}`}>
+                      {/* Title */}
+                      <h4
+                        title={rec?.full_title}
+                        style={{ cursor: "pointer", zIndex: 1 }}
+                      >
+                        <a
+                          href={`/news/singleNews?id=${idx}`}
+                          style={{ zIndex: 100 }}
+                        >
                           {rec?.short_title}
                         </a>
                       </h4>
+                      <p
+                        style={{
+                          color: "#af8514 !important",
+                          fontSize: "14px",
+                          marginTop: "-10px",
+                          marginBottom: "20px",
+                        }}
+                      >
+                        {rec?.date}
+                      </p>
+                      {/* Description */}
                       <p>{rec?.desc}</p>
+
+                      {/* Read More button */}
                       <a
                         href={`/news/singleNews?id=${idx}`}
                         className="service-block-content-button"
