@@ -16,18 +16,10 @@ const Contact = () => {
               <div className="section-heading">
                 <h6>Contact Us</h6>
                 <p className="semi-bold">
-                  We’re Happy to Discuss Your Financial Freedom and Answer any
-                  Question.
+                  We’re Happy to Discuss Awka Millennium City with you and
+                  Answer any Question.
                 </p>
                 <p>...and hey, we are online 24/7</p>
-
-                {/* Location */}
-                <ul className="grey-list mt-15">
-                  <li>
-                    <i className="fa fa-map-marker-alt"></i>No.233 Building
-                    Material Along Bukuru Express Way, Jos, Nigeria.
-                  </li>
-                </ul>
               </div>
             </div>
 
@@ -61,93 +53,75 @@ const Contact = () => {
               <div className="row">
                 <div className="col-12">
                   <div className="section-heading">
-                    <h6>Help Desk</h6>
+                    <h6>Our Offices</h6>
                     <p>
-                      Reach Us on any of our contact information below. <br />{" "}
-                      We are constantly at your service
+                      Reach Us on any of our Offices below. <br /> We are
+                      constantly at your service
                     </p>
                   </div>
                 </div>
-                {/* Call / Text */}
+                {/* Lagos Office */}
                 <div className="col-xs-12 col-md-6 col-lg-4">
                   <div
                     className="testmonial-item-5 test-card2"
                     style={{ minHeight: "260px" }}
                   >
                     <h5>
-                      <i className="fa fa-phone contact-icon"></i>Call / Text
+                      <i className="fa fa-map-marker-alt contact-icon"></i>Lagos
+                      Office
                     </h5>
                     <div className="testmonial-item-5-text mb-3">
                       <p>
-                        Customer Service :{" "}
-                        <strong className="prop">+234 904 343 0808 </strong>
+                        Plot 25, 68 Bisola Durosinmi Etti drive, Lekki Phase 1,
+                        Lagos
                       </p>
                       <p>
-                        Account Department :{" "}
-                        <strong className="prop">+234 904 343 9595</strong>
-                      </p>
-                      <p>
-                        Training Department :{" "}
-                        <strong className="prop">+234 904 343 0909</strong>
-                      </p>
-                      <p>
-                        Signal Department :{" "}
-                        <strong className="prop">+234 809 898 9862</strong>
+                        Call : <strong className="prop">09060004203</strong>
                       </p>
                     </div>
                   </div>
                 </div>
 
-                {/* Email */}
+                {/* Abuja Office */}
                 <div className="col-xs-12 col-md-6 col-lg-4">
                   <div
                     className="testmonial-item-5 test-card2"
                     style={{ minHeight: "260px" }}
                   >
                     <h5>
-                      <i className="fa fa-envelope-open contact-icon"></i>Email
+                      <i className="fa fa-map-marker-alt contact-icon"></i>Abuja
+                      Office
                     </h5>
                     <div className="testmonial-item-5-text mb-3">
                       <p>
-                        Support Desk :{" "}
-                        <strong className="prop">support@obaforex.com</strong>
+                        Plot 114 (House 1), Ebitu Ukiwe Street, Jabi, Abuja.
                       </p>
                       <p>
-                        Account Desk :{" "}
-                        <strong className="prop">deposit@obaforex.com</strong>
+                        Call : <strong className="prop">0906000420</strong>
+                      </p>
+                    </div>
+                  </div>
+                </div>
+
+                {/* Anambra Office */}
+                <div className="col-xs-12 col-md-6 col-lg-4">
+                  <div
+                    className="testmonial-item-5 test-card2"
+                    style={{ minHeight: "260px" }}
+                  >
+                    <h5>
+                      <i className="fa fa-map-marker-alt contact-icon"></i>
+                      Anambra Office
+                    </h5>
+                    <div className="testmonial-item-5-text mb-3">
+                      <p>
+                        50 Ifite Road, off Aroma Junction, Awka, Anambra State.
                       </p>
                       <p>
-                        Training Desk :{" "}
+                        Call :{" "}
                         <strong className="prop">
-                          fxtraining@obaforex.com
+                          09060004205, 09060004206.
                         </strong>
-                      </p>
-                      <p>
-                        Signal Desk :{" "}
-                        <strong className="prop">signal@obaforex.com</strong>
-                      </p>
-                    </div>
-                  </div>
-                </div>
-
-                {/* Chat */}
-                <div className="col-xs-12 col-md-6 col-lg-4">
-                  <div
-                    className="testmonial-item-5 test-card2"
-                    style={{ minHeight: "260px" }}
-                  >
-                    <h5>
-                      <i className="fab fa-whatsapp contact-icon"></i>Chat
-                    </h5>
-                    <div className="testmonial-item-5-text mb-3">
-                      <p>
-                        Messenger : <strong className="prop">Live chat</strong>
-                      </p>
-                      <p>
-                        Telegram : <strong className="prop">Live chat</strong>
-                      </p>
-                      <p>
-                        Whatsapp : <strong className="prop">Live chat</strong>
                       </p>
                     </div>
                   </div>

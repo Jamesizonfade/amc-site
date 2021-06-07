@@ -8,7 +8,6 @@ const SingleNews = ({ id }) => {
       {/* Banner */}
       <Banner page="News" />
 
-      {/* Welcome to Obaforex */}
       <div className="section-block grey-bg background-shape-3 border-bottom">
         <div className="container">
           {/* full_title and description */}
@@ -20,19 +19,22 @@ const SingleNews = ({ id }) => {
             <p>{news[parseInt(id)].desc}</p>
           </div>
           {/* top_img */}
-          <div
-            className="shadow-primary my-5"
-            style={{
-              padding: "30px",
-              background: "#ffba002b",
-            }}
-          >
-            <img
-              src={news[parseInt(id)].cover_img}
-              alt=""
-              style={{ width: "100%" }}
-            />
-          </div>
+          {news[parseInt(id)].cover_img && (
+            <div
+              className="shadow-primary my-5"
+              style={{
+                padding: "30px",
+                background: "#ffba002b",
+              }}
+            >
+              <img
+                src={news[parseInt(id)].cover_img}
+                alt=""
+                style={{ width: "100%" }}
+              />
+            </div>
+          )}
+
           {/* body_content1 */}
           {news[parseInt(id)].body_content1.map((rec, idx) => (
             <>
@@ -46,19 +48,21 @@ const SingleNews = ({ id }) => {
           </h5>
 
           {/* body_img1 */}
-          <div
-            className="shadow-primary mt-5 mb-5"
-            style={{
-              padding: "30px",
-              background: "#ffba002b",
-            }}
-          >
-            <img
-              src={news[parseInt(id)].body_img1}
-              alt=""
-              style={{ width: "100%" }}
-            />
-          </div>
+          {news[parseInt(id)].body_img1 && (
+            <div
+              className="shadow-primary mt-5 mb-5"
+              style={{
+                padding: "30px",
+                background: "#ffba002b",
+              }}
+            >
+              <img
+                src={news[parseInt(id)].body_img1}
+                alt=""
+                style={{ width: "100%" }}
+              />
+            </div>
+          )}
 
           {/* body_content2 */}
           {news[parseInt(id)].body_content2.map((rec, idx) => (
@@ -69,25 +73,27 @@ const SingleNews = ({ id }) => {
 
           {/* bottom_imgs_title */}
           <h5 className="mt-3 d-block mb-3">
-            {news[parseInt(id)].body_img_title}
+            {news[parseInt(id)].bottom_imgs_title}
           </h5>
 
           {/* bottom_imgs */}
-          <div className="row">
-            {news[parseInt(id)].bottom_imgs.map((rec, idx) => (
-              <div key={idx} className="col-12 col-md-6 col-lg-4 p-1">
-                <div
-                  className="shadow-primary mb-5"
-                  style={{
-                    padding: "10px",
-                    background: "#ffba002b",
-                  }}
-                >
-                  <img src={rec} alt="" style={{ width: "100%" }} />
+          {news[parseInt(id)].bottom_imgs.length > 0 && (
+            <div className="row">
+              {news[parseInt(id)].bottom_imgs.map((rec, idx) => (
+                <div key={idx} className="col-12 col-md-6 col-lg-4 p-1">
+                  <div
+                    className="shadow-primary mb-5"
+                    style={{
+                      padding: "10px",
+                      background: "#ffba002b",
+                    }}
+                  >
+                    <img src={rec} alt="" style={{ width: "100%" }} />
+                  </div>
                 </div>
-              </div>
-            ))}
-          </div>
+              ))}
+            </div>
+          )}
         </div>
       </div>
     </Layout>

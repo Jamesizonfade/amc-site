@@ -264,8 +264,16 @@ a:hover {
 
 .news-desc {
   background-image: url("/img/map.jpg");
-  background-size: contain !important;
+  background-size: cover !important;
   background-blend-mode: lighten;
+}
+
+.navigation-fixed-wrapper {
+  z-index: 2 !important;
+}
+
+.primary-form-2 {
+  z-index: 1 !important;
 }
 
 @media screen and (max-width: 766px) {
