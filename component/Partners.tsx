@@ -5,9 +5,9 @@ export const Partners = () => {
     <div className="section-block section-sm border-bottom partners">
       <div className="container">
         <div className="section-heading text-center mb-5">
-          <h3 className="semi-bold">Our Partners</h3>
+          <h3 className="semi-bold">Project Team</h3>
           <div className="section-heading-line"></div>
-          <p>Our Top Partners</p>
+          {/* <p>Our Top Project Team</p> */}
         </div>
         <div
           className="owl-carousel owl-theme customizable-carousel mt-50"

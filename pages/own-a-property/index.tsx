@@ -7,6 +7,19 @@ const OwnAProperty = () => {
     <Layout title="Own A Property">
       {/* Banner */}
       <Banner page="Own A Property" />
+      <div
+        className="p-3 px-5"
+        style={{ background: "#860e1e", color: "white" }}
+      >
+        <img
+          src="/img/closed.png"
+          alt=""
+          style={{ width: "60px", marginRight: "20px" }}
+        />
+        Plot sales are now officially closed till further notice. However, you
+        can fill any of the forms below so that we can contact you whenever we
+        resume sales.
+      </div>
 
       {/* Obaforex Academy */}
       <div className="section-block grey-bg background-shape-3 border-bottom">
@@ -14,7 +27,7 @@ const OwnAProperty = () => {
           {/* Title and Desc. */}
           <div className="section-heading text-center mb-5">
             <p>
-              To Own a property in Awkwa Millennium City, download any of our
+              To Own a property in Awka Millennium City, download any of our
               Forms, Brochure or Price Schedule below and follow the
               instructions accordingly.
             </p>
@@ -24,6 +37,7 @@ const OwnAProperty = () => {
           <div className="row justify-content-center">
             {ownAProperty.map((rec, idx) => (
               <div
+                style={{ zIndex: 1 }}
                 key={idx}
                 className="col-md-6 col-sm-12 col-lg-3 col-12 wow fadeInLeftSm"
                 data-wow-delay="0.7s"

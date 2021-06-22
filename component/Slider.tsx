@@ -1,5 +1,8 @@
+import { useRouter } from "next/router";
 import slider from "../data/slider.json";
+
 export const Slider = () => {
+  const router = useRouter();
   return (
     <>
       <div className="rev_slider_wrapper bg-arrows">
@@ -46,6 +49,9 @@ export const Slider = () => {
                   data-elementdelay="0.05"
                 >
                   {rec?.title}
+                  <a id="btn-slider" href="/own-a-property">
+                    Own A Property
+                  </a>
                 </div>
               </li>
             ))}

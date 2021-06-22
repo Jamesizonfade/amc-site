@@ -19,7 +19,7 @@ const SingleNews = ({ id }) => {
             <p>{news[parseInt(id)].desc}</p>
           </div>
           {/* top_img */}
-          {news[parseInt(id)].cover_img && (
+          {news[parseInt(id)].top_img && (
             <div
               className="shadow-primary my-5"
               style={{
@@ -28,7 +28,7 @@ const SingleNews = ({ id }) => {
               }}
             >
               <img
-                src={news[parseInt(id)].cover_img}
+                src={news[parseInt(id)].top_img}
                 alt=""
                 style={{ width: "100%" }}
               />

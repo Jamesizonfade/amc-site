@@ -8,12 +8,8 @@ export const CityPlan = () => {
     >
       <div className="container">
         <div className="section-heading text-center mb-5  city-plan">
-          <h3 className="semi-bold text-white">The City Plan</h3>
+          <h3 className="semi-bold text-white">The Vision</h3>
           <div className="section-heading-line"></div>
-          <p>
-            View a 3D image representation of what the City will look like on
-            completion.
-          </p>
           <p>
             The project will be a large-scale residential neighborhood with
             residential, commercial and recreational uses and amenities, such as
@@ -23,29 +19,43 @@ export const CityPlan = () => {
             The entire development sits on approximately 100 hectares of Land.
           </p>
         </div>
-
-        <div
-          className="owl-carousel owl-theme customizable-carousel plan-image"
-          data-loop="true"
-          data-items="1"
-          data-md-items="1"
-          data-sm-items="1"
-          data-xs-items="1"
-          data-space="15"
-          data-autoplay="true"
-          data-autospeed="4000"
-          data-nav-dots="true"
-          data-nav-arrows="true"
-        >
-          {planSlider.map((rec, idx) => (
-            <div key={idx} className="item">
+        <div className="row">
+          <div className="col-12">
+            <div
+              className="video-video-box full-width p-3 shadow-primary"
+              style={{ backgroundColor: "grey" }}
+            >
               <img
-                src={rec}
+                src="img/banner-mobile.png"
                 alt="img"
-                style={{ borderBottom: "1px solid #ffba00" }}
+                className="shadow-primary"
               />
+              <div className="video-video-box-overlay">
+                <div className="video-video-box-button-sm">
+                  <button
+                    className="video-video-play-icon pulsebox-1"
+                    data-izimodal-open=".izimodal"
+                  >
+                    <i className="fa fa-play"></i>
+                  </button>
+                </div>
+              </div>
             </div>
-          ))}
+            <div
+              className="izimodal"
+              data-iziModal-width="800px"
+              data-iziModal-fullscreen="true"
+            >
+              <iframe
+                height="425"
+                src="https://www.youtube.com/embed/_4pJPyaRwCQ"
+                title="AMC Site Video"
+                frameBorder="0"
+                className="full-width shadow-primary"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+              ></iframe>
+            </div>
+          </div>
         </div>
       </div>
     </div>

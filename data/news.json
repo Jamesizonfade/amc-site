@@ -1,14 +1,14 @@
 [
   {
     "id": "1",
-    "cover_img": "/img/news/news-1.png",
+    "thumbnail_img": "/img/news/news-1.png",
     "short_title_comment": "Short_title should not be more than 38 characters, spaces inclusive. End with three dots to denote continuation",
     "short_title": "AMC Site Tour",
     "full_title": "AMC Site Tour",
     "desc_comment": "Description should not be more than 160 characters, spaces inclusive. End with three dots to denote continuation",
     "desc": "Due to an influx of site visits this week, we have decided to extend our tour dates till the 11th of January 2021. You don’t want to miss this opportunity to have a guided tour of our site!",
     "date": "29th Jan 2021",
-    "top_img": "",
+    "top_img": "/img/news/news-1.png",
     "body_content1": [
       "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem ipsum dolor sit amet.., comes from a line in section 1.10.32.",
       "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc."
@@ -27,14 +27,14 @@
   },
   {
     "id": "2",
-    "cover_img": "/img/news/news-2.png",
+    "thumbnail_img": "/img/news/news-2.png",
     "short_title_comment": "Short_title should not be more than 38 characters, spaces inclusive. End with three dots to denote continuation",
     "short_title": "Igwe Alfred Nnaemeka Achebe (Agbogidi)...",
     "full_title": "Igwe Alfred Nnaemeka Achebe (Agbogidi) Speaks On Awka Millennium City.",
     "desc_comment": "Description should not be more than 160 characters, spaces inclusive. End with three dots to denote continuation",
     "desc": "Igwe Alfred Nnaemeka Achebe (Agbogidi) Speaks On Awka Millennium City. Click on play to watch Igwe Alfred Nnaemeka Achebe (Agbogidi) Speaks On Awka Millennium...",
     "date": "29th Jan 2021",
-    "top_img": "",
+    "top_img": "/img/news/news-2.png",
     "body_content1": [],
     "body_img_title": "",
     "body_img1": "",
@@ -44,7 +44,7 @@
   },
   {
     "id": "3",
-    "cover_img": "/img/news/news-3.png",
+    "thumbnail_img": "/img/news/news-3.png",
     "short_title_comment": "Short_title should not be more than 38 characters, spaces inclusive. End with three dots to denote continuation",
     "short_title": "Limited Plots! Secure a plot today",
     "full_title": "Limited Plots! Secure a plot today",
@@ -61,7 +61,7 @@
   },
   {
     "id": "4",
-    "cover_img": "/img/news/news-3.png",
+    "thumbnail_img": "/img/news/news-3.png",
     "short_title_comment": "Short_title should not be more than 38 characters, spaces inclusive. End with three dots to denote continuation",
     "short_title": "Limited Plots! Secure a plot today",
     "full_title": "Limited Plots! Secure a plot today",
@@ -77,8 +77,8 @@
     "bottom_imgs": []
   },
   {
-    "id": "1",
-    "cover_img": "/img/news/news-1.png",
+    "id": "5",
+    "thumbnail_img": "/img/news/news-1.png",
     "short_title_comment": "Short_title should not be more than 38 characters, spaces inclusive. End with three dots to denote continuation",
     "short_title": "AMC Site Tour",
     "full_title": "AMC Site Tour",
@@ -103,8 +103,8 @@
     ]
   },
   {
-    "id": "1",
-    "cover_img": "/img/news/news-6.png",
+    "id": "6",
+    "thumbnail_img": "/img/news/news-6.png",
     "short_title_comment": "Short_title should not be more than 38 characters, spaces inclusive. End with three dots to denote continuation",
     "short_title": "Ansippa Visits AMC",
     "full_title": "AMC Site Tour",

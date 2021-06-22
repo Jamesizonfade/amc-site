@@ -16,7 +16,7 @@ const Home = () => {
           <div className="container">
             <div className="row">
               {/* Statement */}
-              <div className="col-md-8 col-12">
+              <div className="col-md-6 col-12">
                 <div className="section-heading">
                   <small className="uppercase text-primary">Who we are</small>
                   <h4 className="semi-bold">About Awka Millennium City</h4>
@@ -42,22 +42,39 @@ const Home = () => {
                     upon completion.
                   </p>
                 </div>
+
+                {/* Location */}
+                <div className="section-heading">
+                  <h4 className="semi-bold">Location</h4>
+                </div>
+                <div className="text-content mt-15 text-justify">
+                  <p style={{ lineHeight: "2.5" }}>
+                    AMC is a Premium multi-nucleic real estate development that
+                    is slated to redefine the concept of urban living within.
+                  </p>
+                </div>
               </div>
 
-              {/*  image */}
-              <div className="col-md-4 col-12">
-                <img
-                  src="img/side-img.png"
-                  className="position-relative extra-rounded-border shadow-primary z-index-9 mt-30-xs"
-                  alt="img"
-                  style={{ width: "100%" }}
-                />
+              {/*  Map */}
+              <div className="col-md-6 col-12">
+                <div
+                  className="shadow-primary p-3"
+                  style={{ marginTop: "40px" }}
+                >
+                  <iframe
+                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d374853.8242706969!2d7.174687957322112!3d6.263753531190453!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x104379e327f4e263%3A0x2a4e473a6a8ae27c!2sAwka%20Millennium%20City!5e0!3m2!1sen!2sng!4v1623850942477!5m2!1sen!2sng"
+                    height="400"
+                    className="full-width"
+                    style={{ border: "0" }}
+                    loading="lazy"
+                  ></iframe>
+                </div>
               </div>
             </div>
           </div>
         </div>
 
-        {/* The City Plan */}
+        {/* The Vision */}
         <CityPlan />
 
         {/* The Infrastructure */}
@@ -99,18 +116,17 @@ const Home = () => {
             <div className="row">
               {/* Video Section */}
               <div className="col-md-6 col-sm-12 col-12">
-                <div className="video-video-box full-width">
+                <div className="video-video-box full-width p-3 shadow-primary">
                   <img
-                    src="img/video-img.png"
+                    src="img/video-img2.png"
                     alt="img"
                     className="shadow-primary"
-                    style={{ borderRadius: "10px" }}
                   />
                   <div className="video-video-box-overlay">
                     <div className="video-video-box-button-sm">
                       <button
                         className="video-video-play-icon pulsebox-1"
-                        data-izimodal-open=".izimodal"
+                        data-izimodal-open="#mod"
                       >
                         <i className="fa fa-play"></i>
                       </button>
@@ -118,14 +134,18 @@ const Home = () => {
                   </div>
                 </div>
                 <div
+                  id="mod"
                   className="izimodal"
                   data-iziModal-width="800px"
                   data-iziModal-fullscreen="true"
                 >
                   <iframe
-                    height="415"
-                    src="https://www.youtube.com/watch?v=osnUQfGzqzU"
+                    height="425"
+                    src="https://www.youtube.com/embed/iuh5sE-h1FY"
+                    title="AMC Site Video"
+                    frameBorder="0"
                     className="full-width shadow-primary"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                   ></iframe>
                 </div>
               </div>

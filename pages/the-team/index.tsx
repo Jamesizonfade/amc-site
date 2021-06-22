@@ -7,6 +7,56 @@ const TheTeam = () => {
       {/* Banner */}
       <Banner page="The Team" />
 
+      {/* M-P Infrastructure */}
+      <div className="section-block section-sm border-bottom partners">
+        <div className="container">
+          <div className="row">
+            <div className="col-md-6 col-12 p-text">
+              <div className="section-heading text-left mt-5">
+                <h5 className="semi-bold font-size-52">
+                  M-P Infrastructure ( Sponsor/ Promoter)
+                </h5>
+                <div className="section-heading-line line-thin"></div>
+                <div className="text-content">
+                  <p className="mb-0">
+                    M-P Infrastructure Limited is a leading infrastructure
+                    development and management company, focusing on renewable
+                    energy, power, water, real estate, communication and
+                    technology, offering the entire value chain of solutions
+                    from design and construction to operation and maintenance.
+                  </p>
+                  <p className="mb-0">
+                    The company has almost a decade of experience in the
+                    Nigerian market and has expanded service reach by opening up
+                    facilities in Ghana,Cameroon, Zambia, Cote d’Ivoire, Rwanda
+                    and South Africa.
+                  </p>
+                  <p className="mb-0">
+                    Their business model is focused on bridging Africa’s
+                    infrastructure deficit. In partnership with some of the
+                    leading global equipment manufacturers, we are improving the
+                    standards of locally driven infrastructure development
+                    across the continent.
+                  </p>
+                  <p className="mb-0">
+                    M-P Infrastructure has ISO 9001:2008 certification in
+                    Nigeria and Cote d’Ivoire, ISO 9001:2015, ISO 14001:2015 and
+                    OHSAS 18001:2007 in Ghana.
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div className="col-md-6 col-12 p-img">
+              <img
+                src="/img/the-team/mp-infrastructure.png"
+                className="rounded-border shadow-primary project-img"
+                alt=""
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+
       {/* Anambra State through ANSIPPA */}
       <div className="section-block grey-bg background-shape-3 border-bottom">
         <div className="container">
@@ -60,56 +110,6 @@ const TheTeam = () => {
                   </div>
                 </div>
               </div>
-            </div>
-          </div>
-        </div>
-      </div>
-
-      {/* M-P Infrastructure */}
-      <div className="section-block section-sm border-bottom partners">
-        <div className="container">
-          <div className="row">
-            <div className="col-md-6 col-12 p-text">
-              <div className="section-heading text-left mt-5">
-                <h5 className="semi-bold font-size-52">
-                  M-P Infrastructure ( Sponsor/ Promoter)
-                </h5>
-                <div className="section-heading-line line-thin"></div>
-                <div className="text-content">
-                  <p className="mb-0">
-                    M-P Infrastructure Limited is a leading infrastructure
-                    development and management company, focusing on renewable
-                    energy, power, water, real estate, communication and
-                    technology, offering the entire value chain of solutions
-                    from design and construction to operation and maintenance.
-                  </p>
-                  <p className="mb-0">
-                    The company has almost a decade of experience in the
-                    Nigerian market and has expanded service reach by opening up
-                    facilities in Ghana,Cameroon, Zambia, Cote d’Ivoire, Rwanda
-                    and South Africa.
-                  </p>
-                  <p className="mb-0">
-                    Their business model is focused on bridging Africa’s
-                    infrastructure deficit. In partnership with some of the
-                    leading global equipment manufacturers, we are improving the
-                    standards of locally driven infrastructure development
-                    across the continent.
-                  </p>
-                  <p className="mb-0">
-                    M-P Infrastructure has ISO 9001:2008 certification in
-                    Nigeria and Cote d’Ivoire, ISO 9001:2015, ISO 14001:2015 and
-                    OHSAS 18001:2007 in Ghana.
-                  </p>
-                </div>
-              </div>
-            </div>
-            <div className="col-md-6 col-12 p-img">
-              <img
-                src="/img/the-team/mp-infrastructure.png"
-                className="rounded-border shadow-primary project-img"
-                alt=""
-              />
             </div>
           </div>
         </div>

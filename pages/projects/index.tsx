@@ -1,26 +1,82 @@
+import residential from "../../data/residentialArea.json";
 import { Banner } from "../../component/Banner";
 import { Layout } from "../../component/Layout";
 import { TwoBedroom } from "../../component/TwoBedroomSlide";
 import { FourBedroomDetached } from "../../component/FourBedroomDSlide";
 import { FourBedroomTerrace } from "../../component/FourBedroomTSlide";
 import { FiveBedroom } from "../../component/FiveBedroomSlide";
+import "photoswipe/dist/photoswipe.css";
+import "photoswipe/dist/default-skin/default-skin.css";
+import { Gallery, Item } from "react-photoswipe-gallery";
+
+// Imports for Commercial Plots
+import { RoadDesign } from "../../component/commercial-plots/RoadDesign";
+import { PlotLayout } from "../../component/commercial-plots/PlotLayout";
+import { Prefered } from "../../component/commercial-plots/Prefered";
+import { DevelopmentFramework } from "../../component/commercial-plots/DevelopmentFramework";
+import { ProposedLandUse } from "../../component/commercial-plots/ProposedLandUse";
+import { PlotLayout2 } from "../../component/commercial-plots/PlotLayout2";
+import { InterventionExamples } from "../../component/commercial-plots/InterventionExamples";
+import { TypicalStreet } from "../../component/commercial-plots/TypicalStreet";
+import { Setbacks } from "../../component/commercial-plots/Setbacks";
+import { ProposedIntervention } from "../../component/commercial-plots/ProposedIntervention";
+import { LayoutPlan } from "../../component/commercial-plots/LayoutPlan";
+import { DevelopmentFramework2 } from "../../component/commercial-plots/DevelopmentFramework2";
+import { SmartTechnology } from "../../component/commercial-plots/SmartTechnology";
+import { AerialView } from "../../component/commercial-plots/AerialView";
+import { CommercialBoulevard } from "../../component/commercial-plots/CommercialBoulevard";
+import { CentralNode } from "../../component/commercial-plots/CentralNode";
+import { PalmLake } from "../../component/commercial-plots/PalmLake";
+import { Retail } from "../../component/commercial-plots/Retail";
+import { MixedUse } from "../../component/commercial-plots/MixedUse";
+import { RetailEntertainment } from "../../component/commercial-plots/RetailEntertainment";
+import { Cinemas } from "../../component/commercial-plots/Cinemas";
+import { Hotel } from "../../component/commercial-plots/Hotel";
+import { CivicConvention } from "../../component/commercial-plots/CivicConvention";
+import { NightClub } from "../../component/commercial-plots/NightClub";
+import { TechHub } from "../../component/commercial-plots/TechHub";
+import { DayHospital } from "../../component/commercial-plots/DayHospital";
+import { BankingOffices } from "../../component/commercial-plots/BankingOffices";
+import { Residential } from "../../component/commercial-plots/Residential";
+import { Church } from "../../component/commercial-plots/Church";
+import { IndoorSport } from "../../component/commercial-plots/IndoorSport";
+import { School } from "../../component/commercial-plots/School";
 
 const Projects = () => {
   return (
-    <Layout title="Projects">
+    <Layout title="Project">
       {/* Banner */}
-      <Banner page="Projects" />
+      <Banner page="Project" />
 
       {/* Master Plan */}
       <div className="section-block grey-bg background-shape-3 border-bottom">
         <div className="container">
           <div className="row">
             <div className="col-md-6 col-12">
-              <img
-                src="/img/site-map/master-plan.png"
-                className="rounded-border shadow-primary project-img"
-                alt=""
-              />
+              <div className="shadow-primary p-3">
+                <Gallery>
+                  <Item
+                    original="/img/site-map/Master-Plan.png"
+                    thumbnail="/img/site-map/Master-Plan.png"
+                    width="1024"
+                    height="768"
+                    title="Master Plan"
+                  >
+                    {({ ref, open }) => (
+                      <img
+                        ref={ref}
+                        onClick={open}
+                        src="/img/site-map/Master-Plan.png"
+                        style={{
+                          margin: "1px",
+                          border: "10px solid #d0aa63",
+                          cursor: "pointer",
+                        }}
+                      />
+                    )}
+                  </Item>
+                </Gallery>
+              </div>
             </div>
             <div className="col-md-6 col-12">
               <div className="pl-30-md">
@@ -127,6 +183,14 @@ const Projects = () => {
                         <i className="fas fa-check-circle"></i>
                       </div>
                       <div className="icon-text">
+                        Very low density residential area
+                      </div>
+                    </li>
+                    <li>
+                      <div className="icon-sm">
+                        <i className="fas fa-check-circle"></i>
+                      </div>
+                      <div className="icon-text">
                         Low density residential area
                       </div>
                     </li>
@@ -148,40 +212,68 @@ const Projects = () => {
                     </li>
                   </ul>
                   <br />
+                  <h5>Very Low Density Residential Area</h5>
+                  <p>
+                    An enclave of a limited number of exclusive premium mansion
+                    plots starting from 2000sqm. With its own dedicated access
+                    control and ornamental garden areas, this enclave will
+                    provide an ultra luxury serene living experience for its
+                    residence.
+                  </p>
+
                   <h5>Low Density Residential Area</h5>
                   <p>
                     The residential plots available in the low density
                     residential area of the community constitutes premium
-                    1000sqm plots. These plots will be allocated solely for the
+                    1000sqm plots. This plots will be allocated solely for the
                     purpose of accommodating single family homes. This plots
                     will also be referred to as Villa Plots.
                   </p>
 
-                  <h5>High Density Residential Area</h5>
+                  <h5>Medium Density Residential Area</h5>
                   <p>
-                    This area of the residential community will consist of
-                    various size plots designed to accommodate various kinds of
-                    multiple family homes such as apartment buildings, terrace
-                    buildings etc.
+                    This area of the residential community boasts of 500sqm
+                    plots which are solely for accommodating single family
+                    homes. These plots are referred to as Standard Plots.
                   </p>
 
-                  <h5>Exclusive Enclave</h5>
+                  <h5>High Density Residential Area</h5>
                   <p>
-                    This is an exclusive enclave within AMC which will sit plots
-                    of 2000sqm and above collocated amongst each other. This
-                    area will boast its own ”central park”, and also have its
-                    dedicated access control for people the live within the
-                    enclave. It is limited to about 40 plots.
+                    This area of the residential community consists of
+                    multi-level housing developments such as apartment buildings
+                    and condos.
                   </p>
                 </div>
               </div>
             </div>
             <div className="col-md-6 col-12 p-img">
-              <img
-                src="/img/site-map/residential-plot.png"
-                className="rounded-border shadow-primary project-img"
-                alt=""
-              />
+              <div className="rounded-border shadow-primary project-img">
+                <Gallery>
+                  {residential.map((rec, idx) => (
+                    <Item
+                      key={idx}
+                      original={rec?.img}
+                      thumbnail={rec?.img}
+                      width="1024"
+                      height="768"
+                      title={rec?.title}
+                    >
+                      {({ ref, open }) => (
+                        <img
+                          ref={ref}
+                          onClick={open}
+                          src={rec?.img}
+                          style={{
+                            margin: "1px",
+                            border: "10px solid #d0aa63",
+                            cursor: "pointer",
+                          }}
+                        />
+                      )}
+                    </Item>
+                  ))}
+                </Gallery>
+              </div>
             </div>
           </div>
         </div>
@@ -190,67 +282,104 @@ const Projects = () => {
       {/* Commercial / Institutional Plots */}
       <div className="section-block grey-bg background-shape-3 border-bottom">
         <div className="container">
-          <div className="row">
-            <div className="col-md-6 col-12">
-              <img
-                src="/img/site-map/commercial.png"
-                className="rounded-border shadow-primary project-img"
-                alt=""
-              />
+          {/* Title and Desc. */}
+          <div>
+            <div className="section-heading text-center mb-5">
+              <h3 className="semi-bold font-size-35">
+                Commercial / Institutional Plots
+              </h3>
+              <div className="section-heading-line line-thin"></div>
             </div>
-            <div className="col-md-6 col-12">
-              <div className="pl-30-md">
-                <div className="section-heading text-left mt-5">
-                  <h3 className="semi-bold font-size-32">
-                    Commercial / Institutional Plots
-                  </h3>
-                  <div className="section-heading-line line-thin"></div>
-                  <div className="text-content">
-                    <p>
-                      The Commercial area of the community will be located
-                      outside the residential area towards the estate entrance,
-                      ensuring the serenity of the residential community is
-                      maintained, while still being accessible to non-residents.
-                    </p>
+            <br />
+            <p>
+              The Commercial area of the community will be located outside the
+              residential area towards the estate entrance, ensuring the
+              serenity of the residential community is maintained, while still
+              being accessible to non-residents.
+            </p>
+            <br />
+            <h5>The commercial area will consist of :</h5>
 
-                    <h5>The commercial area will consist of :</h5>
-
-                    <ul className="primary-list mt-20">
-                      <li>
-                        <div className="icon-sm">
-                          <i className="fas fa-check-circle"></i>
-                        </div>
-                        <div className="icon-text">Leisure</div>
-                      </li>
-                      <li>
-                        <div className="icon-sm">
-                          <i className="fas fa-check-circle"></i>
-                        </div>
-                        <div className="icon-text">Shopping</div>
-                      </li>
-                      <li>
-                        <div className="icon-sm">
-                          <i className="fas fa-check-circle"></i>
-                        </div>
-                        <div className="icon-text">Health facilities</div>
-                      </li>
-                      <li>
-                        <div className="icon-sm">
-                          <i className="fas fa-check-circle"></i>
-                        </div>
-                        <div className="icon-text">Educational facilities</div>
-                      </li>
-                      <li>
-                        <div className="icon-sm">
-                          <i className="fas fa-check-circle"></i>
-                        </div>
-                        <div className="icon-text">Religious facilities</div>
-                      </li>
-                    </ul>
-                  </div>
+            <ul className="primary-list mt-20">
+              <li>
+                <div className="icon-sm">
+                  <i className="fas fa-check-circle"></i>
                 </div>
-              </div>
-            </div>
+                <div className="icon-text">Leisure</div>
+              </li>
+              <li>
+                <div className="icon-sm">
+                  <i className="fas fa-check-circle"></i>
+                </div>
+                <div className="icon-text">Shopping</div>
+              </li>
+              <li>
+                <div className="icon-sm">
+                  <i className="fas fa-check-circle"></i>
+                </div>
+                <div className="icon-text">Health facilities</div>
+              </li>
+              <li>
+                <div className="icon-sm">
+                  <i className="fas fa-check-circle"></i>
+                </div>
+                <div className="icon-text">Educational facilities</div>
+              </li>
+              <li>
+                <div className="icon-sm">
+                  <i className="fas fa-check-circle"></i>
+                </div>
+                <div className="icon-text">Religious facilities</div>
+              </li>
+            </ul>
+            <br />
+          </div>
+
+          {/* Slider Container */}
+          <div
+            className="owl-carousel owl-theme customizable-carousel shadow-primary house-container"
+            data-loop="true"
+            data-items="1"
+            data-md-items="1"
+            data-sm-items="1"
+            data-xs-items="1"
+            data-space="15"
+            data-autoplay="true"
+            data-autospeed="4000"
+            data-nav-dots="true"
+            data-nav-arrows="true"
+          >
+            <RoadDesign />
+            <PlotLayout />
+            <Prefered />
+            <DevelopmentFramework />
+            <ProposedLandUse />
+            <PlotLayout2 />
+            <InterventionExamples />
+            <TypicalStreet />
+            <Setbacks />
+            <ProposedIntervention />
+            <LayoutPlan />
+            <DevelopmentFramework2 />
+            <SmartTechnology />
+            <AerialView />
+            <CommercialBoulevard />
+            <CentralNode />
+            <PalmLake />
+            <Retail />
+            <MixedUse />
+            <RetailEntertainment />
+            <Cinemas />
+            <Hotel />
+            <CivicConvention />
+            <NightClub />
+            <TechHub />
+            <DayHospital />
+            <BankingOffices />
+            <Residential />
+            <Church />
+            <IndoorSport />
+            <School />
           </div>
         </div>
       </div>
@@ -277,11 +406,30 @@ const Projects = () => {
               </div>
             </div>
             <div className="col-md-6 col-12 p-img">
-              <img
-                src="/img/site-map/Recreational.png"
-                className="rounded-border shadow-primary project-img"
-                alt=""
-              />
+              <div className="shadow-primary p-3">
+                <Gallery>
+                  <Item
+                    original="/img/site-map/Recreational.png"
+                    thumbnail="/img/site-map/Recreational.png"
+                    width="1024"
+                    height="768"
+                    title="Millennium Park"
+                  >
+                    {({ ref, open }) => (
+                      <img
+                        ref={ref}
+                        onClick={open}
+                        src="/img/site-map/Recreational.png"
+                        style={{
+                          margin: "1px",
+                          border: "10px solid #d0aa63",
+                          cursor: "pointer",
+                        }}
+                      />
+                    )}
+                  </Item>
+                </Gallery>
+              </div>
             </div>
           </div>
         </div>
@@ -292,11 +440,30 @@ const Projects = () => {
         <div className="container">
           <div className="row">
             <div className="col-md-6 col-12">
-              <img
-                src="/img/site-map/utility.png"
-                className="rounded-border shadow-primary project-img"
-                alt=""
-              />
+              <div className="shadow-primary p-3">
+                <Gallery>
+                  <Item
+                    original="/img/site-map/utility.jpg"
+                    thumbnail="/img/site-map/utility.jpg"
+                    width="1024"
+                    height="768"
+                    title="Utility Area"
+                  >
+                    {({ ref, open }) => (
+                      <img
+                        ref={ref}
+                        onClick={open}
+                        src="/img/site-map/utility.jpg"
+                        style={{
+                          margin: "1px",
+                          border: "10px solid #d0aa63",
+                          cursor: "pointer",
+                        }}
+                      />
+                    )}
+                  </Item>
+                </Gallery>
+              </div>
             </div>
             <div className="col-md-6 col-12">
               <div className="pl-30-md">
@@ -330,14 +497,6 @@ const Projects = () => {
                         </div>
                         <div className="icon-text">
                           Industrial borehole & water treatment
-                        </div>
-                      </li>
-                      <li>
-                        <div className="icon-sm">
-                          <i className="fas fa-check-circle"></i>
-                        </div>
-                        <div className="icon-text">
-                          Central refuse collection
                         </div>
                       </li>
                     </ul>
@@ -424,11 +583,30 @@ const Projects = () => {
               </div>
             </div>
             <div className="col-md-6 col-12 p-img">
-              <img
-                src="/img/site-map/roads.png"
-                className="rounded-border shadow-primary project-img"
-                alt=""
-              />
+              <div className="shadow-primary p-3">
+                <Gallery>
+                  <Item
+                    original="/img/site-map/roads.png"
+                    thumbnail="/img/site-map/roads.png"
+                    width="1024"
+                    height="768"
+                    title="Roads"
+                  >
+                    {({ ref, open }) => (
+                      <img
+                        ref={ref}
+                        onClick={open}
+                        src="/img/site-map/roads.png"
+                        style={{
+                          margin: "1px",
+                          border: "10px solid #d0aa63",
+                          cursor: "pointer",
+                        }}
+                      />
+                    )}
+                  </Item>
+                </Gallery>
+              </div>
             </div>
           </div>
         </div>
@@ -457,15 +635,7 @@ const Projects = () => {
               <div className="icon-sm">
                 <i className="fas fa-check-circle"></i>
               </div>
-              <div className="icon-text">
-                Sub Arterial roads: access link road from main highway
-              </div>
-            </li>
-            <li>
-              <div className="icon-sm">
-                <i className="fas fa-check-circle"></i>
-              </div>
-              <div className="icon-text">2 bed apartment building.</div>
+              <div className="icon-text">2/3 bed apartment building.</div>
             </li>
             <li>
               <div className="icon-sm">
@@ -494,9 +664,9 @@ const Projects = () => {
         </div>
       </div>
 
-      {/* Two Bedroom Apartment Buildings */}
+      {/* Two/Three Bedroom Apartment Buildings */}
       <TwoBedroom />
-      {/* Four bedroom duplex */}
+
       {/* Four Bedroom Detached Duplex */}
       <FourBedroomDetached />
 

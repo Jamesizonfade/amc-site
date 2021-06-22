@@ -19,7 +19,7 @@ const News = () => {
                 <div className="service-block">
                   {/* Image */}
                   <img
-                    src={rec?.cover_img}
+                    src={rec?.thumbnail_img}
                     alt="img"
                     className="shadow-primary"
                     style={{ border: "2px solid #f6ecd2" }}

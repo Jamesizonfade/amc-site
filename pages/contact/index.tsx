@@ -19,7 +19,6 @@ const Contact = () => {
                   We’re Happy to Discuss Awka Millennium City with you and
                   Answer any Question.
                 </p>
-                <p>...and hey, we are online 24/7</p>
               </div>
             </div>
 
@@ -34,7 +33,7 @@ const Contact = () => {
                     <input type="text" name="name" placeholder="First Name*" />
                   </div>
                   <div className="col-sm-6 col-12">
-                    <input type="text" name="name" placeholder="Lasts Name*" />
+                    <input type="text" name="name" placeholder="Last Name*" />
                   </div>
                   <div className="col-12">
                     <textarea placeholder="Your Message*"></textarea>
@@ -135,10 +134,11 @@ const Contact = () => {
       {/* Map */}
       <div>
         <iframe
-          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3931.237450532857!2d8.863871717443848!3d9.830413700000026!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x105375a46a35b1a7%3A0xe6245d4ae13fdfc6!2sObaforex%20Global%20Trading!5e0!3m2!1sen!2sng!4v1618650461578!5m2!1sen!2sng"
-          className="full-width"
+          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d374853.8242706969!2d7.174687957322112!3d6.263753531190453!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x104379e327f4e263%3A0x2a4e473a6a8ae27c!2sAwka%20Millennium%20City!5e0!3m2!1sen!2sng!4v1623850942477!5m2!1sen!2sng"
           height="400"
+          className="full-width"
           style={{ border: "0" }}
+          loading="lazy"
         ></iframe>
       </div>
     </Layout>
