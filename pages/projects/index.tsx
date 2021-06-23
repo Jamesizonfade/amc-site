@@ -337,7 +337,7 @@ const Projects = () => {
 
           {/* Slider Container */}
           <div
-            className="owl-carousel owl-theme customizable-carousel shadow-primary house-container"
+            className="owl-carousel owl-theme customizable-carousel shadow-primary house-container commercial-cntr"
             data-loop="true"
             data-items="1"
             data-md-items="1"
@@ -443,8 +443,8 @@ const Projects = () => {
               <div className="shadow-primary p-3">
                 <Gallery>
                   <Item
-                    original="/img/site-map/utility.jpg"
-                    thumbnail="/img/site-map/utility.jpg"
+                    original="/img/site-map/utility.png"
+                    thumbnail="/img/site-map/utility.png"
                     width="1024"
                     height="768"
                     title="Utility Area"
@@ -453,7 +453,7 @@ const Projects = () => {
                       <img
                         ref={ref}
                         onClick={open}
-                        src="/img/site-map/utility.jpg"
+                        src="/img/site-map/utility.png"
                         style={{
                           margin: "1px",
                           border: "10px solid #d0aa63",

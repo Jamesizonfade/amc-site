@@ -49,9 +49,28 @@ const Home = () => {
                 </div>
                 <div className="text-content mt-15 text-justify">
                   <p style={{ lineHeight: "2.5" }}>
-                    AMC is a Premium multi-nucleic real estate development that
-                    is slated to redefine the concept of urban living within.
+                    Awka is the capital city of Anambra State which has west
+                    Africa's largest market in Onitsha. The state is ranked 1st
+                    in commercial trade volume in Nigeria's South-East region
+                    and known as one of the fastest growing economies in
+                    business hubs in Nigeria.
                   </p>
+                  <p>
+                    AMC will be a haven strategically located in Awka City.
+                    Conveniently located just steps from the new Government
+                    State House. It is positioned about 40km from the beautiful
+                    River Niger, making it easily accessible from Asaba
+                    International Airport. It's also conveniently accessible via
+                    Old Onitsha-Enugu road which is linked to the Onitsha-Enugu
+                    Express way.
+                  </p>
+                  <p>
+                    AMC has three major Airports within a 100km radius, Sam
+                    Mbakwe International Airport, Owerri, Akanu Ibiam
+                    International Airport, Enugu and Asaba International
+                    Airport.
+                  </p>
+                  <p>AMC could not have been better located!</p>
                 </div>
               </div>
 

@@ -306,6 +306,11 @@ a:hover {
   font-size: 24px !important;
 }
 
+.commercial-cntr {
+  max-height: 600px;
+  overflow-y: scroll;
+}
+
 @media screen and (max-width: 766px) {
   .mt-sm {
     margin-top: 50px !important;
@@ -326,6 +331,11 @@ a:hover {
   .house-img {
     padding: 5px !important;
     background-color: white !important;
+  }
+
+  .commercial-cntr {
+    max-height: 100% !important;
+    overflow: visible !important;
   }
 }
 

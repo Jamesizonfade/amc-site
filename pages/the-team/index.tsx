@@ -47,11 +47,16 @@ const TheTeam = () => {
               </div>
             </div>
             <div className="col-md-6 col-12 p-img">
-              <img
-                src="/img/the-team/mp-infrastructure.png"
-                className="rounded-border shadow-primary project-img"
-                alt=""
-              />
+              <div className="p-3 shadow-primary text-center">
+                <div style={{ border: "10px solid #d0aa63" }}>
+                  <img
+                    src="/img/the-team/mp-infrastructure.png"
+                    className="rounded-border project-img"
+                    style={{ width: "60% !important" }}
+                    alt=""
+                  />
+                </div>
+              </div>
             </div>
           </div>
         </div>
@@ -62,11 +67,16 @@ const TheTeam = () => {
         <div className="container">
           <div className="row">
             <div className="col-md-6 col-12">
-              <img
-                src="/img/the-team/ansippa.png"
-                className="rounded-border shadow-primary project-img"
-                alt=""
-              />
+              <div className="p-3 shadow-primary text-center">
+                <div style={{ border: "10px solid #d0aa63" }}>
+                  <img
+                    src="/img/the-team/ansippa.png"
+                    className="rounded-border project-img"
+                    style={{ width: "60% !important" }}
+                    alt=""
+                  />
+                </div>
+              </div>
             </div>
             <div className="col-md-6 col-12">
               <div className="pl-30-md">
@@ -124,11 +134,16 @@ const TheTeam = () => {
           </div>
           <div className="row">
             <div className="col-md-6 col-12">
-              <img
-                src="/img/the-team/amcdcl.png"
-                className="rounded-border shadow-primary project-img"
-                alt=""
-              />
+              <div className="p-3 shadow-primary text-center">
+                <div style={{ border: "10px solid #d0aa63" }}>
+                  <img
+                    src="/img/the-team/amcdcl.png"
+                    className="rounded-border project-img"
+                    style={{ width: "60% !important" }}
+                    alt=""
+                  />
+                </div>
+              </div>
             </div>
             <div className="col-md-6 col-12">
               <div className="pl-30-md">
@@ -169,11 +184,16 @@ const TheTeam = () => {
               </div>
             </div>
             <div className="col-md-6 col-12 p-img">
-              <img
-                src="/img/site-map/residential-plot.png"
-                className="rounded-border shadow-primary project-img"
-                alt=""
-              />
+              <div className="p-3 shadow-primary text-center">
+                <div style={{ border: "10px solid #d0aa63" }}>
+                  <img
+                    src="/img/the-team/delano-architects.png"
+                    className="rounded-border project-img"
+                    style={{ width: "60% !important" }}
+                    alt=""
+                  />
+                </div>
+              </div>
             </div>
           </div>
         </div>
@@ -184,11 +204,16 @@ const TheTeam = () => {
         <div className="container">
           <div className="row">
             <div className="col-md-6 col-12">
-              <img
-                src="/img/site-map/master-plan.png"
-                className="rounded-border shadow-primary project-img"
-                alt=""
-              />
+              <div className="p-3 shadow-primary text-center">
+                <div style={{ border: "10px solid #d0aa63" }}>
+                  <img
+                    src="/img/the-team/africa-united.png"
+                    className="rounded-border project-img"
+                    style={{ width: "60% !important" }}
+                    alt=""
+                  />
+                </div>
+              </div>
             </div>
             <div className="col-md-6 col-12">
               <div className="pl-30-md">
@@ -247,11 +272,16 @@ const TheTeam = () => {
               </div>
             </div>
             <div className="col-md-6 col-12 p-img">
-              <img
-                src="/img/the-team/greeff.png"
-                className="rounded-border shadow-primary project-img"
-                alt=""
-              />
+              <div className="p-3 shadow-primary text-center">
+                <div style={{ border: "10px solid #d0aa63" }}>
+                  <img
+                    src="/img/the-team/greeff.png"
+                    className="rounded-border project-img"
+                    style={{ width: "60% !important" }}
+                    alt=""
+                  />
+                </div>
+              </div>
             </div>
           </div>
         </div>
