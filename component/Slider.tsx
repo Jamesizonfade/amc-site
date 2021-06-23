@@ -49,10 +49,36 @@ export const Slider = () => {
                   data-elementdelay="0.05"
                 >
                   {rec?.title}
-                  <a id="btn-slider" href="/own-a-property">
-                    Own A Property
-                  </a>
                 </div>
+
+                <a
+                  href="/own-a-property"
+                  className="tp-caption rev-btn tp-resizeme slider-btn button-primary btn-slider"
+                  id="slide-1081-layer-13"
+                  data-x="['center','center','center','center']"
+                  data-hoffset="['0','0','0','0']"
+                  data-y="['middle','middle','middle','middle']"
+                  data-voffset="['100','100','100','30']"
+                  data-fontsize="['15','15','15','15']"
+                  data-fontweight="600"
+                  data-lineheight="['50','50','50','50']"
+                  data-width="['200','200','200','200']"
+                  data-height="none"
+                  data-whitespace="nowrap"
+                  data-start="1500"
+                  data-type="button"
+                  data-responsive_offset="on"
+                  data-splitin="none"
+                  data-splitout="none"
+                  data-frames='[{"delay":900,"speed":1000,"frame":"0","from":"y:50px;opacity:0;fb:10px;fbr:100;","to":"o:1;fb:0;fbr:100;","ease":"Power4.easeOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;fb:0;fbr:100;","ease":"Power3.easeInOut"},{"frame":"hover","speed":"200","ease":"Linear.easeNone","to":"o:1;rX:0;rY:0;rZ:0;z:0;fb:0;fbr:110%;","style":"c:rgba(255,255,255,1);bs:solid;bw:0 0 0 0;"}]'
+                  data-textAlign="['center','center','center','center']"
+                  data-paddingtop="[0,0,0,0]"
+                  data-paddingright="[0,0,0,0]"
+                  data-paddingbottom="[0,0,0,0]"
+                  data-paddingleft="[0,0,0,0]"
+                >
+                  Own A Property
+                </a>
               </li>
             ))}
           </ul>
