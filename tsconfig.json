@@ -22,7 +22,7 @@
     "next-env.d.ts",
     "**/*.ts",
     "**/*.tsx"
-, "pages/index.jsx", "pages/gallery/index.jsx", "pages/site-update/updates.jsx"  ],
+, "pages/index.jsx", "pages/gallery/index.jsx", "pages/site-update/updates.jsx", "component/commercial-plots/Church.jsx", "component/commercial-plots/CentralNode.jsx", "component/commercial-plots/BankingOffices.jsx", "component/commercial-plots/AerialView.jsx"  ],
   "exclude": [
     "node_modules"
   ]
