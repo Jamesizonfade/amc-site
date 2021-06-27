@@ -112,14 +112,6 @@ const Projects = () => {
                               <i className="fas fa-check-circle"></i>
                             </div>
                             <div className="icon-text">
-                              We give you accurate signals
-                            </div>
-                          </li>
-                          <li>
-                            <div className="icon-sm">
-                              <i className="fas fa-check-circle"></i>
-                            </div>
-                            <div className="icon-text">
                               Constant power and water supply
                             </div>
                           </li>
