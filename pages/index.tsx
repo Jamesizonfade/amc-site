@@ -15,12 +15,12 @@ const Home = () => {
         <div className="section-block grey-bg background-shape-3">
           <div className="container">
             <div className="row">
-              {/* Statement */}
-              <div className="col-md-6 col-12">
+              <div className="col-12">
                 <div className="section-heading">
                   <small className="uppercase text-primary">Who we are</small>
                   <h4 className="semi-bold">About Awka Millennium City</h4>
                 </div>
+
                 <div className="text-content mt-15 text-justify">
                   <p style={{ lineHeight: "2.5" }}>
                     AMC is a Premium multi-nucleic real estate development that
@@ -42,7 +42,9 @@ const Home = () => {
                     upon completion.
                   </p>
                 </div>
-
+              </div>
+              {/* Statement */}
+              <div className="col-md-6 col-12">
                 {/* Location */}
                 <div className="section-heading">
                   <h4 className="semi-bold">Location</h4>
@@ -137,7 +139,7 @@ const Home = () => {
               <div className="col-md-6 col-sm-12 col-12">
                 <div className="video-video-box full-width p-3 shadow-primary">
                   <img
-                    src="img/video-img2.png"
+                    src="img/video-img.png"
                     alt="img"
                     className="shadow-primary"
                   />
