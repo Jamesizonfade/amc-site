@@ -1,5 +1,307 @@
 [
   {
+    "id": "12",
+      "cover_img": "/img/site-update/4th-Dec-2020/4th-Dec-2020-00.jpg",
+      "cover_desc_comment": "Description should not be more than 160 characters, spaces inclusive. End with three dots to denote continuation",
+      "cover_desc": 
+        "In the past couple of weeks we commenced the rapid deployment of precast concrete stormwater drainage moulds....",
+      "date_range": "4th Dec. 2020",
+      "updates": [
+        {
+          "date": "4th Dec. 2020",
+          "thumbnail_img": "/img/site-update/4th-Dec-2020/4th-Dec-2020-00.jpg",
+          "original_img": "/img/site-update/4th-Dec-2020/4th-Dec-2020-00.jpg",
+          "desc": "Construction Update."
+        },
+        {
+          "date": "4th Dec. 2020",
+          "thumbnail_img": "/img/site-update/4th-Dec-2020/4th-Dec-2020-1.jpg",
+          "original_img": "/img/site-update/4th-Dec-2020/4th-Dec-2020-1.jpg",
+          "desc": "Construction Update."
+        },
+        {
+          "date": "4th Dec. 2020",
+          "thumbnail_img": "/img/site-update/4th-Dec-2020/4th-Dec-2020-2.jpg",
+          "original_img": "/img/site-update/4th-Dec-2020/4th-Dec-2020-2.jpg",
+          "desc": "Construction Update."
+        },
+        {
+          "date": "4th Dec. 2020",
+          "thumbnail_img": "/img/site-update/4th-Dec-2020/4th-Dec-2020-3.jpg",
+          "original_img": "/img/site-update/4th-Dec-2020/4th-Dec-2020-3.jpg",
+          "desc": "Construction Update."
+        },
+        {
+          "date": "4th Dec. 2020",
+          "thumbnail_img": "/img/site-update/4th-Dec-2020/4th-Dec-2020-4.jpg",
+          "original_img": "/img/site-update/4th-Dec-2020/4th-Dec-2020-4.jpg",
+          "desc": "Construction Update."
+        },
+        {
+          "date": "4th Dec. 2020",
+          "thumbnail_img": "/img/site-update/4th-Dec-2020/4th-Dec-2020-5.jpg",
+          "original_img": "/img/site-update/4th-Dec-2020/4th-Dec-2020-5.jpg",
+          "desc": "Construction Update."
+        },
+        {
+          "date": "4th Dec. 2020",
+          "thumbnail_img": "/img/site-update/4th-Dec-2020/4th-Dec-2020-6.jpg",
+          "original_img": "/img/site-update/4th-Dec-2020/4th-Dec-2020-6.jpg",
+          "desc": "Construction Update."
+        }
+        
+      ]
+    },
+  {
+    "id": "11",
+      "cover_img": "/img/site-update/30th-Sep-2020/30th-Sep-2020-00.jpg",
+      "cover_desc_comment": "Description should not be more than 160 characters, spaces inclusive. End with three dots to denote continuation",
+      "cover_desc": "AMC Construction Update in Preparation for The Dry Season",
+      "date_range": "30th Sep. 2020",
+      "updates": [
+        {
+          "date": "30th Sep. 2020",
+          "thumbnail_img": "/img/site-update/30th-Sep-2020/30th-Sep-2020-00.jpg",
+          "original_img": "/img/site-update/30th-Sep-2020/30th-Sep-2020-00.jpg",
+          "desc": "Construction Update."
+        },
+        {
+          "date": "30th Sep. 2020",
+          "thumbnail_img": "/img/site-update/30th-Sep-2020/30th-Sep-2020-1.jpg",
+          "original_img": "/img/site-update/30th-Sep-2020/30th-Sep-2020-1.jpg",
+          "desc": "Construction Update."
+        },
+        {
+          "date": "30th Sep. 2020",
+          "thumbnail_img": "/img/site-update/30th-Sep-2020/30th-Sep-2020-2.jpg",
+          "original_img": "/img/site-update/30th-Sep-2020/30th-Sep-2020-2.jpg",
+          "desc": "Construction Update."
+        },
+        {
+          "date": "30th Sep. 2020",
+          "thumbnail_img": "/img/site-update/30th-Sep-2020/30th-Sep-2020-3.jpg",
+          "original_img": "/img/site-update/30th-Sep-2020/30th-Sep-2020-3.jpg",
+          "desc": "Construction Update."
+        },
+        {
+          "date": "30th Sep. 2020",
+          "thumbnail_img": "/img/site-update/30th-Sep-2020/30th-Sep-2020-4.jpg",
+          "original_img": "/img/site-update/30th-Sep-2020/30th-Sep-2020-4.jpg",
+          "desc": "Construction Update."
+        },
+        {
+          "date": "30th Sep. 2020",
+          "thumbnail_img": "/img/site-update/30th-Sep-2020/30th-Sep-2020-5.jpg",
+          "original_img": "/img/site-update/30th-Sep-2020/30th-Sep-2020-5.jpg",
+          "desc": "Construction Update."
+        }
+      ]
+    },
+  {
+    "id": "10",
+      "cover_img": "/img/site-update/19th-May-2020/19th-May-2020-00.jpg",
+      "cover_desc_comment": "Description should not be more than 160 characters, spaces inclusive. End with three dots to denote continuation",
+      "cover_desc": "Awka Millenium City Site Update.",
+      "date_range": "19th May. 2020",
+      "updates": [
+        {
+          "date": "19th May. 2020",
+          "thumbnail_img": "/img/site-update/24th-Jan-2020/24th-Jan-2020-00.jpg",
+          "original_img": "/img/site-update/24th-Jan-2020/24th-Jan-2020-00.jpg",
+          "desc": "Site Update."
+        }
+      ]
+    },
+  {
+  "id": "9",
+    "cover_img": "/img/site-update/24th-Jan-2020/24th-Jan-2020-00.jpg",
+    "cover_desc_comment": "Description should not be more than 160 characters, spaces inclusive. End with three dots to denote continuation",
+    "cover_desc": "Awka Millenium City Site Clearing",
+    "date_range": "24th Jan. 2020",
+    "updates": [
+      {
+        "date": "24th Jan. 2020",
+        "thumbnail_img": "/img/site-update/24th-Jan-2020/24th-Jan-2020-00.jpg",
+        "original_img": "/img/site-update/24th-Jan-2020/24th-Jan-2020-00.jpg",
+        "desc": "AMC Site Clearing."
+      },
+      {
+        "date": "24th Jan. 2020",
+        "thumbnail_img": "/img/site-update/24th-Jan-2020/24th-Jan-2020-1.jpg",
+        "original_img": "/img/site-update/24th-Jan-2020/24th-Jan-2020-1.jpg",
+        "desc": "AMC Site Clearing."
+      },
+      {
+        "date": "24th Jan. 2020",
+        "thumbnail_img": "/img/site-update/24th-Jan-2020/24th-Jan-2020-2.jpg",
+        "original_img": "/img/site-update/24th-Jan-2020/24th-Jan-2020-2.jpg",
+        "desc": "AMC Site Clearing."
+      },
+      {
+        "date": "24th Jan. 2020",
+        "thumbnail_img": "/img/site-update/24th-Jan-2020/24th-Jan-2020-3.jpg",
+        "original_img": "/img/site-update/24th-Jan-2020/24th-Jan-2020-3.jpg",
+        "desc": "AMC Site Clearing."
+      },
+      {
+        "date": "24th Jan. 2020",
+        "thumbnail_img": "/img/site-update/24th-Jan-2020/24th-Jan-2020-4.jpg",
+        "original_img": "/img/site-update/24th-Jan-2020/24th-Jan-2020-4.jpg",
+        "desc": "AMC Site Clearing."
+      } 
+    ]
+  },
+  {
+    "id": "8",
+    "cover_img": "/img/site-update/19th-Dec-2019/19th-Dec-2019-00.jpg",
+    "cover_desc_comment": "Description should not be more than 160 characters, spaces inclusive. End with three dots to denote continuation",
+    "cover_desc": "Pictures from our Groundbreaking event, we were graced with the presence of Chief Willie Obiano, governor of Anambra State... ",
+    "date_range": "19th Dec. 2019",
+    "updates": [
+      {
+        "date": "19th Dec. 2019",
+        "thumbnail_img": "/img/site-update/19th-Dec-2019/19th-Dec-2019-00.jpg",
+        "original_img": "/img/site-update/19th-Dec-2019/19th-Dec-2019-00.jpg",
+        "desc": "AMC Groundbreaking Ceremony."
+      },
+      {
+        "date": "19th Dec. 2019",
+        "thumbnail_img": "/img/site-update/19th-Dec-2019/19th-Dec-2019-1.jpg",
+        "original_img": "/img/site-update/19th-Dec-2019/19th-Dec-2019-1.jpg",
+        "desc": "AMC Groundbreaking Ceremony."
+      },
+      {
+        "date": "19th Dec. 2019",
+        "thumbnail_img": "/img/site-update/19th-Dec-2019/19th-Dec-2019-2.jpg",
+        "original_img": "/img/site-update/19th-Dec-2019/19th-Dec-2019-2.jpg",
+        "desc": "AMC Groundbreaking Ceremony."
+      },
+      {
+        "date": "19th Dec. 2019",
+        "thumbnail_img": "/img/site-update/19th-Dec-2019/19th-Dec-2019-3.jpg",
+        "original_img": "/img/site-update/19th-Dec-2019/19th-Dec-2019-3.jpg",
+        "desc": "AMC Groundbreaking Ceremony."
+      },
+      {
+        "date": "19th Dec. 2019",
+        "thumbnail_img": "/img/site-update/19th-Dec-2019/19th-Dec-2019-4.jpg",
+        "original_img": "/img/site-update/19th-Dec-2019/19th-Dec-2019-4.jpg",
+        "desc": "AMC Groundbreaking Ceremony."
+      },
+      {
+        "date": "19th Dec. 2019",
+        "thumbnail_img": "/img/site-update/19th-Dec-2019/19th-Dec-2019-5.jpg",
+        "original_img": "/img/site-update/19th-Dec-2019/19th-Dec-2019-5.jpg",
+        "desc": "AMC Groundbreaking Ceremony."
+      },
+      {
+        "date": "19th Dec. 2019",
+        "thumbnail_img": "/img/site-update/19th-Dec-2019/19th-Dec-2019-6.jpg",
+        "original_img": "/img/site-update/19th-Dec-2019/19th-Dec-2019-6.jpg",
+        "desc": "AMC Groundbreaking Ceremony."
+      },
+      {
+        "date": "19th Dec. 2019",
+        "thumbnail_img": "/img/site-update/19th-Dec-2019/19th-Dec-2019-7.jpg",
+        "original_img": "/img/site-update/19th-Dec-2019/19th-Dec-2019-7.jpg",
+        "desc": "AMC Groundbreaking Ceremony."
+      },
+      {
+        "date": "19th Dec. 2019",
+        "thumbnail_img": "/img/site-update/19th-Dec-2019/19th-Dec-2019-8.jpg",
+        "original_img": "/img/site-update/19th-Dec-2019/19th-Dec-2019-8.jpg",
+        "desc": "AMC Groundbreaking Ceremony."
+      },
+      {
+        "date": "19th Dec. 2019",
+        "thumbnail_img": "/img/site-update/19th-Dec-2019/19th-Dec-2019-9.jpg",
+        "original_img": "/img/site-update/19th-Dec-2019/19th-Dec-2019-9.jpg",
+        "desc": "AMC Groundbreaking Ceremony."
+      },
+      {
+        "date": "19th Dec. 2019",
+        "thumbnail_img": "/img/site-update/19th-Dec-2019/19th-Dec-2019-10.jpg",
+        "original_img": "/img/site-update/19th-Dec-2019/19th-Dec-2019-10.jpg",
+        "desc": "AMC Groundbreaking Ceremony."
+      },
+      {
+        "date": "19th Dec. 2019",
+        "thumbnail_img": "/img/site-update/19th-Dec-2019/19th-Dec-2019-11.jpg",
+        "original_img": "/img/site-update/19th-Dec-2019/19th-Dec-2019-11.jpg",
+        "desc": "AMC Groundbreaking Ceremony."
+      },
+      {
+        "date": "19th Dec. 2019",
+        "thumbnail_img": "/img/site-update/19th-Dec-2019/19th-Dec-2019-12.jpg",
+        "original_img": "/img/site-update/19th-Dec-2019/19th-Dec-2019-12.jpg",
+        "desc": "AMC Groundbreaking Ceremony."
+      },
+      {
+        "date": "19th Dec. 2019",
+        "thumbnail_img": "/img/site-update/19th-Dec-2019/19th-Dec-2019-13.jpg",
+        "original_img": "/img/site-update/19th-Dec-2019/19th-Dec-2019-13.jpg",
+        "desc": "AMC Groundbreaking Ceremony."
+      },
+      {
+        "date": "19th Dec. 2019",
+        "thumbnail_img": "/img/site-update/19th-Dec-2019/19th-Dec-2019-14.jpg",
+        "original_img": "/img/site-update/19th-Dec-2019/19th-Dec-2019-14.jpg",
+        "desc": "AMC Groundbreaking Ceremony."
+      },
+      {
+        "date": "19th Dec. 2019",
+        "thumbnail_img": "/img/site-update/19th-Dec-2019/19th-Dec-2019-15.jpg",
+        "original_img": "/img/site-update/19th-Dec-2019/19th-Dec-2019-15.jpg",
+        "desc": "AMC Groundbreaking Ceremony."
+      }   
+    ]
+  },
+  {
+    "id": "7",
+    "cover_img": "/img/site-update/16th-Dec-2019/16th-Dec-2019-1.jpg",
+    "cover_desc_comment": "Description should not be more than 160 characters, spaces inclusive. End with three dots to denote continuation",
+    "cover_desc": "AMC Site Progress",
+    "date_range": "16th Dec. 2019",
+    "updates": [
+      {
+        "date": "16th Dec. 2019",
+        "thumbnail_img": "/img/site-update/16th-Dec-2019/16th-Dec-2019-1.jpg",
+        "original_img": "/img/site-update/16th-Dec-2019/16th-Dec-2019-1.jpg",
+        "desc": "Monument gate facing factory maintenance workshop monument gate from access road."
+      },
+      {
+        "date": "16th Dec. 2019",
+        "thumbnail_img": "/img/site-update/16th-Dec-2019/16th-Dec-2019-2.jpg",
+        "original_img": "/img/site-update/16th-Dec-2019/16th-Dec-2019-2.jpg",
+        "desc": "Monument gate facing factory maintenance workshop monument gate from access road."
+      },
+      {
+        "date": "16th Dec. 2019",
+        "thumbnail_img": "/img/site-update/16th-Dec-2019/16th-Dec-2019-3.jpg",
+        "original_img": "/img/site-update/16th-Dec-2019/16th-Dec-2019-3.jpg",
+        "desc": "Monument gate facing factory maintenance workshop monument gate from access road."
+      },
+      {
+        "date": "16th Dec. 2019",
+        "thumbnail_img": "/img/site-update/16th-Dec-2019/16th-Dec-2019-4.jpg",
+        "original_img": "/img/site-update/16th-Dec-2019/16th-Dec-2019-4.jpg",
+        "desc": "Monument gate facing factory maintenance workshop monument gate from access road."
+      },
+      {
+        "date": "16th Dec. 2019",
+        "thumbnail_img": "/img/site-update/16th-Dec-2019/16th-Dec-2019-5.jpg",
+        "original_img": "/img/site-update/16th-Dec-2019/16th-Dec-2019-5.jpg",
+        "desc": "Monument gate facing factory maintenance workshop monument gate from access road."
+      },
+      {
+        "date": "16th Dec. 2019",
+        "thumbnail_img": "/img/site-update/16th-Dec-2019/16th-Dec-2019-6.jpg",
+        "original_img": "/img/site-update/16th-Dec-2019/16th-Dec-2019-6.jpg",
+        "desc": "Monument gate facing factory maintenance workshop monument gate from access road."
+      }
+    ]
+  },
+  {
     "id": "1",
     "cover_img": "/img/site-update/jan2021/thumbnail/1.png",
     "cover_desc_comment": "Description should not be more than 160 characters, spaces inclusive. End with three dots to denote continuation",
