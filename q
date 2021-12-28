@@ -1,0 +1,164 @@
+[33mcommit fab3cefc6f403fa7bdeba226058af50be26ce4d0[m[33m ([m[1;36mHEAD -> [m[1;32mizonfade-patch5[m[33m)[m
+Author: James <izonfadejames@gmail.com>
+Date:   Fri Dec 17 23:13:06 2021 +0100
+
+    added site updates. changed forsale sign. Changed price list document
+
+[33mcommit 6ee6f36f5a4560adda76ced44ca644e836ef57b3[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Merge: cb168c9 6264144
+Author: Izonfade James <78848652+Jamesizonfade@users.noreply.github.com>
+Date:   Fri Dec 17 00:51:05 2021 +0100
+
+    Merge pull request #2 from Jamesizonfade/Jamesizonfade-patch-2
+    
+    Added new items to news
+
+[33mcommit cb168c941ef3f862db09c83f9b430d3f12901903[m
+Merge: d22367f 8b425d5
+Author: Izonfade James <78848652+Jamesizonfade@users.noreply.github.com>
+Date:   Fri Dec 17 00:42:44 2021 +0100
+
+    Merge pull request #3 from Jamesizonfade/Jamesizonfade-patch-3
+    
+    Added news files to img
+
+[33mcommit 8b425d574441e4e909e330365185440798a100fc[m[33m ([m[1;31morigin/Jamesizonfade-patch-3[m[33m)[m
+Author: Izonfade James <78848652+Jamesizonfade@users.noreply.github.com>
+Date:   Fri Dec 17 00:40:49 2021 +0100
+
+    Added news files to img
+
+[33mcommit 62641448fbcc09d20f1c7d4236e4534ddab77be2[m[33m ([m[1;31morigin/Jamesizonfade-patch-2[m[33m)[m
+Author: Izonfade James <78848652+Jamesizonfade@users.noreply.github.com>
+Date:   Fri Dec 17 00:25:16 2021 +0100
+
+    Added new items to news
+
+[33mcommit d22367f1410023dc45c38b2f327560271accdc30[m
+Merge: 316fffa b1f6a80
+Author: Izonfade James <78848652+Jamesizonfade@users.noreply.github.com>
+Date:   Thu Dec 16 17:14:29 2021 +0100
+
+    Merge pull request #1 from Jamesizonfade/Jamesizonfade-patch-1
+    
+    changed sale sign color and information
+
+[33mcommit b1f6a8006aa12b79cb579dba1e2c0ca2d8d9024e[m[33m ([m[1;31morigin/Jamesizonfade-patch-1[m[33m)[m
+Author: Izonfade James <78848652+Jamesizonfade@users.noreply.github.com>
+Date:   Tue Nov 16 17:16:00 2021 +0100
+
+    changed sale sign color and information
+
+[33mcommit 316fffa872f38f0f8bb9e1011ad5447df3925a2c[m
+Author: agkeze1 <engr.ejikeeze@gmail.com>
+Date:   Sun Jun 27 19:13:05 2021 +0100
+
+    Changed video thumbnail image for City Progress
+
+[33mcommit 8a97163a261ae71e6f6f719c6db14bd305e1e82b[m
+Author: agkeze1 <engr.ejikeeze@gmail.com>
+Date:   Sun Jun 27 18:14:23 2021 +0100
+
+    Updated json pictures of 4-bedroom-duplexes in Project page
+
+[33mcommit e06f5737a125ae2c3cec80a5c2ffc201ecf318af[m
+Author: agkeze1 <engr.ejikeeze@gmail.com>
+Date:   Wed Jun 23 12:34:16 2021 +0100
+
+    Changed slider button
+
+[33mcommit cb6ae98b0c4b42f8c051724da0f0b9328bbb49d9[m
+Author: agkeze1 <engr.ejikeeze@gmail.com>
+Date:   Wed Jun 23 11:46:04 2021 +0100
+
+    Changed tsx to jsx because of use of ref in commercial page Components
+
+[33mcommit f2bd7615f0836444939cfc7da39802d1a77b18b8[m
+Author: agkeze1 <engr.ejikeeze@gmail.com>
+Date:   Wed Jun 23 11:04:20 2021 +0100
+
+    Updated The-Team page
+
+[33mcommit 8a47912e98873eed1ec582908af961fa40abf325[m
+Author: agkeze1 <engr.ejikeeze@gmail.com>
+Date:   Wed Jun 23 00:50:14 2021 +0100
+
+    Addressed Client's concerns on Home and Projec Pages
+
+[33mcommit 34eaa72d87c93df29aa7dca08ce22cbb26fa34ff[m
+Author: agkeze1 <engr.ejikeeze@gmail.com>
+Date:   Tue Jun 8 12:07:21 2021 +0100
+
+    Replaced corrupted picture of gallery
+
+[33mcommit b2168ff7cdf0f0e10b7c2f23f1a098b0f3d577ac[m
+Author: agkeze1 <engr.ejikeeze@gmail.com>
+Date:   Mon Jun 7 22:28:02 2021 +0100
+
+    Completed Site-update and gallery
+
+[33mcommit ceea2a244a8f8588b666cf2b63021d5037ddd268[m
+Author: agkeze1 <engr.ejikeeze@gmail.com>
+Date:   Thu Jun 3 13:00:15 2021 +0100
+
+    Added date on News
+
+[33mcommit 96fbbf79ac2951526f21066ef8f380d978a0cea7[m
+Author: agkeze1 <engr.ejikeeze@gmail.com>
+Date:   Wed Jun 2 15:19:13 2021 +0100
+
+    Completed News page
+
+[33mcommit b3dcaafeafb0a5b58070cdad610642662bfac13a[m
+Author: agkeze1 <engr.ejikeeze@gmail.com>
+Date:   Thu May 13 19:31:18 2021 +0100
+
+    Developed Own-A-Property Page
+
+[33mcommit 3ba6ae669586f20e917ad55e853eed865f4cd428[m
+Author: agkeze1 <engr.ejikeeze@gmail.com>
+Date:   Thu May 13 18:38:39 2021 +0100
+
+    Developed The-Team page
+
+[33mcommit 89dd91abd85220fbcee9e95e3d27a3ebbe3f3aae[m
+Author: agkeze1 <engr.ejikeeze@gmail.com>
+Date:   Thu May 13 10:29:09 2021 +0100
+
+    Updated Projects page
+
+[33mcommit 6649370f61448ad8c9eb3ba8183ce35524abf203[m
+Author: agkeze1 <engr.ejikeeze@gmail.com>
+Date:   Wed May 12 21:59:53 2021 +0100
+
+    Completed Projects page
+
+[33mcommit ddb185ac57fe88159ebe910d6d922cf067fb4457[m
+Author: agkeze1 <engr.ejikeeze@gmail.com>
+Date:   Wed May 12 21:21:31 2021 +0100
+
+    Developed 90% of Projects page
+
+[33mcommit b56ce442ec8948eb644902bf84a37624f7a7079d[m
+Author: agkeze1 <engr.ejikeeze@gmail.com>
+Date:   Sat May 1 19:30:53 2021 +0100
+
+    made image full width on index
+
+[33mcommit b1a74472f26ad0cfad463ee2369ab706c2cd15f6[m
+Author: agkeze1 <engr.ejikeeze@gmail.com>
+Date:   Sat May 1 19:25:33 2021 +0100
+
+    Removed top margin on Partners logos
+
+[33mcommit 6cf90ae57912382dc97b3c50d9aa1c237fbed8b1[m
+Author: agkeze1 <engr.ejikeeze@gmail.com>
+Date:   Sat May 1 18:11:04 2021 +0100
+
+    Deleted unreferenced import statements
+
+[33mcommit 8c7e7d9421c75d396ad9ce0b8ca55d7538b38f43[m
+Author: agkeze1 <engr.ejikeeze@gmail.com>
+Date:   Sat May 1 17:47:15 2021 +0100
+
+    Created New Project and developed home page
