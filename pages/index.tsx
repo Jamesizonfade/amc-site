@@ -161,7 +161,7 @@ const Home = () => {
                   data-iziModal-fullscreen="true"
                 >
                   {<iframe width="560" 
-                  height="315" 
+                  // height="315" 
                   src="https://www.youtube.com/embed/Ra-kZeLzNcU" 
                   title="AMC site video" 
                   frameBorder="0"
