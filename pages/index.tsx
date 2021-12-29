@@ -160,14 +160,22 @@ const Home = () => {
                   data-iziModal-width="800px"
                   data-iziModal-fullscreen="true"
                 >
-                  <iframe
+                  {/* <iframe
                     height="425"
                     src="https://www.youtube.com/embed/Ra-kZeLzNcU"
                     title="AMC Site Video"
                     frameBorder="0"
                     className="full-width shadow-primary"
                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                  ></iframe>
+                  ></iframe> */}
+                  <iframe width="560" 
+                  height="315" 
+                  src="https://www.youtube.com/embed/Ra-kZeLzNcU" 
+                  title="AMC site video" 
+                  frameBorder="0"
+                  className="full-width shadow-primary" 
+                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture">
+                  </iframe>
                   
                 </div>
               </div>
