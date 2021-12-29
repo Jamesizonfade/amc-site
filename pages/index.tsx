@@ -162,12 +162,13 @@ const Home = () => {
                 >
                   <iframe
                     height="425"
-                    src="https://www.youtu.be/Ra-kZeLzNcU"
+                    src="https://www.youtube.com/embed/Ra-kZeLzNcU"
                     title="AMC Site Video"
                     frameBorder="0"
                     className="full-width shadow-primary"
                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                   ></iframe>
+                  
                 </div>
               </div>
 
