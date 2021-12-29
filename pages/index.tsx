@@ -139,7 +139,7 @@ const Home = () => {
               <div className="col-md-6 col-sm-12 col-12">
                 <div className="video-video-box full-width p-3 shadow-primary">
                   <img
-                    src="img/video-img.png"
+                    src="img/city-progress-video-thumbnail.jpg"
                     alt="img"
                     className="shadow-primary"
                   />
