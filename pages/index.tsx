@@ -162,7 +162,7 @@ const Home = () => {
                 >
                   <iframe
                     height="425"
-                    src="https://youtu.be/Ra-kZeLzNcU"
+                    src="https://www.youtu.be/Ra-kZeLzNcU"
                     title="AMC Site Video"
                     frameBorder="0"
                     className="full-width shadow-primary"
