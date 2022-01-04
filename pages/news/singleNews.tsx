@@ -64,6 +64,25 @@ const SingleNews = ({ id }) => {
             </div>
           )}
 
+          {/* body_video */}
+          {news[parseInt(id)].body_video && (
+            <div
+              className="shadow-primary mt-5 mb-5"
+              style={{
+                padding: "0",
+                textAlign: "center",
+                // marginLeft: "20px",
+                background: "",
+              }}
+            >
+              <video width="640" height="480" controls>
+              <source src={news[parseInt(id)].body_video} type="video/mp4"/>
+                alt=""
+                {/* style={{ width: "100%" }} */}
+              </video>
+            </div>
+          )}
+
           {/* body_content2 */}
           {news[parseInt(id)].body_content2.map((rec, idx) => (
             <>
