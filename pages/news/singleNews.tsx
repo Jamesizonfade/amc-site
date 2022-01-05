@@ -69,7 +69,7 @@ const SingleNews = ({ id }) => {
             <div
               className="shadow-primary mt-5 mb-5"
               style={{
-                padding: "30px",
+                padding: "5px",
                 textAlign: "center",
                 // marginLeft: "20px",
                 background: "",
