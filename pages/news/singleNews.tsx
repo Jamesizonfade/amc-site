@@ -69,13 +69,13 @@ const SingleNews = ({ id }) => {
             <div
               className="shadow-primary mt-5 mb-5"
               style={{
-                padding: "0",
+                padding: "30px",
                 textAlign: "center",
                 // marginLeft: "20px",
                 background: "",
               }}
             >
-              <video width="640" height="480" controls>
+              <video width="70%" height="70%" controls>
               <source src={news[parseInt(id)].body_video} type="video/mp4"/>
                 alt=""
                 {/* style={{ width: "100%" }} */}
