@@ -1,5 +1,30 @@
 [
   {
+    "id": "14",
+    "thumbnail_img": "/img/news/news-14/news-14.jpg",
+    "short_title_comment": "Short_title should not be more than 38 characters, spaces inclusive. End with three dots to denote continuation",
+    "short_title": "Obi Cubana Visits Awka Millennium City",
+    "full_title": "On Thursday, 6th January 2022, Chief Obi Iyiegbu (Okpataozuora) visited AMC",
+    "desc_comment": "Description should not be more than 160 characters, spaces inclusive. End with three dots to denote continuation",
+    "desc": "It was a pleasure hosting Chief Obi Iyiegbu (Okpataozuora), popularly known as Obi Cubana",
+    "date": "6th January 2022",
+    "top_img": "",
+    "body_content1": [
+      "It was a pleasure hosting Chief Obi Iyiegbu (Okpataozuora), popularly known as Obi Cubana at the Awka Millennium City on Thursday, 6th January 2022. We had a great time at the breakfast meeting with Obi Cubana who also toured the AMC. He expressed his satisfaction with the work in progress while identifying his plot and calling on you to invest in AMC. "  
+    ],
+    "body_img_title": "",
+    "body_img1": "",
+    "body_video": "/videos/news-14.mp4",
+    "body_content2": [
+      "He praised Dr. Clem Nwogbo, Chairman, M-P Infrastructure for his vision in bringing such investment home and pioneering the first Smart City in SouthEast Nigeria.",
+      "They say money doesn’t grow on trees, but it can grow when you invest wisely! Be like Obi Cubana who has invested in AMC. Put your monies where you will get value and a High Return on Investment. Unlike others, Land will only appreciate!"   
+    ],
+    "bottom_imgs_title": "",
+    "bottom_imgs": [
+      ""
+    ]
+  },
+  {
     "id": "13",
     "thumbnail_img": "/img/news/news-13/news-13.jpg",
     "short_title_comment": "Short_title should not be more than 38 characters, spaces inclusive. End with three dots to denote continuation",
@@ -144,7 +169,7 @@
   },
   {
     "id": "8",
-    "thumbnail_img": "/img/news/news-8/news-8ai.png",
+    "thumbnail_img": "/img/news/news-8/news-8aii.png",
     "short_title_comment": "Short_title should not be more than 38 characters, spaces inclusive. End with three dots to denote continuation",
     "short_title": "A new city is coming to the East",
     "full_title": "A new city is coming to the East",
