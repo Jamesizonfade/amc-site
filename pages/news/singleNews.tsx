@@ -67,7 +67,7 @@ const SingleNews = ({ id }) => {
           {/* body_video */}
           {news[parseInt(id)].body_video && (
             <div
-              // className="shadow-primary mt-5 mb-5"
+              className=""
               style={{
                 padding: "0",
                 textAlign: "center",
