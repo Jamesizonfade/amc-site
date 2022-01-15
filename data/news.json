@@ -1,5 +1,34 @@
 [
   {
+    "id": "15",
+    "thumbnail_img": "/img/news/news-15/news-15.jpg",
+    "short_title_comment": "Short_title should not be more than 38 characters, spaces inclusive. End with three dots to denote continuation",
+    "short_title": "Governor Willie Obiano at AMC",
+    "full_title": "Governor Willie Obiano Inspects Ongoing Works at Awka Millennium City",
+    "desc_comment": "Description should not be more than 160 characters, spaces inclusive. End with three dots to denote continuation",
+    "desc": "We were honored by the presence of the Executive Governor of Anambra State, His Excellency, Chief Willie Obiano at the AMC on Monday, 10th January 2022.",
+    "date": "10th January, 2022",
+    "top_img": "",
+    "body_content1": [
+      "We were honored by the presence of the Executive Governor of Anambra State, His Excellency, Chief Willie Obiano at the Awka Millenium City on Monday, 10th January 2022. Recall that on 19th June 2019, the Governor alongside members of Anambra State Executive Council were at the MoU signing ceremony of the Awka Millennium City project."
+    ],
+    "body_img_title": "",
+    "body_img1": "",
+    "body_video": "/videos/news-15.mp4",
+    "body_content2": [
+      "It was a fulfilling tour for the Governor as he witnessed firsthand the Infrastructural development within the course of 2 years. Chief Obiano applauded the M-P Infrastructure team led by the Chairman, Dr. Clem Nwogbo for bringing such a life-changing project to Anambra State.",
+      "The Estate will be the first Smart City in Southeast Nigeria, making it the best place to live and with the proximity of the recently opened Airport to the Estate, there is no better place than Awka Millennium City. ",
+      "The Governor called on Ndi-Anambra and Non-Ndi Anambra to own a piece of AMC both for residential and commercial purposes.",
+      "The Chairman, M-P Infrastructure, Dr. Clem Nwogbo appreciated the Governor for this unwavering support in the development of the AMC project.",
+      "He acknowledged the determination of the Governor in the development of critical infrastructures within the State.",
+      "He stated that the Awka Millennium City is built to be a liveable estate; it is secured and environmentally compliant, driven by the best technology, and beautified with state-of-the-art facilities."
+    ],
+    "bottom_imgs_title": "",
+    "bottom_imgs": [
+      ""
+    ]
+  },
+  {
     "id": "14",
     "thumbnail_img": "/img/news/news-14/news-14.jpg",
     "short_title_comment": "Short_title should not be more than 38 characters, spaces inclusive. End with three dots to denote continuation",
@@ -206,8 +235,7 @@
     "body_img_title": "",
     "body_img1": "",
     "body_content2": [
-      "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)."
-    ],
+      ""],
     "bottom_imgs_title": "",
     "bottom_imgs": [
       ""
@@ -224,15 +252,14 @@
     "date": "29th Jan 2021",
     "top_img": "/img/news/news-1.png",
     "body_content1": [
-      "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem ipsum dolor sit amet.., comes from a line in section 1.10.32.",
-      "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc."
+      "" 
     ],
-    "body_img_title": "Body Image Title",
+    "body_img_title": "",
     "body_img1": "/img/news/news-4.png",
     "body_content2": [
-      "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)."
-    ],
-    "bottom_imgs_title": "Bottom Images Title",
+     "" 
+     ],
+    "bottom_imgs_title": "",
     "bottom_imgs": [
       "/img/news/news-4.png",
       "/img/news/news-5.png",
@@ -253,7 +280,7 @@
     "body_img_title": "",
     "body_img1": "",
     "body_content2": [],
-    "bottom_imgs_title": "Bottom Images Title",
+    "bottom_imgs_title": "",
     "bottom_imgs": []
   },
   {
@@ -270,7 +297,7 @@
     "body_img_title": "",
     "body_img1": "",
     "body_content2": [],
-    "bottom_imgs_title": "Bottom Images Title",
+    "bottom_imgs_title": "",
     "bottom_imgs": []
   },
   {
@@ -287,7 +314,7 @@
     "body_img_title": "",
     "body_img1": "",
     "body_content2": [],
-    "bottom_imgs_title": "Bottom Images Title",
+    "bottom_imgs_title": "",
     "bottom_imgs": []
   },
   {
@@ -301,15 +328,14 @@
     "date": "29th Jan 2021",
     "top_img": "",
     "body_content1": [
-      "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem ipsum dolor sit amet.., comes from a line in section 1.10.32.",
-      "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc."
+      ""  
     ],
     "body_img_title": "",
     "body_img1": "/img/news/news-4.png",
     "body_content2": [
-      "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)."
-    ],
-    "bottom_imgs_title": "Bottom Images Title",
+     ""  
+     ],
+    "bottom_imgs_title": "",
     "bottom_imgs": [
       "/img/news/news-4.png",
       "/img/news/news-5.png",
@@ -327,15 +353,14 @@
     "date": "29th Jan 2021",
     "top_img": "",
     "body_content1": [
-      "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem ipsum dolor sit amet.., comes from a line in section 1.10.32.",
-      "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc."
+      ""  
     ],
     "body_img_title": "",
     "body_img1": "/img/news/news-4.png",
     "body_content2": [
-      "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like)."
-    ],
-    "bottom_imgs_title": "Bottom Images Title",
+      ""  
+     ],
+    "bottom_imgs_title": "",
     "bottom_imgs": [
       "/img/news/news-4.png",
       "/img/news/news-5.png",
