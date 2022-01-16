@@ -75,7 +75,7 @@ const SingleNews = ({ id }) => {
                 background: "",
               }}
             >
-              <video width="80%" height="80%" controls>
+              <video width="80%" height="80%" controls poster={news[parseInt(id)].body_video_thumbnail}>
               <source src={news[parseInt(id)].body_video} type="video/mp4"/>
                 alt=""
                 {/* style={{ width: "100%" }} */}
