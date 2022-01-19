@@ -5,7 +5,7 @@ export const FourBedroomTerrace = () => {
     <div className="section-block section-sm border-bottom partners">
       <div className="container">
         <div className="section-heading text-center mb-5">
-          <h3 className="semi-bold">Four Bedroom Terrace Houses</h3>
+          <h3 className="semi-bold">3-Bedroom Terraces & Maisonettes.</h3>
           <div className="section-heading-line"></div>
         </div>
         <div

@@ -5,7 +5,7 @@ export const TwoBedroom = () => {
     <div className="section-block section-sm border-bottom partners">
       <div className="container">
         <div className="section-heading text-center mb-5">
-          <h3 className="semi-bold">Two / Three Bedroom Apartment Buildings</h3>
+          <h3 className="semi-bold">3-Bedroom Apartments & Maisonettes</h3>
           <div className="section-heading-line"></div>
         </div>
         <div

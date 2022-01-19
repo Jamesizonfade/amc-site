@@ -6,6 +6,7 @@ export const FourBedroomDetached = () => {
       <div className="container">
         <div className="section-heading text-center mb-5">
           <h3 className="semi-bold">Four Bedroom Detached Duplex</h3>
+          <h3 className="semi-bold">IJELE</h3>
           <div className="section-heading-line"></div>
         </div>
         <div

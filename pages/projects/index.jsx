@@ -627,25 +627,25 @@ const Projects = () => {
               <div className="icon-sm">
                 <i className="fas fa-check-circle"></i>
               </div>
-              <div className="icon-text">2/3 bed apartment building.</div>
+              <div className="icon-text">3-Bedroom Apartments & Maisonettes.</div>
             </li>
             <li>
               <div className="icon-sm">
                 <i className="fas fa-check-circle"></i>
               </div>
-              <div className="icon-text">4 bed terrace houses.</div>
+              <div className="icon-text">3-Bedroom Terraces & Maisonettes.</div>
             </li>
             <li>
               <div className="icon-sm">
                 <i className="fas fa-check-circle"></i>
               </div>
-              <div className="icon-text">4 bed detached duplex.</div>
+              <div className="icon-text">4-Bedroom Detached Duplex (500sqm plot).</div>
             </li>
             <li>
               <div className="icon-sm">
                 <i className="fas fa-check-circle"></i>
               </div>
-              <div className="icon-text">5 bed villa.</div>
+              <div className="icon-text">5-Bedroom Detached Duplex (1000sqm plot).</div>
             </li>
           </ul>
           <br />
@@ -656,16 +656,16 @@ const Projects = () => {
         </div>
       </div>
 
-      {/* Two/Three Bedroom Apartment Buildings */}
+      {/* 3-Bedroom Apartments & Maisoneetes*/}
       <TwoBedroom />
 
-      {/* Four Bedroom Detached Duplex */}
-      <FourBedroomDetached />
-
-      {/* Four Bedroom Terrace Houses */}
+      {/* 3-Bedroom Terraces & Maisonettes */}
       <FourBedroomTerrace />
 
-      {/* Five Bedroom Villa */}
+      {/* 4-Bedroom Detached Duplex (500sqm plot) */}
+      <FourBedroomDetached />
+
+      {/* 5-Bedroom Detached Duplex */}
       <FiveBedroom />
     </Layout>
   );
