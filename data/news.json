@@ -1,4 +1,30 @@
 [
+  
+  {
+    "id": "16",
+    "thumbnail_img": "/img/news/news-16/news-16.jpg",
+    "short_title_comment": "Short_title should not be more than 38 characters, spaces inclusive. End with three dots to denote continuation",
+    "short_title": "AMC Site Tour",
+    "full_title": "AMC Site Tour- Thank you for visiting",
+    "desc_comment": "Description should not be more than 160 characters, spaces inclusive. End with three dots to denote continuation",
+    "desc": "We celebrate our super existing subscribers who made out time to see the progress of works at AMC",
+    "date": "January, 2022",
+    "top_img": "",
+    "body_content1": [
+      "We had an amazing time during the site tour because you visited! We say a very big thank you to H.E. Chief Willie Obiano, Governor, Anambra State. Special thanks to Senator Ben Obi, Chief Obi Iyiegbu (Okpataozuora), popularly known as Obi Cubana Obi Cubana, and Phyno Fino, Ezege."
+    ],
+    "body_img_title": "",
+    "body_img1": "",
+    "body_video": "/videos/news-16.mp4",
+    "body_video_thumbnail":"/img/news/news-16/news-16i.jpg",
+    "body_content2": [
+      "We celebrate our super existing subscribers who made out time to see the progress of works at AMC, it was exciting showing you around. To our New Subscribers, you made the best decision by putting your money where you will get value and a high return on investment.",
+      "We remain committed to our promises this year and will keep you abreast of the milestones as we move along. Cheers to a prosperous 2022!" ],
+    "bottom_imgs_title": "",
+    "bottom_imgs": [
+      ""
+    ]
+  },
   {
     "id": "15",
     "thumbnail_img": "/img/news/news-15/news-15.jpg",
@@ -222,7 +248,7 @@
   },
   {
     "id": "7",
-    "thumbnail_img": "/img/news/news-7/news-7ii.png",
+    "thumbnail_img": "/img/news/news-7/news-7.jpg",
     "short_title_comment": "Short_title should not be more than 38 characters, spaces inclusive. End with three dots to denote continuation",
     "short_title": "MOU Signing",
     "full_title": "MOU Signing with the Anambra state Government",
