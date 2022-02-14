@@ -1,72 +1,124 @@
 [
   {
-    "date_range": "January 1st 2021 - June 30th 2021",
-    "images": [
-      {
-        "desc": "Due to an influx of site visits this week, we have decided to extend our tour dates till the 11th of January 2021.",
-        "thumbnail_img": "/img/gallery/thumbnail/1.png",
-        "original_img": "/img/gallery/original/1.png"
-      },
-      {
-        "desc": "",
-        "thumbnail_img": "/img/gallery/thumbnail/2.png",
-        "original_img": "/img/gallery/original/2.png"
-      },
-      {
-        "desc": "",
-        "thumbnail_img": "/img/gallery/thumbnail/3.png",
-        "original_img": "/img/gallery/original/3.png"
-      },
-      {
-        "desc": "",
-        "thumbnail_img": "/img/gallery/thumbnail/4.png",
-        "original_img": "/img/gallery/original/4.png"
-      },
-      {
-        "desc": "",
-        "thumbnail_img": "/img/gallery/thumbnail/5.png",
-        "original_img": "/img/gallery/original/5.png"
-      },
-      {
-        "desc": "",
-        "thumbnail_img": "/img/gallery/thumbnail/6.png",
-        "original_img": "/img/gallery/original/6.png"
-      }
-    ]
+    "id":"6",
+    "thumbnail_image":"/img/gallery/12-2021/DJI_01_thumbnail.png",
+    "short_title_comment": "Short_title should not be more than 38 characters, spaces inclusive. End with three dots to denote continuation",
+     "short_title": "Ground Breaking",
+     "date": "December, 2021",
+     "images": [
+      "/img/gallery/12-2021/DJI_01.jpg",
+      "/img/gallery/12-2021/DJI_02.jpg",
+      "/img/gallery/12-2021/DJI_03.jpg",
+      "/img/gallery/12-2021/DJI_04.png",
+      "/img/gallery/12-2021/DJI_05.png",
+      "/img/gallery/12-2021/DJI_06.png",
+      "/img/gallery/12-2021/DJI_07.png",
+      "/img/gallery/12-2021/DJI_08.png",
+      "/img/gallery/12-2021/DJI_09.png",
+      "/img/gallery/12-2021/DJI_10.png",
+      "/img/gallery/12-2021/DJI_11.png",
+      "/img/gallery/12-2021/DJI_12.png",
+      "/img/gallery/12-2021/DJI_13.png",
+      "/img/gallery/12-2021/DJI_14.png",
+      "/img/gallery/12-2021/DJI_15.png",
+      "/img/gallery/12-2021/DJI_16.png"
+     ]
   },
   {
-    "date_range": "July 1st 2020 - December 31st 2020",
-    "images": [
-      {
-        "desc": "Due to an influx of site visits this week, we have decided to extend our tour dates till the 11th of January 2021.",
-        "thumbnail_img": "/img/gallery/thumbnail/1.png",
-        "original_img": "/img/gallery/original/1.png"
-      },
-      {
-        "desc": "",
-        "thumbnail_img": "/img/gallery/thumbnail/2.png",
-        "original_img": "/img/gallery/original/2.png"
-      },
-      {
-        "desc": "",
-        "thumbnail_img": "/img/gallery/thumbnail/3.png",
-        "original_img": "/img/gallery/original/3.png"
-      },
-      {
-        "desc": "",
-        "thumbnail_img": "/img/gallery/thumbnail/4.png",
-        "original_img": "/img/gallery/original/4.png"
-      },
-      {
-        "desc": "",
-        "thumbnail_img": "/img/gallery/thumbnail/5.png",
-        "original_img": "/img/gallery/original/5.png"
-      },
-      {
-        "desc": "",
-        "thumbnail_img": "/img/gallery/thumbnail/6.png",
-        "original_img": "/img/gallery/original/6.png"
-      }
-    ]
+    "id":"5",
+    "thumbnail_image":"/img/gallery/17-06-2021/DJI_01_thumbnail.png",
+    "short_title_comment": "Short_title should not be more than 38 characters, spaces inclusive. End with three dots to denote continuation",
+     "short_title": "Ground Breaking",
+     "date": "17th June, 2021",
+     "images": [
+      "/img/gallery/17-06-2021/DJI_01.jpg",
+      "/img/gallery/17-06-2021/DJI_02.jpg",
+      "/img/gallery/17-06-2021/DJI_03.jpg",
+      "/img/gallery/17-06-2021/DJI_04.jpg",
+      "/img/gallery/17-06-2021/DJI_05.jpg",
+      "/img/gallery/17-06-2021/DJI_06.jpg",
+      "/img/gallery/17-06-2021/DJI_07.jpg"
+     ]
+  },
+  {
+    "id":"4",
+    "thumbnail_image":"/img/gallery/12-02-2021/DJI_01_thumbnail.png",
+    "short_title_comment": "Short_title should not be more than 38 characters, spaces inclusive. End with three dots to denote continuation",
+     "short_title": "Ground Breaking",
+     "date": "12th February, 2021",
+     "images": [
+      "/img/gallery/12-02-2021/DJI_01.jpg",
+      "/img/gallery/12-02-2021/DJI_02.jpg",
+      "/img/gallery/12-02-2021/DJI_03.jpg",
+      "/img/gallery/12-02-2021/DJI_04.jpg",
+      "/img/gallery/12-02-2021/DJI_05.jpg",
+      "/img/gallery/12-02-2021/DJI_06.jpg",
+      "/img/gallery/12-02-2021/DJI_07.jpg",
+      "/img/gallery/12-02-2021/DJI_08.jpg",
+      "/img/gallery/12-02-2021/DJI_09.jpg",
+      "/img/gallery/12-02-2021/DJI_10.jpg",
+      "/img/gallery/12-02-2021/DJI_11.jpg",
+      "/img/gallery/12-02-2021/DJI_12.jpg",
+      "/img/gallery/12-02-2021/DJI_13.jpg",
+      "/img/gallery/12-02-2021/DJI_13.jpg"
+     ]
+  },
+  {
+    "id":"3",
+    "thumbnail_image":"/img/gallery/19-11-2020/DJI_01_thumbnail.png",
+    "short_title_comment": "Short_title should not be more than 38 characters, spaces inclusive. End with three dots to denote continuation",
+     "short_title": "Ground Breaking",
+     "date": "19th November, 2020",
+     "images": [
+      "/img/gallery/19-11-2020/DJI_01.jpg",
+      "/img/gallery/19-11-2020/DJI_02.jpg"
+     ]
+  },
+  {
+    "id":"2",
+    "thumbnail_image":"/img/gallery/30-10-2020/DJI_01_thumbnail.png",
+    "short_title_comment": "Short_title should not be more than 38 characters, spaces inclusive. End with three dots to denote continuation",
+     "short_title": "Ground Breaking",
+     "date": "30th October, 2020",
+     "images": [
+      "/img/gallery/30-10-2020/DJI_01.jpg",
+      "/img/gallery/30-10-2020/DJI_02.jpg",
+      "/img/gallery/30-10-2020/DJI_03.jpg",
+      "/img/gallery/30-10-2020/DJI_04.jpg",
+      "/img/gallery/30-10-2020/DJI_05.jpg",
+      "/img/gallery/30-10-2020/DJI_06.jpg",
+      "/img/gallery/30-10-2020/DJI_07.jpg",
+      "/img/gallery/30-10-2020/DJI_08.jpg",
+      "/img/gallery/30-10-2020/DJI_09.jpg",
+      "/img/gallery/30-10-2020/DJI_10.jpg",
+      "/img/gallery/30-10-2020/DJI_11.jpg",
+      "/img/gallery/30-10-2020/DJI_12.jpg",
+      "/img/gallery/30-10-2020/DJI_13.jpg"
+     ]
+  },
+
+  {
+    "id":"1",
+    "thumbnail_image":"/img/gallery/27-5-2020/DJI_01.jpg",
+    "short_title_comment": "Short_title should not be more than 38 characters, spaces inclusive. End with three dots to denote continuation",
+     "short_title": "Ground Breaking",
+     "date": "27th May, 2020",
+     "images": [
+      "/img/gallery/27-5-2020/DJI_01.jpg",
+      "/img/gallery/27-5-2020/DJI_02.jpg",
+      "/img/gallery/27-5-2020/DJI_03.jpg",
+      "/img/gallery/27-5-2020/DJI_04.jpg",
+      "/img/gallery/27-5-2020/DJI_05.jpg",
+      "/img/gallery/27-5-2020/DJI_06.jpg",
+      "/img/gallery/27-5-2020/DJI_07.jpg",
+      "/img/gallery/27-5-2020/DJI_08.jpg",
+      "/img/gallery/27-5-2020/DJI_09.jpg",
+      "/img/gallery/27-5-2020/DJI_10.jpg",
+      "/img/gallery/27-5-2020/DJI_11.jpg",
+      "/img/gallery/27-5-2020/DJI_12.jpg",
+      "/img/gallery/27-5-2020/DJI_13.jpg",
+      "/img/gallery/27-5-2020/DJI_14.jpg"
+     ]
   }
+
 ]
