@@ -56,33 +56,6 @@ const SingleGallery = ({ id }) => {
          
           
           </div>
-          {/* {images.length > 0 && (
-            <div className="p-5 border-bottom">
-              <div className="row">
-                { images.map((rec, idx) => (
-                  
-                  <div key={idx} className="col-12 col-md-6 col-lg-6 p-1">
-                    <div
-                      className="shadow-primary mb-5"
-                      style={{
-                        background: "#ffba002b",
-                        margin: "1px",
-                        border: "10px solid lightgrey",
-                        cursor: "pointer",
-                        width:"1024",
-                        height:"768"
-                      }}
-                    >
-                      <img loading="lazy" src={rec} alt="" style={{ width: "100%" }} />
-                    </div>
-                  </div>
-                ))}
-
-              </div>
-             
-            </div>
-          )} */}
-
         </div>
       </div>
 
