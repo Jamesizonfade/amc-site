@@ -1,71 +1,52 @@
 [
   {
     "id":"6",
-    "thumbnail_image":"/img/gallery/12-2021/DJI_01_thumbnail.png",
+    "thumbnail_image":"https://res.cloudinary.com/dgsdjrpjz/image/upload/v1645145836/samples/12-2021/12-2021-DJI_01_ctnw8o.png",
     "short_title_comment": "Short_title should not be more than 38 characters, spaces inclusive. End with three dots to denote continuation",
      "short_title": "Ground Breaking",
      "date": "December, 2021",
      "images": [
-      "/img/gallery/12-2021/DJI_01.jpg",
-      "/img/gallery/12-2021/DJI_02.jpg",
-      "/img/gallery/12-2021/DJI_03.jpg",
-      "/img/gallery/12-2021/DJI_04.png",
-      "/img/gallery/12-2021/DJI_05.png",
-      "/img/gallery/12-2021/DJI_06.png",
-      "/img/gallery/12-2021/DJI_07.png",
-      "/img/gallery/12-2021/DJI_08.png",
-      "/img/gallery/12-2021/DJI_09.png",
-      "/img/gallery/12-2021/DJI_10.png",
-      "/img/gallery/12-2021/DJI_11.png",
-      "/img/gallery/12-2021/DJI_12.png",
-      "/img/gallery/12-2021/DJI_13.png",
-      "/img/gallery/12-2021/DJI_14.png",
-      "/img/gallery/12-2021/DJI_15.png",
-      "/img/gallery/12-2021/DJI_16.png"
+      "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1645145804/samples/12-2021/12-2021-DJI_03_urotza.png",
+      "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1645145836/samples/12-2021/12-2021-DJI_01_ctnw8o.png",
+      "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1645145803/samples/12-2021/12-2021-DJI_04_a4wveo.png",
+      "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1645145799/samples/12-2021/12-2021-DJI_05_qveu2f.png",
+      "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1645145797/samples/12-2021/12-2021-DJI_02_eu9mb2.png",
+      "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1645145796/samples/12-2021/12-2021-DJI_06_mbelmg.png"
      ]
   },
   {
     "id":"5",
-    "thumbnail_image":"/img/gallery/17-06-2021/DJI_01_thumbnail.png",
+    "thumbnail_image": "/https://res.cloudinary.com/dgsdjrpjz/image/upload/v1645145533/samples/17-06-2021/17-06-2021-DJI_01_n2itml.png",
     "short_title_comment": "Short_title should not be more than 38 characters, spaces inclusive. End with three dots to denote continuation",
      "short_title": "Ground Breaking",
      "date": "17th June, 2021",
      "images": [
-      "/img/gallery/17-06-2021/DJI_01.jpg",
-      "/img/gallery/17-06-2021/DJI_02.jpg",
-      "/img/gallery/17-06-2021/DJI_03.jpg",
-      "/img/gallery/17-06-2021/DJI_04.jpg",
-      "/img/gallery/17-06-2021/DJI_05.jpg",
-      "/img/gallery/17-06-2021/DJI_06.jpg",
-      "/img/gallery/17-06-2021/DJI_07.jpg"
+      "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1645145532/samples/17-06-2021/17-06-2021-DJI_05_eafcmv.png",
+      "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1645145525/samples/17-06-2021/17-06-2021-DJI_06_lhk56o.png",
+      "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1645145540/samples/17-06-2021/17-06-2021-DJI_04_cvljo6.png",
+      "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1645145544/samples/17-06-2021/17-06-2021-DJI_03_nv1sqy.png",
+      "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1645145539/samples/17-06-2021/17-06-2021-DJI_02_gjbcwj.png",
+      "/https://res.cloudinary.com/dgsdjrpjz/image/upload/v1645145533/samples/17-06-2021/17-06-2021-DJI_01_n2itml.png"
      ]
   },
   {
     "id":"4",
-    "thumbnail_image":"/img/gallery/12-02-2021/DJI_01_thumbnail.png",
+    "thumbnail_image":"https://res.cloudinary.com/dgsdjrpjz/image/upload/v1645145342/samples/12-02-2021/12-2021-DJI_01_jpymxl.png",
     "short_title_comment": "Short_title should not be more than 38 characters, spaces inclusive. End with three dots to denote continuation",
      "short_title": "Ground Breaking",
      "date": "12th February, 2021",
      "images": [
-      "/img/gallery/12-02-2021/DJI_01.jpg",
-      "/img/gallery/12-02-2021/DJI_02.jpg",
-      "/img/gallery/12-02-2021/DJI_03.jpg",
-      "/img/gallery/12-02-2021/DJI_04.jpg",
-      "/img/gallery/12-02-2021/DJI_05.jpg",
-      "/img/gallery/12-02-2021/DJI_06.jpg",
-      "/img/gallery/12-02-2021/DJI_07.jpg",
-      "/img/gallery/12-02-2021/DJI_08.jpg",
-      "/img/gallery/12-02-2021/DJI_09.jpg",
-      "/img/gallery/12-02-2021/DJI_10.jpg",
-      "/img/gallery/12-02-2021/DJI_11.jpg",
-      "/img/gallery/12-02-2021/DJI_12.jpg",
-      "/img/gallery/12-02-2021/DJI_13.jpg",
-      "/img/gallery/12-02-2021/DJI_13.jpg"
+      "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1645145247/samples/12-02-2021/12-2021-DJI_06_x8da2p.png",
+      "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1645145243/samples/12-02-2021/12-2021-DJI_05_hpqc7q.png",
+      "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1645145259/samples/12-02-2021/12-2021-DJI_03_mbuf4o.png",
+      "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1645145288/samples/12-02-2021/12-2021-DJI_02_rel0gn.png",
+      "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1645145342/samples/12-02-2021/12-2021-DJI_01_jpymxl.png",
+      "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1645145430/samples/12-02-2021/12-2021-DJI_04_nfc77v.png"
      ]
   },
   {
     "id":"3",
-    "thumbnail_image":"/img/gallery/19-11-2020/DJI_01_thumbnail.png",
+    "thumbnail_image":"https://res.cloudinary.com/dgsdjrpjz/image/upload/v1645087788/samples/19-11-2020/DJI_02_mdvghg.png",
     "short_title_comment": "Short_title should not be more than 38 characters, spaces inclusive. End with three dots to denote continuation",
      "short_title": "Ground Breaking",
      "date": "19th November, 2020",
@@ -76,24 +57,17 @@
   },
   {
     "id":"2",
-    "thumbnail_image":"/img/gallery/30-10-2020/DJI_01_thumbnail.png",
+    "thumbnail_image": "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1645144887/samples/30-10-2020/30-10-2020-DJI_01_mzo7hh.png",
     "short_title_comment": "Short_title should not be more than 38 characters, spaces inclusive. End with three dots to denote continuation",
      "short_title": "Ground Breaking",
      "date": "30th October, 2020",
      "images": [
-      "/img/gallery/30-10-2020/DJI_01.jpg",
-      "/img/gallery/30-10-2020/DJI_02.jpg",
-      "/img/gallery/30-10-2020/DJI_03.jpg",
-      "/img/gallery/30-10-2020/DJI_04.jpg",
-      "/img/gallery/30-10-2020/DJI_05.jpg",
-      "/img/gallery/30-10-2020/DJI_06.jpg",
-      "/img/gallery/30-10-2020/DJI_07.jpg",
-      "/img/gallery/30-10-2020/DJI_08.jpg",
-      "/img/gallery/30-10-2020/DJI_09.jpg",
-      "/img/gallery/30-10-2020/DJI_10.jpg",
-      "/img/gallery/30-10-2020/DJI_11.jpg",
-      "/img/gallery/30-10-2020/DJI_12.jpg",
-      "/img/gallery/30-10-2020/DJI_13.jpg"
+      "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1645144887/samples/30-10-2020/30-10-2020-DJI_01_mzo7hh.png",
+      "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1645145037/samples/30-10-2020/30-10-2020-DJI_02_roeavf.png",
+      "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1645144879/samples/30-10-2020/30-10-2020-DJI_03_rx9nse.png",
+      "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1645144885/samples/30-10-2020/30-10-2020-DJI_04_nxlkga.png",
+      "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1645144882/samples/30-10-2020/30-10-2020-DJI_05_j1ynws.png",
+      "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1645145027/samples/30-10-2020/30-10-2020-DJI_06_1_tnbios.png"
      ]
   },
 
