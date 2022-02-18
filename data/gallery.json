@@ -1,7 +1,7 @@
 [
   {
     "id":"6",
-    "thumbnail_image":"https://res.cloudinary.com/dgsdjrpjz/image/upload/v1645145836/samples/12-2021/12-2021-DJI_01_ctnw8o.png",
+    "thumbnail_image": "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1645149815/samples/12-2021/12-2021-DJI_01_thumbnail_oxdl7a.png",
     "short_title_comment": "Short_title should not be more than 38 characters, spaces inclusive. End with three dots to denote continuation",
      "short_title": "Ground Breaking",
      "date": "December, 2021",
@@ -16,7 +16,7 @@
   },
   {
     "id":"5",
-    "thumbnail_image": "/https://res.cloudinary.com/dgsdjrpjz/image/upload/v1645145533/samples/17-06-2021/17-06-2021-DJI_01_n2itml.png",
+    "thumbnail_image": "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1645149978/samples/17-06-2021/17-06-2021-DJI_01_thumbnail_qi3doq.png",
     "short_title_comment": "Short_title should not be more than 38 characters, spaces inclusive. End with three dots to denote continuation",
      "short_title": "Ground Breaking",
      "date": "17th June, 2021",
@@ -26,27 +26,27 @@
       "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1645145540/samples/17-06-2021/17-06-2021-DJI_04_cvljo6.png",
       "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1645145544/samples/17-06-2021/17-06-2021-DJI_03_nv1sqy.png",
       "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1645145539/samples/17-06-2021/17-06-2021-DJI_02_gjbcwj.png",
-      "/https://res.cloudinary.com/dgsdjrpjz/image/upload/v1645145533/samples/17-06-2021/17-06-2021-DJI_01_n2itml.png"
+      "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1645145533/samples/17-06-2021/17-06-2021-DJI_01_n2itml.png"
      ]
   },
   {
     "id":"4",
-    "thumbnail_image":"https://res.cloudinary.com/dgsdjrpjz/image/upload/v1645145342/samples/12-02-2021/12-2021-DJI_01_jpymxl.png",
+    "thumbnail_image":"https://res.cloudinary.com/dgsdjrpjz/image/upload/v1645149721/samples/12-02-2021/12-02-2021-DJI_01_thumbnail_wpovqb.png",
     "short_title_comment": "Short_title should not be more than 38 characters, spaces inclusive. End with three dots to denote continuation",
      "short_title": "Ground Breaking",
      "date": "12th February, 2021",
      "images": [
-      "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1645145247/samples/12-02-2021/12-2021-DJI_06_x8da2p.png",
-      "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1645145243/samples/12-02-2021/12-2021-DJI_05_hpqc7q.png",
-      "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1645145259/samples/12-02-2021/12-2021-DJI_03_mbuf4o.png",
-      "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1645145288/samples/12-02-2021/12-2021-DJI_02_rel0gn.png",
-      "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1645145342/samples/12-02-2021/12-2021-DJI_01_jpymxl.png",
-      "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1645145430/samples/12-02-2021/12-2021-DJI_04_nfc77v.png"
+      "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1645147108/samples/12-02-2021/12-02-2021-DJI_01_cql4ls.png",
+      "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1645147113/samples/12-02-2021/12-02-2021-DJI_02_skafpc.png",
+      "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1645147154/samples/12-02-2021/12-02-2021-DJI_03_rwdxje.png",
+      "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1645147106/samples/12-02-2021/12-02-2021-DJI_04_qcowol.png",
+      "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1645147156/samples/12-02-2021/12-02-2021-DJI_05_xasiyg.png",
+      "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1645147114/samples/12-02-2021/12-02-2021-DJI_06_acowd6.png"
      ]
   },
   {
     "id":"3",
-    "thumbnail_image":"https://res.cloudinary.com/dgsdjrpjz/image/upload/v1645087788/samples/19-11-2020/DJI_02_mdvghg.png",
+    "thumbnail_image":"https://res.cloudinary.com/dgsdjrpjz/image/upload/v1645150565/samples/19-11-2020/19-11-2020-DJI_01_thumbnail_2_ez3vja.png",
     "short_title_comment": "Short_title should not be more than 38 characters, spaces inclusive. End with three dots to denote continuation",
      "short_title": "Ground Breaking",
      "date": "19th November, 2020",
@@ -57,7 +57,7 @@
   },
   {
     "id":"2",
-    "thumbnail_image": "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1645144887/samples/30-10-2020/30-10-2020-DJI_01_mzo7hh.png",
+    "thumbnail_image":"https://res.cloudinary.com/dgsdjrpjz/image/upload/v1645150749/samples/30-10-2020/30-10-2020-DJI_01_thumbnail_tfozan.png",
     "short_title_comment": "Short_title should not be more than 38 characters, spaces inclusive. End with three dots to denote continuation",
      "short_title": "Ground Breaking",
      "date": "30th October, 2020",
