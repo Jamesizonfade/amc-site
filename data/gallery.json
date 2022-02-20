@@ -91,8 +91,7 @@
       "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1645259550/samples/30-10-2020/30-10-2020-DJI_09_mqy1qo.png",
       "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1645259683/samples/30-10-2020/30-10-2020-DJI_13_vp7ozi.png",
       "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1645259542/samples/30-10-2020/30-10-2020-DJI_11_mjdfch.png",
-      "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1645259541/samples/30-10-2020/30-10-2020-DJI_10_zlmip6.png",
-      ""
+      "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1645259541/samples/30-10-2020/30-10-2020-DJI_10_zlmip6.png"
     ]
   },
 
@@ -115,6 +114,25 @@
       "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1645259813/samples/19-11-2020/27-05-2020/27-5-2020-DJI_13_phbfsz.png",
       "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1645259810/samples/19-11-2020/27-05-2020/27-5-2020-DJI_14_fe24in.png",
       "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1645259810/samples/19-11-2020/27-05-2020/27-5-2020-DJI_09_leoufv.png"
+    ]
+  },
+  {
+    "id":"0",
+    "thumbnail_image":"https://res.cloudinary.com/dgsdjrpjz/image/upload/v1645393775/samples/20-11-19/20-12-19-01_thumbnails_inv7q6.png",
+    "short_title_comment": "Short_title should not be more than 38 characters, spaces inclusive. End with three dots to denote continuation",
+     "short_title": "Ground Breaking",
+     "date": "19th December, 2019",
+     "images": [
+      "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1645393349/samples/20-11-19/20-12-19-08_vhs52t.png",
+      "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1645393349/samples/20-11-19/20-12-19-03_rytmav.png",
+      "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1645393347/samples/20-11-19/20-12-19-07_gwcmdq.png",
+      "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1645393347/samples/20-11-19/20-12-19-06_ggv6fd.png",
+      "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1645393346/samples/20-11-19/20-12-19-05_uqe2hv.png",
+      "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1645393346/samples/20-11-19/20-12-19-01_s5ea4e.png",
+      "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1645393346/samples/20-11-19/20-12-19-04_nnzvai.png",
+      "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1645393345/samples/20-11-19/20-12-19-10_aafglq.png",
+      "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1645393345/samples/20-11-19/20-12-19-02_ik7h1l.png",
+      "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1645393345/samples/20-11-19/20-12-19-09_juyna9.png"
     ]
   }
 
