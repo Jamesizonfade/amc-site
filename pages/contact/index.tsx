@@ -75,7 +75,7 @@ const Contact = () => {
                         Lagos
                       </p>
                       <p>
-                        Call : <strong className="prop">09060004203</strong>
+                        Call : <br /> <strong className="prop">09060004206, 09060004203, <br /> 09060004205, 09060004204 </strong>
                       </p>
                     </div>
                   </div>
@@ -96,7 +96,7 @@ const Contact = () => {
                         Plot 114 (House 1), Ebitu Ukiwe Street, Jabi, Abuja.
                       </p>
                       <p>
-                        Call : <strong className="prop">0906000420</strong>
+                      Call : <br /> <strong className="prop">09060004206, 09060004203, <br /> 09060004205, 09060004204 </strong>
                       </p>
                     </div>
                   </div>
@@ -117,10 +117,7 @@ const Contact = () => {
                         50 Ifite Road, off Aroma Junction, Awka, Anambra State.
                       </p>
                       <p>
-                        Call :{" "}
-                        <strong className="prop">
-                          09060004205, 09060004206.
-                        </strong>
+                      Call : <br /> <strong className="prop">09060004206, 09060004203, <br /> 09060004205, 09060004204 </strong>
                       </p>
                     </div>
                   </div>

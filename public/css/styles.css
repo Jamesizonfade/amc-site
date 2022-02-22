@@ -3693,7 +3693,9 @@ owl-next {
 .contact-form-2 textarea:focus,
 .contact-form-2 select:focus {
   border-color: #46bfe2;
-} /*-----------------------------------------24. Action Boxes-------------------------------------------*/
+} 
+
+/*-----------------------------------------24. Action Boxes-------------------------------------------*/
 .action-box {
   position: relative;
   overflow: hidden;
