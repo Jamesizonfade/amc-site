@@ -1,8 +1,38 @@
 [
+  {
+    "id": "17",
+    "thumbnail_img": "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1645956262/samples/news/news-17th/news_17_thumbnail_igb5im.png",
+    "short_title_comment": "Short_title should not be more than 38 characters, spaces inclusive. End with three dots to denote continuation",
+    "short_title": "Obi of Onitsha Visits..",
+    "full_title": "Obi of Onitsha Visits Awka Millennium City",
+    "desc_comment": "Description should not be more than 160 characters, spaces inclusive. End with three dots to denote continuation",
+    "desc": "Speaking during the visit, Igwe Achebe said that Governor Willie Obiano is finishing strong..",
+    "date": "16th Dec. 2021- 7th Jan. 2022",
+    "top_img": "",
+    "body_content1": [
+      "The traditional ruler of Onitsha, and Chairman of Anambra State Traditional Rulers Council, His Royal Majesty, Igwe Alfred Nnaemeka Achebe, Obi of Onitsha (Agbogidi) today, Friday, 25th February 2022, toured Awka Millennium City, the new smart city coming to Awka. ",  
+      "Speaking during the visit, Igwe Achebe said that Governor Willie Obiano is finishing strong, and added that expectations are justifiably high on the incoming administration of Professor Chukwuma Soludo."
+      ],
+    "body_img_title": "",
+    "body_img1": "",
+    "body_video": "/videos/news-17.mp4",
+    "body_video_thumbnail":"https://res.cloudinary.com/dgsdjrpjz/image/upload/v1645956262/samples/news/news-17th/news_17_thumbnail_igb5im.png",
+    "body_content2": [
+      "During the visit, Igwe Achebe was taken around prototype buildings, central park, water treatment plant, nursery, and other sections of the city by the Project Manager, Engr. Obinna Nnoruo, alongside other members of staff.",
+      "Speaking to the ABS after touring the site, Igwe Achebe, who is also the Chairman of the Advisory Board for the project, expressed delight over what he called a 21st-century project being expertly executed by locals.",
+      "He noted that Anambra never had it this good until democratic governments came on board, calling on Ndi Anambra and residents of the State to extend their support to the incoming Soludo administration to enable him to sustain the tempo of development.",
+      "While commending Ndi Anambra for heeding the 'aku luo uno' call, Igwe Achebe said it is high time Ndi Igbo brought home their investments for the rapid development of Igbo land.",
+      "In his remark, the Project Manager, Engr. Nnoruo, who expressed happiness with Igwe Achebe's regular visit to the project site, assured that the sponsor, MP Infrastructure, will ensure that the city is liveable from next year, urging intending developers to come forth as some people have started constructing in the city."
+      ],
+    "bottom_imgs_title": "",
+    "bottom_imgs": [
+      ""
+    ]
+  },
   
   {
     "id": "16",
-    "thumbnail_img": "/img/news/news-16/news-16.jpg",
+    "thumbnail_img": "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1645961931/samples/news/news-16_thumbnail_syf1se.png",
     "short_title_comment": "Short_title should not be more than 38 characters, spaces inclusive. End with three dots to denote continuation",
     "short_title": "AMC Site Tour",
     "full_title": "AMC Site Tour- Thank you for visiting",
@@ -27,7 +57,7 @@
   },
   {
     "id": "15",
-    "thumbnail_img": "/img/news/news-15/news-15.jpg",
+    "thumbnail_img": "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1645961948/samples/news/news-15_thumbnail_ybdnd4.png",
     "short_title_comment": "Short_title should not be more than 38 characters, spaces inclusive. End with three dots to denote continuation",
     "short_title": "Governor Willie Obiano at AMC",
     "full_title": "Governor Willie Obiano Inspects Ongoing Works at Awka Millennium City",
@@ -57,7 +87,7 @@
   },
   {
     "id": "14",
-    "thumbnail_img": "/img/news/news-14/news-14.jpg",
+    "thumbnail_img": "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1645961961/samples/news/news-14_thumbnail_rqdnnw.png",
     "short_title_comment": "Short_title should not be more than 38 characters, spaces inclusive. End with three dots to denote continuation",
     "short_title": "Obi Cubana Visits Awka Millennium City",
     "full_title": "On Thursday, 6th January 2022, Chief Obi Iyiegbu (Okpataozuora) visited AMC",
@@ -82,7 +112,7 @@
   },
   {
     "id": "13",
-    "thumbnail_img": "/img/news/news-13/news-13.jpg",
+    "thumbnail_img": "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1645961927/samples/news/news-13_thumbnail_df4yvw.png",
     "short_title_comment": "Short_title should not be more than 38 characters, spaces inclusive. End with three dots to denote continuation",
     "short_title": "Dr Clem Nwogbo at the 2021...",
     "full_title": "Dr. Clem Nwogbo, Group Chairman, M-P Infastructure Ltd, Speaks at the 2021 Egwu Uzu Festival",
@@ -106,7 +136,7 @@
   },
   {
     "id": "12",
-    "thumbnail_img": "/img/news/news-12/news-12a.png",
+    "thumbnail_img": "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1645960524/samples/news/news-12_thumbnail_x47iom.png",
     "short_title_comment": "Short_title should not be more than 38 characters, spaces inclusive. End with three dots to denote continuation",
     "short_title": "M-P Infrastructure Ltd Donates...",
     "full_title": "M-P Infrastructure Limited Donates 5 Million Naira Towards Anambra Covid-19 Control Efforts",
@@ -136,7 +166,7 @@
   },
   {
     "id": "11",
-    "thumbnail_img": "/img/news/news-11/news-11a.png",
+    "thumbnail_img": "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1645960523/samples/news/news-11_thumbnail_za4kwc.png",
     "short_title_comment": "Short_title should not be more than 38 characters, spaces inclusive. End with three dots to denote continuation",
     "short_title": "M-P Infrastructure Ltd Donates...",
     "full_title": "M-P Infrastructure Limited Donates Chickens To Motherless Babies Home In Awka To Cushion Effects Of Coronavirus Lock-Down",
@@ -164,7 +194,7 @@
   },
   {
     "id": "10",
-    "thumbnail_img": "/img/news/news-10/news-10a.png",
+    "thumbnail_img": "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1645960523/samples/news/news-10_thumbnail_bpwwdo.png",
     "short_title_comment": "Short_title should not be more than 38 characters, spaces inclusive. End with three dots to denote continuation",
     "short_title": "AMC Hosts Patrons and Stakeholders",
     "full_title": "AMC Hosts Patrons and Stakeholders to Breakfast Meeting",
@@ -196,7 +226,7 @@
   },
   {
     "id": "9",
-    "thumbnail_img": "/img/news/news-9/news-9a.png",
+    "thumbnail_img": "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1645960523/samples/news/news-9_thumbnail_hcofrk.png",
     "short_title_comment": "Short_title should not be more than 38 characters, spaces inclusive. End with three dots to denote continuation",
     "short_title": "Groundbreaking Ceremony",
     "full_title": "Groundbreaking Ceremony",
@@ -225,7 +255,7 @@
   },
   {
     "id": "8",
-    "thumbnail_img": "/img/news/news-8/news-8aii.png",
+    "thumbnail_img": "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1645960523/samples/news/news-8_thumbnail_vvgfci.png",
     "short_title_comment": "Short_title should not be more than 38 characters, spaces inclusive. End with three dots to denote continuation",
     "short_title": "A new city is coming to the East",
     "full_title": "A new city is coming to the East",
@@ -248,7 +278,7 @@
   },
   {
     "id": "7",
-    "thumbnail_img": "/img/news/news-7/news-7.jpg",
+    "thumbnail_img": "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1645960522/samples/news/news-7_thumbnail_k5ssxu.jpg",
     "short_title_comment": "Short_title should not be more than 38 characters, spaces inclusive. End with three dots to denote continuation",
     "short_title": "MOU Signing",
     "full_title": "MOU Signing with the Anambra state Government",

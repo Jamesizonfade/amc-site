@@ -19,8 +19,13 @@ export const Footer = () => {
                       </li>
                       <li>
                         <i className="fas fa-phone mr-2"></i>
-                        <a href="tel:09060004203">09060004203</a>
+                        <a href="tel:09060004206">09060004206 09060004203 </a>
                       </li>
+                      <li>
+                        <i className="fas fa-phone mr-2"></i>
+                        <a href="tel:09060004206">09060004205 09060004204</a>
+                      </li>
+                        
                       <li>
                         <a href="#" className="ml-4">
                           Privacy notice
@@ -44,7 +49,11 @@ export const Footer = () => {
                       </li>
                       <li>
                         <i className="fas fa-phone mr-2"></i>
-                        <a href="tel:0906000420">0906000420</a>
+                        <a href="tel:09060004206">09060004206 09060004203 </a>
+                      </li>
+                      <li>
+                        <i className="fas fa-phone mr-2"></i>
+                        <a href="tel:09060004206">09060004205 09060004204</a>
                       </li>
                     </ul>
                   </div>
@@ -64,7 +73,11 @@ export const Footer = () => {
                       </li>
                       <li>
                         <i className="fas fa-phone mr-2"></i>
-                        <a href="tel:09060004205">09060004205, 09060004206.</a>
+                        <a href="tel:09060004206">09060004206 09060004203 </a>
+                      </li>
+                      <li>
+                        <i className="fas fa-phone mr-2"></i>
+                        <a href="tel:09060004206">09060004205 09060004204</a>
                       </li>
                     </ul>
                   </div>
