@@ -91,13 +91,13 @@ export const Footer = () => {
                   <div className="col-12">
                     <ul className="footer-nav">
                       <li>
-                        <a href="#">News</a>
+                        <a href="https://www.awkamillenniumcity.com/news">News</a>
                       </li>
                       <li>
-                        <a href="#">Site Update</a>
+                        <a href="https://www.awkamillenniumcity.com/site-update">Site Update</a>
                       </li>
                       <li>
-                        <a href="#">Gallery</a>
+                        <a href="https://www.awkamillenniumcity.com/gallery">Gallery</a>
                       </li>
                     </ul>
                   </div>
