@@ -1,5 +1,35 @@
 [
   {
+    "id": "19",
+    "thumbnail_img": "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1652859450/samples/news/news-19/News-19_nxotki.jpg",
+    "short_title_comment": "Short_title should not be more than 38 characters, spaces inclusive. End with three dots to denote continuation",
+    "short_title": "AMC and MPI Commissions CSR Projects",
+    "full_title": "AMC and MPI Commissions CSR Projects",
+    "desc_comment": "Description should not be more than 160 characters, spaces inclusive. End with three dots to denote continuation",
+    "desc": "AMC and MPI Commissions CSR Projects at Capital City Secondary School & Amaenyi Primary School, Awka.",
+    "date": "6th May, 20222",
+    "top_img": "",
+    "body_content1": [
+      "Words cannot express the feeling of overwhelming happiness we experienced on the 6th of May, 2022, as we commissioned the first phase of the development and rehabilitation of Capital City Secondary School and Amaenyi Primary School, Awka, Anambra state.",  
+      "Education is one of the most important investments a country can make, and creating a healthy, comfortable infrastructure and environment that optimizes learning is critical. At Awka Millennium City, we are committed to making sustainable social investments wherever we have our footprints. This philosophy inspired our funding of the corporate social responsibility projects in the two schools in Awka, our host community.",
+      ""
+    ],
+    "body_img_title": "",
+    "body_img1": "",
+    "body_video": "https://res.cloudinary.com/dgsdjrpjz/video/upload/v1652859509/samples/news/news-19/Commissioning_of_our_CSR_Projects_at_Capital_City_Secondary_School___Amaenyi_Primary_School__Awka._360p_crc2c3.mp4",
+    "body_video_thumbnail":"https://res.cloudinary.com/dgsdjrpjz/image/upload/v1652859450/samples/news/news-19/News-19_nxotki.jpg",
+    "body_content2": [
+      "The CSR projects were commissioned by Mr. Governor, Prof. Chukwuma Charles Soludo, Governor of Anambra State on Friday, 6th May 2022. It was a happy moment for the school management, students, and our host community. We were honored with the presence of Mr. Governor, Professor Chukwuma Charles Soludo, the Speaker of Anambra State House of Assembly, Rt. Hon. Uchenna Okafor, the Honourable Commissioner for Education in Anambra state, Professor Ngozi Chuma -Udeh and her Housing Ministry counterpart, Mr. Paully Onyeka, His Royal Majesty, Igwe Alfred Nnaemeka Achebe, Obi Of Onitsha (Agbogidi), the traditional ruler of Onitsha and Chairman of Anambra State Traditional Rulers Council, the Obi of Awka Kingdom, Dr. Gibson Nwosu, Ezeudu 11 was ably represented by Otutu Awka, Mr. Clem Nwogbo, Group MD, M-P Infrastructure Limited and Awka Millennium City Development Company Limited, Mr. Chimmy Ogbuebile, CEO, Awka Millennium City Development Company Limited, AMC Subscribers amongst other dignitaries, education stakeholders, clergymen, and other guests.",
+      "We have changed the learning experience of students and teachers in the schools through the CSR projects we commissioned that day. They are; a storey building at Capital City secondary school Awka, housing a solar-powered digital library, new classrooms, and an assembly hall.",
+      "The school now has new toilets and a re-equipped physics, chemistry, and biology laboratory to support science education. At Amaenyi Community primary school, the students are now enjoying rehabilitated and grassed football field, perimeter fences, a security house for the school, and refurbished classroom blocks amongst others.",
+      "We say a very big thank you to our subscribers. With willpower, anything is possible but with you, we can do more for humanity."
+    ],
+    "bottom_imgs_title": "",
+    "bottom_imgs": [
+      ""
+    ]
+  },
+  {
     "id": "17",
     "thumbnail_img": "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1645956262/samples/news/news-17th/news_17_thumbnail_igb5im.png",
     "short_title_comment": "Short_title should not be more than 38 characters, spaces inclusive. End with three dots to denote continuation",
