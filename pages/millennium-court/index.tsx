@@ -9,9 +9,9 @@ const MillenniumCourt = () =>{
          {/* Banner */}
          <Banner page="Millennium-Court" />
          <div className="section-block section-sm border-bottom partners">
-          <div className="container">
-              <object data="/documents/millennium-court-bronchure.pdf" type="application/pdf" width="100%" height="2100px"> <p>Oops!! Your browser doesnt support a PDFs</p> 
-              <p><a href="/documents/millennium-court-bronchure.pdf" download="millennium court brochure">Download Millennium Court Brochure</a></p>
+          <div className="container text-center">
+              <object data="/documents/millennium-court-bronchure.pdf" type="application/pdf" width="100%" height="2100px"> <p>Oops!! Your browser doesnt support PDFs</p> 
+              <a href="/documents/millennium-court-bronchure.pdf" download="millennium court brochure"><button className="millennium-court-button">Download Millennium Court Brochure <i className="fas fa-arrow-right"> </i></button></a>
               </object>
           {/* <embed src="/documents/millennium-court-bronchure.pdf" width="100%" height="2100px" /> */}
 
