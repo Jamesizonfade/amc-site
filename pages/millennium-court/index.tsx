@@ -10,8 +10,8 @@ const MillenniumCourt = () =>{
          <Banner page="Millennium-Court" />
          <div className="section-block section-sm border-bottom partners">
           <div className="container text-center">
-              <object data="/documents/millennium-court-bronchure.pdf" type="application/pdf" width="100%" height="2100px"> <p>Oops!! Your browser doesnt support PDFs</p> 
-              <a href="/documents/millennium-court-bronchure.pdf" download="millennium court brochure"><button className="millennium-court-button">Download Millennium Court Brochure <i className="fas fa-arrow-right"> </i></button></a>
+              <object data="/documents/millennium-court-bronchure.pdf" type="application/pdf" width="100%" height="2100px">
+              <embed src="https://drive.google.com/file/d/1m9K1MK248NT9Lo7NBLCUnRHFrjXhGhN2/view?usp=sharing" width="100%" height="600px"/>
               </object>
           {/* <embed src="/documents/millennium-court-bronchure.pdf" width="100%" height="2100px" /> */}
 
