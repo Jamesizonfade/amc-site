@@ -7187,3 +7187,25 @@ blockquote {
   font-size: 13px;
   font-weight: 400;
 }
+
+
+/* millennium court */
+
+.millenium-court-button-container{
+margin: 2rem 0 5rem  0;
+width: auto;
+}
+
+.millennium-court-button{
+  background-color: #D0AA63;
+  color: #ffffff;
+  border-radius: 10px;
+  width: 12rem;
+  height: 3rem;
+  padding: 2px 4px;
+}
+
+.millennium-court-button:hover{
+  opacity: 0.9;
+  color: #000;
+}
