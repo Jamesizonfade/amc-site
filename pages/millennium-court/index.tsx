@@ -5,9 +5,9 @@ import { Layout } from "../../component/Layout";
 const MillenniumCourt = () =>{
     return (
 
-        <Layout title="Millennium-Court">
+        <Layout title="Millennium Court">
          {/* Banner */}
-         <Banner page="Millennium-Court" />
+         <Banner page="Millennium Court" />
          <div className="section-block section-sm border-bottom partners">
           <div className="container text-center">
               <object data="/documents/millennium-court-bronchure.pdf" type="application/pdf" width="100%" height="2100px">
