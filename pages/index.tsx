@@ -5,12 +5,10 @@ import infrastructure from "../data/infrastructure.json";
 import { CityPlan } from "../component/CityPlan";
 
 const Home = () => {
-  return (
-    <>
+  return (<>
       <Layout title="Home">
         {/* Home Slider */}
-        <Slider />
-
+        <Slider/>
         {/*About Awka Millennium City */}
         <div className="section-block grey-bg background-shape-3">
           <div className="container">
@@ -67,8 +65,8 @@ const Home = () => {
                     Express way.
                   </p>
                   <p>
-                    AMC has three major Airports within a 100km radius, Sam
-                    Mbakwe International Airport, Owerri, Akanu Ibiam
+                    AMC has three major Airports within a 100km radius, Anambra
+                    International Cargo Airport, Umueri, Akanu Ibiam
                     International Airport, Enugu and Asaba International
                     Airport.
                   </p>
@@ -112,7 +110,7 @@ const Home = () => {
             <div className="row">
               {/* Infrastructures */}
               {infrastructure.map((rec, idx) => (
-                <div className="col-xs-12 col-md-6 col-lg-4">
+                <div key={idx} className="col-xs-12 col-md-6 col-lg-4">
                   <div
                     className="testmonial-item-5 test-card text-center"
                     style={{ minHeight: "430px" }}
@@ -157,8 +155,8 @@ const Home = () => {
                 <div
                   id="mod"
                   className="izimodal"
-                  data-iziModal-width="800px"
-                  data-iziModal-fullscreen="true"
+                  data-izimodal-width="800px"
+                  data-izimodal-fullscreen="true"
                 >
                   {<iframe width="560" 
                   height="500" 
