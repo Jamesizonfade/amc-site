@@ -1,5 +1,33 @@
 [
   {
+    "id": "20",
+    "thumbnail_img": "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1655919583/samples/news/new20/news20_xzhaqq.jpg",
+    "short_title_comment": "Short_title should not be more than 38 characters, spaces inclusive. End with three dots to denote continuation",
+    "short_title": "Anambra State Ministry of Land Verifies AMC",
+    "full_title": "Anambra State Ministry of Land Verifies AMC",
+    "desc_comment": "Description should not be more than 160 characters, spaces inclusive. End with three dots to denote continuation",
+    "desc": "In an effort to stop the illegal transaction of state-owned lands, the Anambra State Government through the Ministry of Lands...",
+    "date": "11th June, 2022",
+    "top_img": "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1655918484/samples/news/new20/Public_Notice_shvcgc.jpg",
+    "body_content1": [
+     "In an effort to stop the illegal transaction of state-owned lands, the Anambra State Government through the Ministry of Lands had instituted the Anambra State Land Reform Committee, to review all government land policy frameworks, and provide workable policies and structures, that would guarantee a seamless, effective and transparent land use and administration regime in the state.",
+     "The committee found Awka Millennium City Development Company Ltd, promoters of Awka Millenium City (AMC), as a legitimate and verified real estate development company to operate within the Millennium Layout.",
+     "The Government has however warned property and real estate buyers to beware of persons and companies engaged in deceiving unsuspecting members of the public to purchase government lands in different parts of the state.",
+     "We urge you to choose Awka Millennium City (AMC), and have peace of mind! We are proud to be at the forefront of delivering the first smart city in the South East. AMC features state-of-the-art infrastructure, seamlessly integrated via the adoption of technology, that will guarantee the provision of requisite amenities needed to sustain a good quality lifestyle.",
+     "For more on Awka Millennium City, visit www.awkamillenniumcity.com, email us: info@awkamillenniumcity.com or call ‪09060004206, 09060004204.‬‬"
+    ],
+    "body_img_title": "",
+    "body_img1": "",
+    "body_video": "",
+    "body_video_thumbnail":"",
+    "body_content2": [
+      ""  ],
+    "bottom_imgs_title": "",
+    "bottom_imgs": [
+      ""
+    ]
+  },
+  {
     "id": "19",
     "thumbnail_img": "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1652859450/samples/news/news-19/News-19_nxotki.jpg",
     "short_title_comment": "Short_title should not be more than 38 characters, spaces inclusive. End with three dots to denote continuation",
