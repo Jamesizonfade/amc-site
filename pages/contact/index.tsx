@@ -36,10 +36,10 @@ const Contact = () => {
                     <input type="text" name="name" placeholder="Last Name*" />
                   </div>
                   <div className="col-sm-6 col-12">
-                    <input type="text" name="name" placeholder="Phone no*" />
+                    <input type="text" name="name" placeholder="Phone No*" />
                   </div>
                   <div className="col-sm-6 col-12">
-                    <input type="text" name="name" placeholder="email*" />
+                    <input type="text" name="name" placeholder="Email*" />
                   </div>
                   <div className="col-12">
                     <textarea placeholder="Your Message*"></textarea>
