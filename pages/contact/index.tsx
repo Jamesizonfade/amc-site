@@ -35,6 +35,12 @@ const Contact = () => {
                   <div className="col-sm-6 col-12">
                     <input type="text" name="name" placeholder="Last Name*" />
                   </div>
+                  <div className="col-sm-6 col-12">
+                    <input type="text" name="name" placeholder="Phone no*" />
+                  </div>
+                  <div className="col-sm-6 col-12">
+                    <input type="text" name="name" placeholder="email*" />
+                  </div>
                   <div className="col-12">
                     <textarea placeholder="Your Message*"></textarea>
                   </div>

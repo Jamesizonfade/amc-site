@@ -137,7 +137,7 @@ const Home = () => {
               <div className="col-md-6 col-sm-12 col-12">
                 <div className="video-video-box full-width p-3 shadow-primary">
                   <img
-                    src="img/city-progress-video-thumbnail.jpg"
+                    src="https://res.cloudinary.com/dgsdjrpjz/image/upload/v1671812003/AMC/amc-site-update-video_mp7weq.jpg"
                     alt="img"
                     className="shadow-primary"
                   />
@@ -160,7 +160,7 @@ const Home = () => {
                 >
                   {<iframe width="560" 
                   height="500" 
-                  src="https://www.youtube.com/embed/Ra-kZeLzNcU" 
+                  src="https://www.youtube.com/embed/pLEc5-LiNZA"
                   title="AMC site video" 
                   frameBorder="0"
                   className="full-width shadow-primary" 
