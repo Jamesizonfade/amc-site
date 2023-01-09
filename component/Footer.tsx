@@ -116,9 +116,9 @@ export const Footer = () => {
                       AWKA MILLENNIUM CITY,
                     </span>{" "}
                     All rights reserved.{" "}
-                    <span style={{ color: "#999" }}>developed by</span>{" "}
-                    <a href="http://looptrace.com" style={{ color: "#1652f0" }}>
-                      Looptrace Ltd
+                    <span style={{ color: "#999" }}>Managed by</span>{" "}
+                    <a href="https://techserv.tech/" style={{ color: "#1652f0" }}>
+                      TechServ
                     </a>
                   </p>
                 </div>
