@@ -1,5 +1,236 @@
 [
   {
+    "id": "16",
+      "cover_img": "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1673537122/Siteupdate16a_ij0pdh.png",
+      "cover_desc_comment": "Description should not be more than 160 characters, spaces inclusive. End with three dots to denote continuation",
+      "cover_desc": 
+        "AMC Site Update for August to December 2022",
+      "date_range": "August to December, 2022",
+      "updates": [
+        {
+          "date": "",
+          "thumbnail_img": "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1673537122/Siteupdate16a_ij0pdh.png",
+          "original_img": "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1673537122/Siteupdate16a_ij0pdh.png",
+          "desc": ""
+        },
+        {
+          "date": "",
+          "thumbnail_img": "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1673537110/Siteupdate16c_qgxus4.png",
+          "original_img": "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1673537110/Siteupdate16c_qgxus4.png",
+          "desc": ""
+        },
+        {
+          "date": "",
+          "thumbnail_img": "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1673537105/Siteupdate16d_byelxd.png",
+          "original_img": "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1673537105/Siteupdate16d_byelxd.png",
+          "desc": ""
+        },
+        {
+          "date": "",
+          "thumbnail_img": "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1673537120/Siteupdate16e_j7jauk.png",
+          "original_img": "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1673537120/Siteupdate16e_j7jauk.png",
+          "desc": ""
+        },
+        {
+          "date": "",
+          "thumbnail_img": "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1673537116/Siteupdate16n_inv2qe.png",
+          "original_img": "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1673537116/Siteupdate16n_inv2qe.png",
+          "desc": ""
+        },
+        {
+          "date": "",
+          "thumbnail_img": "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1673537114/Siteupdate16l_tuth8o.png",
+          "original_img": "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1673537114/Siteupdate16l_tuth8o.png",
+          "desc": ""
+        },
+        {
+          "date": "",
+          "thumbnail_img": "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1673537113/Siteupdate16j_erzwbh.png",
+          "original_img": "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1673537113/Siteupdate16j_erzwbh.png",
+          "desc": ""
+        },
+        {
+          "date": "",
+          "thumbnail_img": "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1673537113/Siteupdate16m_nblkia.png",
+          "original_img": "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1673537113/Siteupdate16m_nblkia.png",
+          "desc": ""
+        },
+        {
+          "date": "",
+          "thumbnail_img": "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1673537110/Siteupdate16k_tes8rn.png",
+          "original_img": "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1673537110/Siteupdate16k_tes8rn.png",
+          "desc": ""
+        },
+        {
+          "date": "",
+          "thumbnail_img": "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1673537108/Siteupdate16i_elqesd.png",
+          "original_img": "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1673537108/Siteupdate16i_elqesd.png",
+          "desc": ""
+        }
+        
+        
+      ]
+    },
+  {
+    "id": "15",
+      "cover_img": "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1673523685/Siteupdate15a_j9erdb.jpg",
+      "cover_desc_comment": "Description should not be more than 160 characters, spaces inclusive. End with three dots to denote continuation",
+      "cover_desc": 
+        "We have the Odogwu prototype standing tall same as the Ijele Prototype...",
+      "date_range": "January to May 2022",
+      "updates": [
+        {
+          "date": "29th March. 2021",
+          "thumbnail_img": "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1673523685/Siteupdate15b_cbfnrt.jpg",
+          "original_img": "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1673523685/Siteupdate15b_cbfnrt.jpg",
+          "desc": ""
+        },
+        {
+          "date": "29th March. 2021",
+          "thumbnail_img": "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1673523685/Siteupdate15c_vtei7q.jpg",
+          "original_img": "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1673523685/Siteupdate15c_vtei7q.jpg",
+          "desc": ""
+        },
+        {
+          "date": "29th March. 2021",
+          "thumbnail_img": "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1673523685/Siteupdate15d_uyji5r.jpg",
+          "original_img": "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1673523685/Siteupdate15d_uyji5r.jpg",
+          "desc": "Construction Update."
+        },
+        {
+          "date": "29th March. 2021",
+          "thumbnail_img": "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1673523685/Siteupdate15e_sum5nq.jpg",
+          "original_img": "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1673523685/Siteupdate15e_sum5nq.jpg",
+          "desc": ""
+        },
+        {
+          "date": "29th March. 2021",
+          "thumbnail_img": "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1673523686/Siteupdate15f_p5y5vv.jpg",
+          "original_img": "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1673523686/Siteupdate15f_p5y5vv.jpg",
+          "desc": ""
+        },
+        {
+          "date": "29th March. 2021",
+          "thumbnail_img": "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1673523686/Siteupdate15g_wmd4u4.jpg",
+          "original_img": "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1673523686/Siteupdate15g_wmd4u4.jpg",
+          "desc": ""
+        },
+        {
+          "date": "29th March. 2021",
+          "thumbnail_img": "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1673523686/Siteupdate15h_u9qgo1.jpg",
+          "original_img": "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1673523686/Siteupdate15h_u9qgo1.jpg",
+          "desc": ""
+        },
+        {
+          "date": "29th March. 2021",
+          "thumbnail_img": "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1673523685/Siteupdate15a_j9erdb.jpg",
+          "original_img": "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1673523685/Siteupdate15a_j9erdb.jpg",
+          "desc": ""
+        }
+        
+      ]
+    },
+  {
+    "id": "14",
+      "cover_img": "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1673520463/SiteUpdate14a_l2si8g.jpg",
+      "cover_desc_comment": "Description should not be more than 160 characters, spaces inclusive. End with three dots to denote continuation",
+      "cover_desc": 
+        "We have now successfully opened up 12 more backbone roads of our internal road network...",
+      "date_range": "29th March. 2021",
+      "updates": [
+        {
+          "date": "29th March. 2021",
+          "thumbnail_img": "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1673520463/SiteUpdate14b_j4afbk.jpg",
+          "original_img": "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1673520463/SiteUpdate14b_j4afbk.jpg",
+          "desc": ""
+        },
+        {
+          "date": "29th March. 2021",
+          "thumbnail_img": "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1673520463/SiteUpdate14c_dbv31d.jpg",
+          "original_img": "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1673520463/SiteUpdate14c_dbv31d.jpg",
+          "desc": ""
+        },
+        {
+          "date": "29th March. 2021",
+          "thumbnail_img": "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1673520463/SiteUpdate14d_iqjaxp.jpg",
+          "original_img": "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1673520463/SiteUpdate14d_iqjaxp.jpg",
+          "desc": "Construction Update."
+        },
+        {
+          "date": "29th March. 2021",
+          "thumbnail_img": "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1673520463/SiteUpdate14e_hzckno.jpg",
+          "original_img": "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1673520463/SiteUpdate14e_hzckno.jpg",
+          "desc": ""
+        },
+        {
+          "date": "29th March. 2021",
+          "thumbnail_img": "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1673520464/SiteUpdate14f_fp2du9.jpg",
+          "original_img": "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1673520464/SiteUpdate14f_fp2du9.jpg",
+          "desc": ""
+        },
+        {
+          "date": "29th March. 2021",
+          "thumbnail_img": "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1673520464/SiteUpdate14g_eeshfl.jpg",
+          "original_img": "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1673520464/SiteUpdate14g_eeshfl.jpg",
+          "desc": ""
+        },
+        {
+          "date": "29th March. 2021",
+          "thumbnail_img": "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1673520464/SiteUpdate14h_hkp0j6.jpg",
+          "original_img": "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1673520464/SiteUpdate14h_hkp0j6.jpg",
+          "desc": ""
+        },
+        {
+          "date": "29th March. 2021",
+          "thumbnail_img": "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1673520463/SiteUpdate14a_l2si8g.jpg",
+          "original_img": "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1673520463/SiteUpdate14a_l2si8g.jpg",
+          "desc": ""
+        }
+        
+      ]
+    },
+  {
+  "id": "13",
+    "cover_img": "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1673518856/siteupdate_13a_foewal.jpg",
+    "cover_desc_comment": "Description should not be more than 160 characters, spaces inclusive. End with three dots to denote continuation",
+    "cover_desc": 
+      "Work has been very much in progress on the AMC Site. Upon Commencement of the new year, Mapping, clearing have begun...",
+    "date_range": "8th Feb. 2021",
+    "updates": [
+      {
+        "date": "8th Feb. 2021",
+        "thumbnail_img": "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1673518856/siteupdate_13c_xp9pw6.jpg",
+        "original_img": "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1673518856/siteupdate_13c_xp9pw6.jpg",
+        "desc": "Civil Works for the overhead tank that will supply water to the entire estate have commenced."
+      },
+      {
+        "date": "8th Feb. 2021",
+        "thumbnail_img": "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1673518856/siteupdate_13b_s6rt3n.jpg",
+        "original_img": "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1673518856/siteupdate_13b_s6rt3n.jpg",
+        "desc": ""
+      },
+      {
+        "date": "8th Feb. 2021",
+        "thumbnail_img": "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1673518856/siteupdate_13d_kht7ch.jpg",
+        "original_img": "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1673518856/siteupdate_13d_kht7ch.jpg",
+        "desc": "Construction Update."
+      },
+      {
+        "date": "8th Feb. 2021",
+        "thumbnail_img": "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1673518856/siteupdate_13e_uitzrg.jpg",
+        "original_img": "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1673518856/siteupdate_13e_uitzrg.jpg",
+        "desc": ""
+      },
+      {
+        "date": "8th Feb. 2021",
+        "thumbnail_img": "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1673518856/siteupdate_13a_foewal.jpg",
+        "original_img": "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1673518856/siteupdate_13a_foewal.jpg",
+        "desc": ""
+      }
+      
+    ]
+  },
+  {
     "id": "12",
       "cover_img": "/img/site-update/4th-Dec-2020/4th-Dec-2020-00.jpg",
       "cover_desc_comment": "Description should not be more than 160 characters, spaces inclusive. End with three dots to denote continuation",
