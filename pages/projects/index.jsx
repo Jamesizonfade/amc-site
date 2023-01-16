@@ -42,6 +42,7 @@ import { Church } from "../../component/commercial-plots/Church";
 import { IndoorSport } from "../../component/commercial-plots/IndoorSport";
 import { School } from "../../component/commercial-plots/School";
 
+
 const Projects = () => {
   return (
     <Layout title="Project">

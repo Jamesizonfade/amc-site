@@ -3,13 +3,17 @@ import { Partners } from "../component/Partners";
 import { Slider } from "../component/Slider";
 import infrastructure from "../data/infrastructure.json";
 import { CityPlan } from "../component/CityPlan";
+import PopupVideo from "../component/popup";
+
 
 const Home = () => {
   return (<>
       <Layout title="Home">
         {/* Home Slider */}
         <Slider/>
+
         {/*About Awka Millennium City */}
+        <PopupVideo/>
         <div className="section-block grey-bg background-shape-3">
           <div className="container">
             <div className="row">
