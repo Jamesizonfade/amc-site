@@ -20,21 +20,29 @@ const PopupVideo: React.FC<Props> = () => {
         onRequestClose={() => setIsOpen(false)}
         style={{
           content: {
-            width: '720px',
-            height: '410px',
+            width: '70%',
+            height: '60%',
             margin: 'auto',
             backgroundColor: '#242424',
           },
         }}
       >
         <button style= {{color:'#fff'}} onClick={() => setIsOpen(false)}>Close</button>
-        <iframe
+   
+        <iframe  width='100%' height="100%" src="https://www.youtube.com/embed/tJev4mjf7NE" 
+         title="YouTube video player" allow="accelerometer; 
+         autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+         allowFullScreen
+         >
+         </iframe>
+
+        {/* <iframe
           width="100%"
           height="100%"
           src="https://www.youtube.com/embed/tJev4mjf7NE"
           allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
           allowFullScreen
-        ></iframe>
+        ></iframe> */}
       </Modal>
     </div>
   );
