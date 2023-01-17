@@ -2,6 +2,7 @@ import { Banner } from "../../component/Banner";
 import { Layout } from "../../component/Layout";
 
 
+
 const MillenniumCourt = () =>{
     return (
 
@@ -11,14 +12,19 @@ const MillenniumCourt = () =>{
          <div className="section-block section-sm border-bottom partners">
          <div className="section-block grey-bg">
         <div className="container text-center">
-            
-        <iframe width="80%" height="400" src="https://www.youtube.com/embed/rYd-_gVOrHo" 
+        <div className="milleniumcourt-video">    
+        <video width="80%" height="80%" controls poster={''}>
+              <source src={'/videos/AMC-flythrough.mp4'} type="video/mp4"/>
+                alt=""
+                {/* style={{ width: "100%" }} */}
+              </video>
+        {/* <iframe width="80%" height="400px" src="https://www.youtube.com/embed/rYd-_gVOrHo" 
          title="YouTube video player" allow="accelerometer; 
          autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
          allowFullScreen
          >
-         </iframe>
-
+         </iframe> */}
+         </div>
         
         </div>
         </div>
