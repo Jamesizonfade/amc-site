@@ -1,4 +1,42 @@
 [
+  {
+    "id": "25",
+    "thumbnail_img": "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1673973684/news25e_h2n40e.jpg",
+    "short_title_comment": "Short_title should not be more than 38 characters, spaces inclusive. End with three dots to denote continuation",
+    "short_title": "AMC December 2022 Site Tour",
+    "full_title": "AMC December 2022 Site Tour.",
+    "desc_comment": "Description should not be more than 160 characters, spaces inclusive. End with three dots to denote continuation",
+    "desc": "We say a very big thank you to everyone that turned up at the just concluded Awka Millennium City site tour.",
+    "date": "20th Dec, 2022",
+    "top_img": "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1673973173/news25f_xac9hb.jpg",
+    "body_content1": [
+      "We say a very big thank you to everyone that turned up at the just concluded Awka Millennium City site tour. You made the site tour super amazing!",
+      "We celebrate our existing subscribers who made out time to see the progress of works at the site. It was exciting showing you around.",
+      "To our new subscribers, you made the best decision by investing your money where you will get value and a high return on investment.",
+      "We are confident about celebrating more landlords and homeowners this year.",
+      ""
+     ],
+    "body_img_title": "",
+    "body_img1": "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1673973176/news25o_ueuwlj.jpg",
+    "body_video": "",
+    "body_video_thumbnail":"",
+    "body_content2": [
+      ""  ],
+    "bottom_imgs_title": "",
+    "bottom_imgs": [
+      "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1673973176/news25k_szihgr.jpg",
+      "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1673973175/news25i_wpdqhc.jpg",
+      "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1673973167/news25m_m5c0pc.jpg",
+      "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1673973171/news25n_d3uluu.jpg",
+      "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1673973155/news25g_g6nwub.jpg",
+      "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1673973151/news25c_d1tf9n.jpg",
+      "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1673973148/news25b_x1m9up.jpg",
+      "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1673973144/news25j_uqsyxo.jpg",
+      "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1673973130/news25a_k0yx29.jpg",
+      "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1673973150/news25d_rhk1fn.jpg"
+    ]
+  },
+  
   
   {
     "id": "24",
