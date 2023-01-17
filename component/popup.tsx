@@ -15,35 +15,21 @@ const PopupVideo: React.FC<Props> = () => {
 
   return (
     <div>
-      <Modal ariaHideApp={false}
+      <div className="container text-center">
+      <Modal className="popup-modal" ariaHideApp={false}
         isOpen={isOpen}
         onRequestClose={() => setIsOpen(false)}
-        style={{
-          content: {
-            width: '70%',
-            height: '60%',
-            margin: 'auto',
-            backgroundColor: '#242424',
-          },
-        }}
+        
       >
         <button style= {{color:'#fff'}} onClick={() => setIsOpen(false)}>Close</button>
    
-        <iframe  width='100%' height="100%" src="https://www.youtube.com/embed/tJev4mjf7NE" 
-         title="YouTube video player" allow="accelerometer; 
-         autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-         allowFullScreen
-         >
-         </iframe>
+        <video width="100%" height="100%" controls poster={''} >
+              <source src={'/videos/AMC-flythrough.mp4'} type="video/mp4"/>
+              alt=""
+              </video>
 
-        {/* <iframe
-          width="100%"
-          height="100%"
-          src="https://www.youtube.com/embed/tJev4mjf7NE"
-          allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-          allowFullScreen
-        ></iframe> */}
       </Modal>
+      </div>
     </div>
   );
 };

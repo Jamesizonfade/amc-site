@@ -7210,8 +7210,11 @@ width: auto;
   color: #000;
 }
 
-.milleniumcourt-video > iframe{
- width: 80%;
- height: 400px;
 
+.popup-modal {
+  width: 640px;
+  height: 377px;
+  margin: auto;
+  padding-top: 20px;
+  background-color: #242424;
 }
