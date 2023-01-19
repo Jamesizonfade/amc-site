@@ -21,13 +21,15 @@ const PopupVideo: React.FC<Props> = () => {
         onRequestClose={() => setIsOpen(false)}
         
       >
-        <button style= {{color:'#fff'}} onClick={() => setIsOpen(false)}>Close</button>
-   
+   <div  style= {{backgroundColor:'black'}} className="section-block section-sm border-bottom">
         <video width="100%" height="100%" controls poster={'https://res.cloudinary.com/dgsdjrpjz/image/upload/v1674148923/amc-flythrough-thumbnail_hbgld6.png'} >
               <source src={'/videos/AMC-flythrough.mp4'} type="video/mp4"/>
               alt=""
               </video>
-
+              <div className="container text-center">
+            <button className="button-md button-primary" style= {{color:'#fff'}} onClick={() => setIsOpen(false)}>Close</button>
+            </div>
+      </div>
       </Modal>
       </div>
     </div>
