@@ -6786,7 +6786,8 @@ owl-next {
   .blog-grid h4 {
     line-height: 1.2;
   }
-} /*-----------------------------------------43. Blog List-------------------------------------------*/
+} 
+/*-----------------------------------------43. Blog List-------------------------------------------*/
 .blog-list {
   position: relative;
   margin-bottom: 40px;
@@ -7212,9 +7213,20 @@ width: auto;
 
 
 .popup-modal {
-  width: 640px;
-  height: 377px;
+  width: 600px;
   margin: auto;
   padding-top: 20px;
   background-color: #242424;
+  opacity: 1;
 }
+
+
+@media (max-width: 800px) {
+  
+.popup-modal {
+  width: 85%;
+}
+
+} 
+
+
