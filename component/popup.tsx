@@ -23,7 +23,7 @@ const PopupVideo: React.FC<Props> = () => {
       >
         <button style= {{color:'#fff'}} onClick={() => setIsOpen(false)}>Close</button>
    
-        <video width="100%" height="100%" controls poster={''} >
+        <video width="100%" height="100%" controls poster={'https://res.cloudinary.com/dgsdjrpjz/image/upload/v1674148923/amc-flythrough-thumbnail_hbgld6.png'} >
               <source src={'/videos/AMC-flythrough.mp4'} type="video/mp4"/>
               alt=""
               </video>
