@@ -13,11 +13,12 @@ const MillenniumCourt = () =>{
          <div className="section-block grey-bg">
         <div className="container text-center">
         <div className="milleniumcourt-video">    
-        <video width="80%" height="80%" controls poster={''} >
+        <video width="90%" height="80%" controls poster={'https://res.cloudinary.com/dgsdjrpjz/image/upload/v1674146318/mellinium-court-video-thumbnail_yga3ro.png'} >
               <source src={'/videos/Millennium-court.mp4'} type="video/mp4"/>
               alt=""
               </video>
          </div>
+         <h3 className="semi-bold" >Units are selling fast!</h3>
         
         </div>
         </div>
