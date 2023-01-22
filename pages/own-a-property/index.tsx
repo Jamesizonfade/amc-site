@@ -9,15 +9,15 @@ const OwnAProperty = () => {
       <Banner page="Own A Property" />
       <div
         className="p-3 px-5"
-        style={{ background: "#1C7947", color: "white" }}
+        style={{ background: "#1C7947", color: "white"}}
       >
         <img
           src="/img/open.png"
           alt=""
           style={{ width: "60px", marginRight: "20px" }}
         />
-       Plots sales are now officially open!! Kindly fill in the relevant subscription
-        form and get in touch with us to secure your plot(s)!
+       <p style={{ color: "white" }}>Plots sales are now officially open!! Kindly fill in the relevant subscription
+        form and get in touch with us to secure your plot(s)! </p>
       </div>
 
       {/* Obaforex Academy */}

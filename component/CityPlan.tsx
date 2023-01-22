@@ -43,8 +43,8 @@ export const CityPlan = () => {
             </div>
             <div
               className="izimodal"
-              data-iziModal-width="800px"
-              data-iziModal-fullscreen="true"
+              data-izimodal-width="800px"
+              data-izimodal-fullscreen="true"
             >
               <iframe
                 height="425"
