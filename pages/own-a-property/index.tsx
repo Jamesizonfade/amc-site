@@ -7,17 +7,21 @@ const OwnAProperty = () => {
     <Layout title="Own A Property">
       {/* Banner */}
       <Banner page="Own A Property" />
-      <div
-        className="p-3 px-5"
+      <div className="p-3 px-5"
         style={{ background: "#1C7947", color: "white"}}
       >
+        <div className="text-center">
         <img
           src="/img/open.png"
           alt=""
-          style={{ width: "60px", marginRight: "20px" }}
+          style={{ width: "100px" , margin: "auto", textAlign: "center"}}
         />
-       <p style={{ color: "white" }}>Plots sales are now officially open!! Kindly fill in the relevant subscription
-        form and get in touch with us to secure your plot(s)! </p>
+        </div>
+        <div className="text-center">
+        <h6 style={{ color: "white", fontSize: "2.5vw"}}>Plots sales are now officially open!! Kindly fill in the relevant subscription
+        form and get in touch with us to secure your plot(s)! </h6>
+        </div>
+
       </div>
 
       {/* Obaforex Academy */}
