@@ -1,10 +1,27 @@
-[
+[{
+  "id":"7",
+  "thumbnail_image": "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1674857161/WhatsApp_Image_2023-01-25_at_13.43.31_o4mwl6.jpg",
+  "short_title_comment": "Short_title should not be more than 38 characters, spaces inclusive. End with three dots to denote continuation",
+   "short_title": "March 2022 - June 2022",
+   "date": "",
+   "images": [
+    "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1674856451/WhatsApp_Image_2023-01-25_at_13.43.36_xsgcdh.jpg",
+    "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1674856450/WhatsApp_Image_2023-01-25_at_13.43.33_orw49k.jpg",
+    "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1674856450/WhatsApp_Image_2023-01-25_at_13.43.35_h8sejm.jpg",
+    "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1674856450/WhatsApp_Image_2023-01-25_at_13.43.34_zpnav9.jpg",
+    "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1674856450/WhatsApp_Image_2023-01-25_at_13.43.32_etrtn3.jpg",
+    "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1674856450/WhatsApp_Image_2023-01-25_at_13.43.30_g76aas.jpg",
+    "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1674856449/WhatsApp_Image_2023-01-25_at_13.43.28_xni3lr.jpg",
+    "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1674856450/WhatsApp_Image_2023-01-25_at_13.43.31_x6qtvv.jpg"
+   ]
+},
+
   {
     "id":"6",
     "thumbnail_image": "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1645149815/samples/12-2021/12-2021-DJI_01_thumbnail_oxdl7a.png",
     "short_title_comment": "Short_title should not be more than 38 characters, spaces inclusive. End with three dots to denote continuation",
-     "short_title": "Installation of solar powered street lights",
-     "date": "December, 2021",
+     "short_title": "November 2021 – December 2021",
+     "date": "",
      "images": [
       "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1645145804/samples/12-2021/12-2021-DJI_03_urotza.png",
       "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1645145836/samples/12-2021/12-2021-DJI_01_ctnw8o.png",
@@ -27,8 +44,8 @@
     "id":"5",
     "thumbnail_image": "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1645149978/samples/17-06-2021/17-06-2021-DJI_01_thumbnail_qi3doq.png",
     "short_title_comment": "Short_title should not be more than 38 characters, spaces inclusive. End with three dots to denote continuation",
-     "short_title": "Foundation works for water storage tanks",
-     "date": "17th June, 2021",
+     "short_title": "June 2021 – August 2021",
+     "date": "",
      "images": [
       "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1645145532/samples/17-06-2021/17-06-2021-DJI_05_eafcmv.png",
       "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1645145525/samples/17-06-2021/17-06-2021-DJI_06_lhk56o.png",
@@ -43,8 +60,8 @@
     "id":"4",
     "thumbnail_image":"https://res.cloudinary.com/dgsdjrpjz/image/upload/v1645149721/samples/12-02-2021/12-02-2021-DJI_01_thumbnail_wpovqb.png",
     "short_title_comment": "Short_title should not be more than 38 characters, spaces inclusive. End with three dots to denote continuation",
-     "short_title": "Aerial view of the AMC construction Yard",
-     "date": "12th February, 2021",
+     "short_title": "February 2021 – May 2021",
+     "date": "",
      "images": [
       "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1645147108/samples/12-02-2021/12-02-2021-DJI_01_cql4ls.png",
       "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1645147113/samples/12-02-2021/12-02-2021-DJI_02_skafpc.png",
@@ -67,8 +84,8 @@
     "id":"3",
     "thumbnail_image":"https://res.cloudinary.com/dgsdjrpjz/image/upload/v1645150565/samples/19-11-2020/19-11-2020-DJI_01_thumbnail_2_ez3vja.png",
     "short_title_comment": "Short_title should not be more than 38 characters, spaces inclusive. End with three dots to denote continuation",
-     "short_title": "Installation of storm water drain pre-cast units",
-     "date": "19th November, 2020",
+     "short_title": "September 2020 - November 2020",
+     "date": "",
      "images": [
       "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1645087788/samples/19-11-2020/DJI_02_mdvghg.png",
       "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1645086450/samples/19-11-2020/DJI_01_lky9ce.png"
@@ -78,7 +95,7 @@
     "id":"2",
     "thumbnail_image":"https://res.cloudinary.com/dgsdjrpjz/image/upload/v1645150749/samples/30-10-2020/30-10-2020-DJI_01_thumbnail_tfozan.png",
     "short_title_comment": "Short_title should not be more than 38 characters, spaces inclusive. End with three dots to denote continuation",
-     "short_title": "Sub-base course filling of the AMC Avenue Roads",
+     "short_title": "June 2020 – August 2020",
      "date": "",
      "images": [
       "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1645144887/samples/30-10-2020/30-10-2020-DJI_01_mzo7hh.png",
@@ -100,8 +117,8 @@
     "id":"1",
     "thumbnail_image":"https://res.cloudinary.com/dgsdjrpjz/image/upload/v1645090083/samples/19-11-2020/27-05-2020/DJI_01_1_ivql4s.png",
     "short_title_comment": "Short_title should not be more than 38 characters, spaces inclusive. End with three dots to denote continuation",
-     "short_title": "Asphalt laying of AMC first access road",
-     "date": "27th May, 2020",
+     "short_title": "May 2020 – July 2020",
+     "date": "",
      "images": [
       "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1645090083/samples/19-11-2020/27-05-2020/DJI_01_1_ivql4s.png",
       "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1645090075/samples/19-11-2020/27-05-2020/27-5-2020-DJI_08_rauzwz.png",
@@ -123,8 +140,8 @@
     "id":"0",
     "thumbnail_image":"https://res.cloudinary.com/dgsdjrpjz/image/upload/v1645393775/samples/20-11-19/20-12-19-01_thumbnails_inv7q6.png",
     "short_title_comment": "Short_title should not be more than 38 characters, spaces inclusive. End with three dots to denote continuation",
-     "short_title": "AMC project ground breaking by Gov. Willy Obiano",
-     "date": "19th December, 2019",
+     "short_title": "December 2019",
+     "date": "",
      "images": [
       "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1645393349/samples/20-11-19/20-12-19-08_vhs52t.png",
       "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1645393349/samples/20-11-19/20-12-19-03_rytmav.png",
