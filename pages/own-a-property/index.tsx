@@ -1,8 +1,12 @@
 import { Banner } from "../../component/Banner";
 import { Layout } from "../../component/Layout";
 import ownAProperty from "../../data/ownAProperty.json";
+import ReactGA from 'react-ga';
 
 const OwnAProperty = () => {
+  if (typeof window !== 'undefined') {
+    ReactGA.pageview(window.location.pathname + window.location.search);
+  }
   return (
     <Layout title="Own A Property">
       {/* Banner */}
