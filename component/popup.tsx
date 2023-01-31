@@ -27,7 +27,7 @@ const PopupVideo: React.FC<Props> = () => {
               alt=""
               </video>
               <div className="container text-center">
-            <button className="button-md button-primary" style= {{color:'#fff'}} onClick={() => setIsOpen(false)}>Close</button>
+            <button className="popup-modal-button" style= {{color:'#fff'}} onClick={() => setIsOpen(false)}>Close</button>
             </div>
       </div>
       </Modal>
