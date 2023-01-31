@@ -1,7 +1,9 @@
 import Head from "next/head";
+import useTrackPage from "../analytics"
 
 
 function MyApp({ Component, pageProps }) {
+  useTrackPage();
   return (
     <>
       <Head>
