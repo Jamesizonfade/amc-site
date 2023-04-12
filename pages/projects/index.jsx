@@ -195,14 +195,6 @@ const Projects = () => {
                         Medium density residential area
                       </div>
                     </li>
-                    <li>
-                      <div className="icon-sm">
-                        <i className="fas fa-check-circle"></i>
-                      </div>
-                      <div className="icon-text">
-                        High density residential area
-                      </div>
-                    </li>
                   </ul>
                   <br />
                   <h5>Very Low Density Residential Area</h5>
