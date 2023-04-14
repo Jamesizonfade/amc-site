@@ -1,5 +1,38 @@
 [
   {
+    "id": "26",
+    "thumbnail_img": "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1681453197/AMC/news25/news25ai_zgvfn0.jpg",
+    "short_title_comment": "Short_title should not be more than 38 characters, spaces inclusive. End with three dots to denote continuation",
+    "short_title": "Mr. Clem Nwogbo Tours Awka Millennium City",
+    "full_title": "Mr. Clem Nwogbo Tours Awka Millennium City.",
+    "desc_comment": "Description should not be more than 160 characters, spaces inclusive. End with three dots to denote continuation",
+    "desc": "Mr. Clem Nwogbo, Group Managing Director, M-P Infrastructure Limited and AMC in company of Mr. Chimmy Ogbuebile...",
+    "date": "29th March, 2023",
+    "top_img": "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1681453197/AMC/news25/news26b_kffnb8.jpg",
+    "body_content1": [
+      "Mr. Clem Nwogbo (2nd R), Group Managing Director, M-P Infrastructure Limited and Awka Millennium City Development Company Limited in company of Mr. Chimmy Ogbuebile (M), CEO, Awka Millennium City Development Company Limited were welcomed by the Project Manager, Mr. Obinna Nnoruo (R), alongside other stakeholders.",
+      "Mr. Clem toured the Awka Millennium City yesterday alongside his team as they monitored the ongoing building construction on site including the construction of the power substation, Ijele and Odogwu prototype homes and the Millennium Court. Mr. Clem stated that he was excited to see the buildings springing up while he called on subscribers to kickstart building construction. AMC is opening up the AMC 2 which is phase 2 of the project. AMC 2 will afford subscribers the opportunity to buy a plot at a discounted price of N30,000 per sqm",
+      "AMC 1 has sold out on its 500 sqm plots however, interested individuals and businesses can take advantage of the limited number of 1,000 sqm and 2,000 sqm plots while exploring the opportunities of owning parts of the Commercial Avenue which allows for commercial activities including building of schools, banking halls, hotels, hospitals, and many more he added.",
+      ""
+     ],
+    "body_img_title": "",
+    "body_img1": "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1681453197/AMC/news25/news26c_ijcpfv.jpg",
+    "body_video": "",
+    "body_video_thumbnail":"",
+    "body_content2": [
+      ""  ],
+    "bottom_imgs_title": "",
+    "bottom_imgs": [
+     "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1681453197/AMC/news25/news26d_v6oejf.jpg",
+     "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1681453197/AMC/news25/news26e_gehdww.jpg",
+     "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1681453198/AMC/news25/news26f_vzjp38.jpg",
+     "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1681453198/AMC/news25/news26g_uzudll.jpg",
+     "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1681453197/AMC/news25/news26h_rhkw5m.jpg",
+     "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1681453198/AMC/news25/news26i_logmwp.jpg",
+     "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1681453198/AMC/news25/news26j_sxhhdc.jpg"
+    ]
+  },
+  {
     "id": "25",
     "thumbnail_img": "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1673973684/news25e_h2n40e.jpg",
     "short_title_comment": "Short_title should not be more than 38 characters, spaces inclusive. End with three dots to denote continuation",

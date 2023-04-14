@@ -48,12 +48,12 @@ export const CityPlan = () => {
             >
               <iframe
                 height="425"
-                src="https://www.youtube.com/embed/_4pJPyaRwCQ"
+                src="https://www.youtube.com/embed/8Q9hqtnREjc"
                 title="AMC Site Video"
                 frameBorder="0"
                 className="full-width shadow-primary"
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-              ></iframe>
+                allow="accelerometer; autoplay; fullscreen; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                ></iframe>
             </div>
           </div>
         </div>

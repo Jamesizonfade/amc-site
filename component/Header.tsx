@@ -54,6 +54,9 @@ export const Header = () => {
             <li>
               <a href="/millennium-court">Millennium Court</a>
             </li>
+            <li>
+              <a href="/amc-two">AMC 2</a>
+            </li>
           </ul>
         </div>
       </nav>
