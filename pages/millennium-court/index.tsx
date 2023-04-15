@@ -12,11 +12,11 @@ const MillenniumCourt = () =>{
          <div className="section-block section-sm border-bottom partners">
          <div className="section-block grey-bg">
         <div className="container text-center">
-        <div className="milleniumcourt-video">    
-        <video width="90%" height="80%" controls poster={'https://res.cloudinary.com/dgsdjrpjz/image/upload/v1674146318/mellinium-court-video-thumbnail_yga3ro.png'} >
-              <source src={'/videos/Millennium-court.mp4'} type="video/mp4"/>
-              alt=""
-              </video>
+        <div className="milleniumcourt-video"> 
+        <iframe width="871" height="490" src="https://www.youtube.com/embed/GqjHBhW4NYw" 
+        title="YouTube video player"  allow="accelerometer; autoplay;
+        clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" >
+            </iframe>   
          </div>
          <h3 className="semi-bold" >Units are selling fast!</h3>
         
