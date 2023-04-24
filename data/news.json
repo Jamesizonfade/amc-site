@@ -1,6 +1,6 @@
 [
   {
-    "id": "27",
+    "id": "28",
     "thumbnail_img": "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1682338486/AMC/news27/Screenshot_26_dkjn36.png",
     "short_title_comment": "Short_title should not be more than 38 characters, spaces inclusive. End with three dots to denote continuation",
     "short_title": "Governor Soludo Tours Awka Millennium City",
@@ -24,6 +24,38 @@
     "bottom_imgs_title": "",
     "bottom_imgs": [
     ""
+    ]
+  },
+  {
+    "id": "27",
+    "thumbnail_img": "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1682373987/AMC/news27/news27bi_p0jsia.jpg",
+    "short_title_comment": "Short_title should not be more than 38 characters, spaces inclusive. End with three dots to denote continuation",
+    "short_title": "Oilserv Chairman, Okwuosa, Tours Awka Millennium City",
+    "full_title": "Oilserv Chairman, Okwuosa, Tours Awka Millennium City",
+    "desc_comment": "Description should not be more than 160 characters, spaces inclusive. End with three dots to denote continuation",
+    "desc": "The Chairman of Oilserv Limited, Engineer Emeka Okwuosa, CON, has inspected ongoing construction work at AMC....",
+    "date": "April, 2023",
+    "top_img": "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1682373987/AMC/news27/news27e_enuk6l.jpg",
+    "body_content1": [
+          "During the visit, Engineer Okwuosa expressed his delight and admiration for the infrastructural development in the estate.",
+          "Engineer Okwuosa who was welcomed by the Chairman of M-P Infrastructure Ltd, and Awka Millennium Development Company Limited, Mr. Clem Nwogbo, praised the AMC team for the brilliant concept and execution of the project.",
+          "Mr. Nwogbo thanked Engineer Okwuosa for his unwavering support for the AMC project. He stated that Awka Millennium City is designed to be a liveable smart estate, secure and environmentally friendly, powered by cutting-edge technology, and adorned with state-of-the-art facilities."  
+    ],
+    "body_img_title": "",
+    "body_img1": "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1682373988/AMC/news27/news27i_ehxrge.jpg",
+    "body_video": "",
+    "body_video_thumbnail":"",
+    "body_content2": [
+      ""  ],
+    "bottom_imgs_title": "",
+    "bottom_imgs": [
+    "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1682373988/AMC/news27/news27g_bs6fh5.jpg",
+    "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1682373988/AMC/news27/news27h_qz2tqf.jpg",
+    "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1682373987/AMC/news27/news27c_wadr3p.jpg",
+    "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1682373987/AMC/news27/news27b_iuzhke.jpg",
+    "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1682373987/AMC/news27/news27d_pwqfmy.jpg",
+    "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1682373987/AMC/news27/news27f_ocmjsd.jpg",
+    "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1682373986/AMC/news27/news27a_ibzfzz.jpg"
     ]
   },
   {
