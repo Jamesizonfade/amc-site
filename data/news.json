@@ -1,5 +1,32 @@
 [
   {
+    "id": "27",
+    "thumbnail_img": "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1682338486/AMC/news27/Screenshot_26_dkjn36.png",
+    "short_title_comment": "Short_title should not be more than 38 characters, spaces inclusive. End with three dots to denote continuation",
+    "short_title": "Governor Soludo Tours Awka Millennium City",
+    "full_title": "Anambra State Governor Soludo Tours Awka Millennium City, Calls On Ndi Anambra And Others To Invest In The Smart City.",
+    "desc_comment": "Description should not be more than 160 characters, spaces inclusive. End with three dots to denote continuation",
+    "desc": "The Governor of Anambra state, Prof. Charles Soludo, on Thursday, 20th April 2023, undertook a tour of Awka Millennium City....",
+    "date": "20th April, 2023",
+    "top_img": "",
+    "body_content1": [
+       "The Governor while speaking after the tour said that he was highly impressed with the project. He commended the Chairman of M-P Infrastructure Ltd, and Awka Millennium Development Company Limited, Mr. Clem Nwogbo, and his team for heeding the ‘Aku Luo Uno’ call and bringing their investments home.",
+       "He added that AMC features state-of-the-art infrastructure, and is a modern estate with both residential and commercial layouts. Concluding, the Governor said that with the integration of technology into the design of the estate, residents and business owners are guaranteed the best smart estate to live and work in Anambra State. He expressed his government’s support towards the project which is the first smart city in Southeast Nigeria. “The longer you wait, the higher the premium, so why not subscribe now to Awka Millennium City?”, the Governor remarked.",
+       "The Governor was accompanied by Prof. Offornze Amucheazi, Anambra state Commissioner for Lands, Mr. Mark Okoye, Managing Director, Anambra State Investment Promotion and Protection Agency (ANSIPPA), Arc. Mike Okonkwo, Chairman, Anambra Urban Regeneration Council, Mr. Mike Ozoemena, Managing Director, Anambra State Waste Management Authority (ASWAMA), Mr. Chinedu Nwoye, Chief of Protocol to the Governor, and other dignitaries",
+       "The Governor and his team were welcomed by Mr. Clem Nwogbo, Chairman, M-P Infrastructure Limited and Awka Millennium City Development Company, Mr. Chimmy Ogbuebile, CEO, Awka Millennium City, Mr. Obinna Nnoruo, Project Manager, Awka Millennium City, Mr. Ehis Akhilomhen, Construction Manager, Awka Millennium City, Mr. Obuka Chukwudozie, Senior Product Development Manager, Awka Millennium City amongst other stakeholders."
+     ],
+    "body_img_title": "",
+    "body_img1": "",
+    "body_video": "https://res.cloudinary.com/dgsdjrpjz/video/upload/v1682343737/AMC/news27/governor-charles-soludo-visits-awka-millennium-city_arSP0jXn_r9w13z.mp4",
+    "body_video_thumbnail":"",
+    "body_content2": [
+      ""  ],
+    "bottom_imgs_title": "",
+    "bottom_imgs": [
+    ""
+    ]
+  },
+  {
     "id": "26",
     "thumbnail_img": "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1681453197/AMC/news25/news25ai_zgvfn0.jpg",
     "short_title_comment": "Short_title should not be more than 38 characters, spaces inclusive. End with three dots to denote continuation",
