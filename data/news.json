@@ -1,5 +1,31 @@
 [
   {
+    "id": "29",
+    "thumbnail_img": "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1684680079/amc_news_29_aafzkj.jpg",
+    "short_title_comment": "Short_title should not be more than 38 characters, spaces inclusive. End with three dots to denote continuation",
+    "short_title": "Awka Millennium City Honoured At Real Estate Conference In Lagos",
+    "full_title": "Awka Millennium City Honoured At Real Estate Conference In Lagos.",
+    "desc_comment": "Description should not be more than 160 characters, spaces inclusive. End with three dots to denote continuation",
+    "desc": "Awka Millennium City Development Company Ltd, promoters of AMC, was on Wednesday, 3rd of May, 2023, honoured....",
+    "date": "3rd May, 2023",
+    "top_img": "",
+    "body_content1": [
+        "Awka Millennium City Development Company Ltd, promoters of Awka Millennium City (AMC), was on Wednesday, 3rd of May, 2023, honoured with the 'New Town Development - South East' award, at the 2023 Real Estate Conference, 'Unleashed 4 Takeover, Re-shaping Real Estate in Africa'.",  
+        "The 2-day conference which attracted many players in the real estate sector in Nigeria and Africa was organised by Dr. Kennedy Okonkwo's Citadel Views Group.",
+        "Mr Chimmy Ogbuebile, the CEO of Awka Millennium City, while receiving the award on behalf of the Chairman of M-P Infrastructure Group, Dr.Clem Nwogbo, said that they were proud to have been the first to launch a smart city in South- East Nigeria.",
+        "'We are honoured and delighted with the recognition from Citadel Views. We are encouraged by such industry recognition. It is another testament of the quality of work we have put in at Awka Millennium City. Our AMC1 is over subscribed, but AMC2 sales is on, likewise our Millennium Court. Return on Investment is over 180% since we launched 3 years ago'."],
+    "body_img_title": "",
+    "body_img1": "",
+    "body_video": "",
+    "body_video_thumbnail":"",
+    "body_content2": [
+      ""  ],
+    "bottom_imgs_title": "",
+    "bottom_imgs": [
+    ""
+    ]
+  },
+  {
     "id": "28",
     "thumbnail_img": "https://res.cloudinary.com/dgsdjrpjz/image/upload/v1682338486/AMC/news27/Screenshot_26_dkjn36.png",
     "short_title_comment": "Short_title should not be more than 38 characters, spaces inclusive. End with three dots to denote continuation",
