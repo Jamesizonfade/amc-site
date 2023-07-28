@@ -23,7 +23,7 @@ const PopupVideo: React.FC<Props> = () => {
       >
    <div  style= {{backgroundColor:'black'}} className="section-block section-sm border-bottom">
         <video width="100%" height="100%" controls preload='metadata' poster={'https://res.cloudinary.com/dgsdjrpjz/image/upload/v1674148923/amc-flythrough-thumbnail_hbgld6.png'} >
-              <source src={'/videos/AMC-flythrough.mp4'} type="video/mp4" />
+              <source src={'/videos/AMCJulyupdate.mp4'} type="video/mp4" />
               alt=""
               </video>
               <div className="container text-center">
