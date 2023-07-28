@@ -22,8 +22,14 @@ const OwnAProperty = () => {
         />
         </div>
         <div className="text-center">
-        <h6 style={{ color: "white", fontSize: "2.5vw"}}>Plots sales are now officially open!! Kindly fill in the relevant subscription
-        form and get in touch with us to secure your plot(s)! </h6>
+        <h6 style={{ color: "white", fontSize: "1.5vw"}}>
+        Thank you for your interest in Awka Millennium City 1 (AMC 1) and Awka Millennium City 2 (AMC 2). 
+            We regret to inform you that sales have closed for both.
+             </h6>
+            <h6 style={{ color: "white", fontSize: "1.5vw"}}>
+            In the meantime, we still have exciting opportunities available 
+            at the Millennium Court, and at our prototype homes (Ijele).
+          </h6>
         </div>
 
       </div>
