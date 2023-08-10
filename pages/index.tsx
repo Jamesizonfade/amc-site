@@ -164,7 +164,7 @@ const Home = () => {
                 >
                   {<iframe width="560" 
                   height="500" 
-                  src="https://www.youtube.com/embed/mHj-DRSPV6g"
+                  src="https://www.youtube.com/embed/pntUZFjoqpo"
                   title="AMC site video" 
                   frameBorder="0"
                   className="full-width shadow-primary" 
