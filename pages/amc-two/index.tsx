@@ -15,7 +15,7 @@ const AmcTwo = () =>{
         
         </div>
         <div className="container text-center">
-              <object data="/documents/amc2-brochure-new.pdf" type="application/pdf" width="100%" height="2100px">
+              <object data="/documents/amc-2-brochure-new.pdf" type="application/pdf" width="100%" height="950px">
               <embed src="https://drive.google.com/file/d/1m9K1MK248NT9Lo7NBLCUnRHFrjXhGhN2/preview?usp=sharing" width="100%" height="600px"/>
               </object>
 

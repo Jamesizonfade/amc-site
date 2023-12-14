@@ -7220,6 +7220,11 @@ width: auto;
   opacity: 1;
 }
 
+.popup-modal-image {
+	height: 384px;
+	width: 100%;
+}
+
 .popup-modal-button {
   border-radius: 5px;
   background-color: #D0AA63;
