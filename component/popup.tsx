@@ -25,12 +25,13 @@ const PopupVideo: React.FC<Props> = () => {
               display: "flex",
             },
 			content: {
-				marginTop: 'auto'
+				marginTop: 'auto',
+				paddingTop: 0
 			}
           }}
         >
           <div
-            style={{ backgroundColor: "black" }}
+            style={{ backgroundColor: "white" }}
             className="section-block section-sm border-bottom"
           >
             {/* <video width="100%" height="100%" controls preload='metadata' poster={'https://res.cloudinary.com/dgsdjrpjz/image/upload/v1674148923/amc-flythrough-thumbnail_hbgld6.png'} >
