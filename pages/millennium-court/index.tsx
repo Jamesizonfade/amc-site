@@ -24,7 +24,7 @@ const MillenniumCourt = () =>{
         </div>
           <div className="container text-center">
               <object data="/documents/millennium-court-bronchure.pdf" type="application/pdf" width="100%" height="2100px">
-              <embed src="https://drive.google.com/open?id=1DBAOcpWG8FpsEj-3uIMSOVJQplhTtJgG&usp=drive_fs" width="100%" height="600px"/>
+              <embed src="https://drive.google.com/file/d/1m9K1MK248NT9Lo7NBLCUnRHFrjXhGhN2/preview?usp=sharing" width="100%" height="600px"/>
               </object>
 
           <div className="millenium-court-button-container text-center">
