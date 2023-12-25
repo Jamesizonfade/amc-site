@@ -31,20 +31,21 @@ const PopupVideo: React.FC<Props> = () => {
           }}
         >
           <div
-            style={{ backgroundColor: "white" }}
+            style={{ backgroundColor: 'black', padding: 0 }}
             className="section-block section-sm border-bottom"
           >
-            {/* <video width="100%" height="100%" controls preload='metadata' poster={'https://res.cloudinary.com/dgsdjrpjz/image/upload/v1674148923/amc-flythrough-thumbnail_hbgld6.png'} >
-              <source src={'/videos/AMCJulyupdate.mp4'} type="video/mp4" />
+            <video width="100%" height="100%" controls preload='metadata' poster={'https://res.cloudinary.com/dgsdjrpjz/image/upload/v1674148923/amc-flythrough-thumbnail_hbgld6.png'} >
+              <source src={'/videos/AMCDecemberUpdate.mp4'} type="video/mp4" />
               alt=""
-              </video> */}
-            <Image
+              </video>
+            {/* <Image
               src="/img/AMC.jpg"
               alt=""
               height={600}
               width={800}
               className="w-full h-96"
-            />
+            /> */}
+			
             <div className="container text-center">
               <button
                 className="popup-modal-button"
